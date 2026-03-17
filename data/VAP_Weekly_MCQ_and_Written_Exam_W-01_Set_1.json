@@ -1,0 +1,992 @@
+[
+    {
+        "question_html": "<p><span class=\"bangla\">hw` </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>|</mo><mover><mi>A</mi><mo>→</mo></mover><mo>+</mo><mover><mi>B</mi><mo>→</mo></mover><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mover><mi>A</mi><mo>→</mo></mover><mo>−</mo><mover><mi>B</mi><mo>→</mo></mover><mo>|</mo></mrow></math></span> </span><span class=\"bangla\"> nq ZLb </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span> </span><span class=\"bangla\">Ges</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>→</mo></mover></math></span> </span><span> </span><span class=\"bangla\">Gi ga¨eZx© †KvY n‡e- </span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>π</mi><mn>2</mn></mfrac></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>π</mi><mn>4</mn></mfrac></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>π</mi><mn>3</mn></mfrac></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\">0</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>π</mi><mn>2</mn></mfrac></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>|</mo><mover><mi>A</mi><mo>→</mo></mover><mo>+</mo><mover><mi>B</mi><mo>→</mo></mover><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mover><mi>A</mi><mo>→</mo></mover><mo>−</mo><mover><mi>B</mi><mo>→</mo></mover><mo>|</mo></mrow><mtext> </mtext><mo stretchy=\"false\">⇒</mo><msqrt><msup><mrow><mi>A</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn><mi>A</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mtext> </mtext><mrow><mi>α</mi></mrow></msqrt></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msqrt><msup><mrow><mi>A</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>2</mn><mi>A</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mtext> </mtext><mrow><mi>α</mi></mrow></msqrt></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><msup><mrow><mi>A</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn><mi>A</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mtext> </mtext><mrow><mi>α</mi></mrow><mo>=</mo><msup><mrow><mi>A</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>B</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>2</mn><mi>A</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mtext> </mtext><mrow><mi>α</mi></mrow></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mn>4</mn><mi>A</mi><mi>B</mi><mi>c</mi><mi>o</mi><mi>s</mi><mtext> </mtext><mrow><mi>α</mi><mo>=</mo><mn>0</mn></mrow><mo stretchy=\"false\">⇒</mo><mi>c</mi><mi>o</mi><mi>s</mi><mtext> </mtext><mrow><mi>α</mi></mrow><mo>=</mo><mn>0</mn><mo>∴</mo><mi>α</mi><mo>=</mo><msup><mn>90</mn><mrow><mo>∘</mo></mrow></msup><mo>=</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover><mo>=</mo><mn>3</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><mn>2</mn><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>→</mo></mover><mo>=</mo><mn>2</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>−</mo><mn>2</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><mn>4</mn><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span class=\"bangla\">| Dfq †f±‡ii Dci Awfj¤^ †f±iwU n‡jv-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>−</mo><mn>8</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>−</mo><mn>8</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><mn>8</mn><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>−</mo><mn>8</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>−</mo><mn>8</mn><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>−</mo><mn>8</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><mn>8</mn><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><mn>8</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><mn>8</mn><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span class=\"bangla\"> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>−</mo><mn>8</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>−</mo><mn>8</mn><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover><mo>×</mo><mover><mi>B</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>|</mo><mtable columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow></mtd><mtd><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow></mtd><mtd><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></mtd></mtr><mtr><mtd><mn>3</mn></mtd><mtd><mn>1</mn></mtd><mtd><mn>2</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mo>−</mo><mn>2</mn></mtd><mtd><mn>4</mn></mtd></mtr></mtable><mo>|</mo></mrow></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mrow><mo>(</mo><mtext> </mtext><mn>4</mn><mo>+</mo><mn>4</mn><mo>)</mo></mrow><mo>−</mo><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mrow><mo>(</mo><mtext> </mtext><mn>12</mn><mo>−</mo><mn>4</mn><mo>)</mo></mrow><mo>+</mo><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow><mrow><mo>(</mo><mtext> </mtext><mo>−</mo><mn>6</mn><mo>−</mo><mn>2</mn><mo>)</mo></mrow><mo>=</mo><mn>8</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>−</mo><mn>8</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>−</mo><mn>8</mn><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†Kv‡bv ¯’v‡b evZvm </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mtext> </mtext><mi>k</mi><mi>m</mi><mrow><mo>/</mo></mrow><mi>h</mi></math></span> </span><span class=\"bangla\"> †e‡M cwðg w`‡Ki mv‡_ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mn>60</mn><mrow><mo>∘</mo></mrow></msup><mtext> </mtext></math></span> </span><span class=\"bangla\">†Kv‡Y `w¶Y w`‡K eB‡Q| evZv‡mi †e‡Mi `wÿYgyLx Dcvs‡ki gvb KZ? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><msqrt><mn>3</mn></msqrt></math></span> </span><span> </span><span class=\"english\">km/hr</span></p>",
+            "<p><span class=\"english\">10 </span><span class=\"english\">km/hr</span></p>",
+            "<p><span class=\"english\">12 </span><span class=\"english\">km/hr</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><msqrt><mn>3</mn></msqrt><mtext> </mtext></math></span> </span><span class=\"english\">km/hr</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><msqrt><mn>3</mn></msqrt></math></span> </span><span> </span><span class=\"english\">km/hr</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mi>s</mi><mi>i</mi><mi>n</mi><mtext> </mtext><mrow><msup><mn>60</mn><mrow><mo>∘</mo></mrow></msup><mo>=</mo><mn>10</mn><msqrt><mn>3</mn></msqrt><mi>k</mi><mi>m</mi><mrow><mo>/</mo></mrow><mi>h</mi><mi>r</mi></mrow></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">a</span><span class=\"bangla\"> Gi gvb KZ n‡j </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover><mo>=</mo><mn>2</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><mn>2</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>−</mo><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext> </mtext><mover><mi>B</mi><mo>→</mo></mover><mo>=</mo><mi>a</mi><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">†f±iØq ci¯úi j¤^ n‡e?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">0</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>7</mn><mn>4</mn></mfrac></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>−</mo><mn>1</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\">2</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>−</mo><mn>1</mn></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"bangla\">†f±iØq j¤^ n‡j Zv‡`i WU ¸Yb </span><span class=\"english\">0</span><span class=\"bangla\"> n‡e|</span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover><mo>⋅</mo><mover><mi>B</mi><mo>→</mo></mover><mo>=</mo><mn>0</mn><mo stretchy=\"false\">⇒</mo><mn>2</mn><mi>a</mi><mo>+</mo><mn>2</mn><mo>+</mo><mn>0</mn><mo>=</mo><mn>0</mn><mo stretchy=\"false\">⇒</mo><mi>a</mi><mo>=</mo><mo>−</mo><mn>1</mn></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†Kv‡bv †f±‡ii WvBfvi‡RÝ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo>)</mo></mrow><mtext> </mtext></math></span> </span><span class=\"bangla\">n‡j †f±iwU Kx?</span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><mi>y</mi><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><mi>z</mi><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><mi>z</mi><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mo>∇</mo></mrow><mo>→</mo></mover><mo>⋅</mo><mtext> </mtext><mrow><mo>(</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><msup><mrow><mi>z</mi></mrow><mrow><mn>2</mn></mrow></msup><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow><mo>)</mo></mrow><mo>=</mo><mn>2</mn><mo stretchy=\"false\">(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mi>z</mi><mo stretchy=\"false\">)</mo></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†f±i </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><mn>3</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span><span class=\"bangla\">A‡ÿi ga¨eZx© †KvY-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>t</mi><mi>a</mi><mi>n</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mtext> </mtext><mrow><mfrac><mn>3</mn><mn>2</mn></mfrac></mrow></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>t</mi><mi>a</mi><mi>n</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mtext> </mtext><mrow><mfrac><mn>2</mn><mn>3</mn></mfrac></mrow></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>π</mi><mn>2</mn></mfrac></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>π</mi><mn>2</mn></mfrac></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>(</mo><mn>2</mn><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><mn>3</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>)</mo></mrow><mo>.</mo><mtext> </mtext><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow><mo>=</mo><msqrt><mn>13</mn></msqrt><mtext> </mtext><mi>c</mi><mi>o</mi><mi>s</mi><mi>θ</mi><mtext> </mtext><mo>;</mo><mtext> </mtext></math></span> </span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>c</mi><mi>o</mi><mi>s</mi><mi>θ</mi><mo>=</mo><mn>0</mn><mtext> </mtext><mo>;</mo><mi>θ</mi><mo>=</mo><msup><mrow><mi>c</mi><mi>o</mi><mi>s</mi></mrow><mrow><mo>−</mo><mn>1</mn></mrow></msup><mtext> </mtext><mrow><mn>0</mn><mo>=</mo><mfrac><mi>π</mi><mn>2</mn></mfrac></mrow></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">`ywU e‡ji jwäi gvb </span><span class=\"english\">8 N</span><span class=\"bangla\">, ej `ywUi g‡a¨ †QvU ejwUi gvb </span><span class=\"english\">6 N </span><span class=\"bangla\">Ges GwU jwäe‡ji j¤^ eivei wµqv K‡i| eo ejwUi gvb KZ? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">0 N</span></p>",
+            "<p><span class=\"english\">5 N</span></p>",
+            "<p><span class=\"english\">10 N</span></p>",
+            "<p><span class=\"english\">6 N</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">10 N</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_b53930b0.png\"/></span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>Q</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mi>P</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>R</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mn>6</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mn>8</mn></mrow><mrow><mn>2</mn></mrow></msup></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mi>Q</mi><mo>=</mo><mtext> </mtext><msqrt><msup><mrow><mn>6</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mn>8</mn></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mn>10</mn><mtext> </mtext><mi>N</mi></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">hw`</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>P</mi><mo>→</mo></mover><mo>=</mo><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>−</mo><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span><span class=\"bangla\">Ges</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>Q</mi><mo>→</mo></mover><mo>=</mo><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mo>+</mo><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>−</mo><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span><span class=\"bangla\">GKwU mvgvšÍwi</span><span class=\"bangla\">‡</span><span class=\"bangla\">Ki `yBwU mwbœwnZ evû wb</span><span class=\"bangla\">‡</span><span class=\"bangla\">`©k K</span><span class=\"bangla\">‡</span><span class=\"bangla\">i, Zvn</span><span class=\"bangla\">‡</span><span class=\"bangla\">j mvgvšÍwi</span><span class=\"bangla\">‡</span><span class=\"bangla\">Ki </span><span class=\"bangla\">†</span><span class=\"bangla\">¶Îdj KZ?</span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msqrt><mn>2</mn></msqrt></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">eM© GKK</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">eM© GKK</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">eM© GKK</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>2</mn></msqrt></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">eM© GKK</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msqrt><mn>2</mn></msqrt></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">eM© GKK</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>P</mi><mo>→</mo></mover><mo>×</mo><mover><mi>Q</mi><mo>→</mo></mover><mo>=</mo><mrow><mo>|</mo><mtable columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow></mtd><mtd><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow></mtd><mtd><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mo>−</mo><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mn>1</mn></mtd><mtd><mo>−</mo><mn>1</mn></mtd></mtr></mtable><mo>|</mo></mrow></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mrow><mover><mi>i</mi><mo>^</mo></mover></mrow><mrow><mo>(</mo><mn>1</mn><mo>−</mo><mn>1</mn><mo>)</mo></mrow><mo>−</mo><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mrow><mo>(</mo><mo>−</mo><mn>1</mn><mo>−</mo><mn>1</mn><mo>)</mo></mrow><mo>+</mo><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>=</mo><mn>2</mn><mrow><mover><mi>j</mi><mo>^</mo></mover></mrow><mo>+</mo><mn>2</mn><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo></math></span> </span><span> </span><span class=\"bangla\">mvgvšÍwi‡Ki †ÿÎdj</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mrow><mo>|</mo><mover><mi>P</mi><mo>→</mo></mover><mo>×</mo><mover><mi>Q</mi><mo>→</mo></mover><mo>|</mo></mrow><mo>=</mo><msqrt><msup><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mn>2</mn></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mn>2</mn><msqrt><mn>2</mn></msqrt></math></span> </span><span> </span><span class=\"bangla\">eM© GKK|</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">`ywU †f±i </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> Gi gvb mgvb Ges Zviv ci¯ú‡ii g‡a¨ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>θ</mi></math></span> </span><span class=\"bangla\">  †KvY ˆZwi K‡i| jwäi gvb-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>θ</mi><mn>2</mn></mfrac></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>A</mi><mi>s</mi><mi>i</mi><mi>n</mi><mfrac><mi>θ</mi><mn>2</mn></mfrac></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>θ</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo>+</mo><mi>B</mi><mo>=</mo><mn>2</mn><mi>A</mi></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>θ</mi><mn>2</mn></mfrac></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>R</mi><mo>=</mo><msqrt><mn>2</mn><msup><mrow><mi>A</mi></mrow><mrow><mn>2</mn></mrow></msup><mo stretchy=\"false\">(</mo><mn>1</mn><mo>+</mo><mi>c</mi><mi>o</mi><mi>s</mi><mi>θ</mi><mo stretchy=\"false\">)</mo></msqrt><mo>=</mo><mn>2</mn><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mfrac><mi>θ</mi><mn>2</mn></mfrac></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover><mo>.</mo><mover><mi>B</mi><mo>→</mo></mover><mo>=</mo><mn>0</mn></math></span> </span><span class=\"bangla\"> n‡j †KvbwU mwVK?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span> </span><span class=\"bangla\">I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> mgvb gv‡bi †f±i</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span> </span><span class=\"bangla\">I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> GKB w`‡K wb‡`©wkZ</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span> </span><span class=\"bangla\">I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> ci¯ú‡ii mv‡_ j¤^</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span> </span><span class=\"bangla\">I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> wecixZ w`‡K wb‡`©wkZ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span> </span><span class=\"bangla\">I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> ci¯ú‡ii mv‡_ j¤^</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span> </span><span class=\"bangla\">I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>B</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> ci¯ú‡ii mv‡_ j¤^</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†Kv‡bv AšÍixKiY‡hvM¨ †f±i A‡cÿ‡Ki Kvj© n‡jv-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mo>∇</mo></mrow><mo>→</mo></mover><mo>×</mo><mover><mi>V</mi><mo>→</mo></mover></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mo>∇</mo></mrow><mo>→</mo></mover><mtext> </mtext><mi>V</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mo>∇</mo></mrow><mo>→</mo></mover><mo>.</mo><mover><mi>V</mi><mo>→</mo></mover></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>V</mi><mo>→</mo></mover><mo>.</mo><mover><mrow><mo>∇</mo></mrow><mo>→</mo></mover></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mo>∇</mo></mrow><mo>→</mo></mover><mo>×</mo><mover><mi>V</mi><mo>→</mo></mover></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mrow><mo>∇</mo></mrow><mo>→</mo></mover><mo>×</mo><mover><mi>V</mi><mo>→</mo></mover></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">GKwU †f±i </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> †K GKwU A‡ÿi mv‡c‡ÿ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>θ</mi></math></span> </span><span class=\"bangla\"> †KvY K‡i LvZvq AvuKv n‡q‡Q| wb‡Pi †KvbwU fzj?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math></span> </span><span class=\"bangla\"> Dcvsk, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>A</mi></mrow><mrow><mi>x</mi></mrow></msub><mo>=</mo><mi>A</mi><mi>c</mi><mi>o</mi><mi>s</mi><mi>θ</mi></math></span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi></math></span> </span><span class=\"bangla\"> Dcvsk, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>A</mi></mrow><mrow><mi>y</mi></mrow></msub><mo>=</mo><mi>A</mi><mi>s</mi><mi>i</mi><mi>n</mi><mi>θ</mi></math></span> </span></p>",
+            "<p><span class=\"bangla\">j¤^vsk¸‡jv ci¯úi mg‡Kv‡Y Ae¯’vb K‡i</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>A</mi></mrow><mrow><mi>x</mi></mrow></msub><mo>+</mo><msub><mrow><mi>A</mi></mrow><mrow><mi>y</mi></mrow></msub><mo>=</mo><mi>A</mi></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>A</mi></mrow><mrow><mi>x</mi></mrow></msub><mo>+</mo><msub><mrow><mi>A</mi></mrow><mrow><mi>y</mi></mrow></msub><mo>=</mo><mi>A</mi></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mover><mi>A</mi><mo>→</mo></mover></mrow><mrow><mi>x</mi></mrow></msub><mo>+</mo><msub><mrow><mover><mi>A</mi><mo>→</mo></mover></mrow><mrow><mi>y</mi></mrow></msub><mo>=</mo><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span> </span><span class=\"bangla\">n‡e|</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wb‡Pi †Kvb wPÎwU </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>R</mi><mo>→</mo></mover><mo>=</mo><mover><mi>P</mi><mo>→</mo></mover><mo>−</mo><mover><mi>Q</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> mgxKiYwU mwVKfv‡e Dc¯’vcb K‡i?</span></p>",
+        "options_html": [
+            "<p><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_48b42c30.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_fdbf3a80.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_d0f6faa7.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_5057683c.png\"/></span></p>"
+        ],
+        "correct_answer_html": "<p><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_d0f6faa7.png\"/></span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span> </span><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_ac822065.png\"/></span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover><mo>,</mo><mover><mi>B</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>C</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> GKB mgZ‡j Aew¯’Z n‡j </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover><mo>.</mo><mo stretchy=\"false\">(</mo><mover><mi>B</mi><mo>→</mo></mover><mo>×</mo><mover><mi>C</mi><mo>→</mo></mover><mo stretchy=\"false\">)</mo><mo>=</mo><mo>?</mo></math></span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>−</mo><mn>1</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mover><mi>k</mi><mo>^</mo></mover></mrow></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0</mn></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"bangla\">GKB mgZ‡j Aew¯’Z e‡j </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mover><mi>B</mi><mo>→</mo></mover><mo>×</mo><mover><mi>C</mi><mo>→</mo></mover><mo stretchy=\"false\">)</mo></math></span> </span><span class=\"bangla\"> †f±i </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover></math></span> </span><span class=\"bangla\"> Gi Dci j¤^ n‡e, ZvB </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mover><mi>A</mi><mo>→</mo></mover><mo>.</mo><mo stretchy=\"false\">(</mo><mover><mi>B</mi><mo>→</mo></mover><mo>×</mo><mover><mi>C</mi><mo>→</mo></mover><mo stretchy=\"false\">)</mo><mo>=</mo><mn>0</mn></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†f±i wefvR‡bi `„óvšÍ bq †KvbwU?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">PjšÍ Mvwo‡Z cošÍ e„wó</span></p>",
+            "<p><span class=\"bangla\">jb †ivjvi Pvjbv</span></p>",
+            "<p><span class=\"bangla\">¸Y Uvbv †bŠKvi MwZ</span></p>",
+            "<p><span class=\"bangla\">me¸‡jv</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">PjšÍ Mvwo‡Z cošÍ e„wó</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> PjšÍ Mvwo‡Z cošÍ e„wó</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi>m</mi><mi>L</mi><mtext> </mtext><mn>0.1</mn><mi>N</mi><mtext> </mtext><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">`ªe‡Y</span><span class=\"bangla\"> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mi>m</mi><mi>L</mi><mtext> </mtext><mn>0.05</mn><mi>M</mi><mtext> </mtext><mi>K</mi><mi>O</mi><mi>H</mi></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">`ªeY †hvM Ki‡j wgkÖYwU †Kvb cÖK…wZi n‡e?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">¶vixq</span><span class=\"bangla\"><span> </span></span></p>",
+            "<p><span class=\"bangla\">A¤øxq</span></p>",
+            "<p><span class=\"bangla\">Dfag©x</span></p>",
+            "<p><span class=\"bangla\">wbi‡c¶ </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">wbi‡c¶ </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>n</mi></mrow><mrow><mi>O</mi><msup><mrow><mi>H</mi></mrow><mrow><mo>−</mo></mrow></msup></mrow></msub><mo>=</mo><mn>20</mn><mo>×</mo><mn>0.05</mn><mi>m</mi><mtext> </mtext><mi>m</mi><mi>o</mi><mi>l</mi><mo>=</mo><mn>1</mn><mi>m</mi><mtext> </mtext><mi>m</mi><mi>o</mi><mi>l</mi><mtext> </mtext><mo>;</mo><mtext> </mtext></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>n</mi></mrow><mrow><msup><mrow><mi>H</mi></mrow><mrow><mo>+</mo></mrow></msup></mrow></msub><mo>=</mo><mn>10</mn><mo>×</mo><mn>0.1</mn><mo>=</mo><mn>1</mn><mi>m</mi><mtext> </mtext><mi>m</mi><mi>o</mi><mi>l</mi><mtext> </mtext></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi><mo>+</mo><mi>S</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub><mo stretchy=\"false\">→</mo><mn>2</mn><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi><mo>+</mo><mn>2</mn><mi>S</mi></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">wewµqvwUi †¶‡Î †KvbwU mZ¨?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi></math></span> </span><span class=\"bangla\"> RvwiZ nq</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">RvwiZ nq</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">RvwiZ nq</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>H</mi></mrow><mrow><mo>+</mo></mrow></msup></math></span> </span><span class=\"bangla\"> weRvwiZ nq</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi></math></span> </span><span class=\"bangla\"> RvwiZ nq</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>S</mi></mrow><mrow><mn>2</mn><mo>−</mo></mrow></msup></math></span> </span><span class=\"bangla\"> Gi RviY msL¨v †e‡o‡Q| A_©vr </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">Gi RviY N‡U‡Q|</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub><mi>m</mi><mi>L</mi><mtext> </mtext><mtext> </mtext><mn>2</mn><mi>M</mi><mtext> </mtext><mtext> </mtext><mi>H</mi><mi>C</mi><mi>l</mi></math></span> </span><span class=\"bangla\"> I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mn>3</mn></mfrac><mi>m</mi><mi>L</mi><mtext> </mtext><mtext> </mtext><mn>1</mn><mi>M</mi><mtext> </mtext><mtext> </mtext><msub><mrow><mi>H</mi><mi>N</mi><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math></span> </span><span class=\"bangla\"> `ªeY `ywU‡K GKÎ Ki‡j wgkÖ‡Y </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>H</mi></mrow><mrow><mo>+</mo></mrow></msup></math></span> </span><span class=\"bangla\"> Avq‡bi NbgvÎv-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">1.6 M</span></p>",
+            "<p><span class=\"english\">2.3 M</span></p>",
+            "<p><span class=\"english\">6.1 M</span></p>",
+            "<p><span class=\"english\">0.8 M</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">1.6 M</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>×</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mfrac><mrow><mn>2</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mn>3</mn></mfrac><mo>×</mo><mn>1</mn><mo>=</mo><mrow><mo>(</mo><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>+</mo><mfrac><mrow><mn>2</mn><msub><mrow><mi>V</mi></mrow><mrow><mn>1</mn></mrow></msub></mrow><mn>3</mn></mfrac><mo>)</mo></mrow><mi>s</mi></math></span> </span><span> </span></p><p><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mn>2</mn><mo>+</mo><mfrac><mn>2</mn><mn>3</mn></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>×</mo><mi>s</mi><mo stretchy=\"false\">⇒</mo><mfrac><mn>8</mn><mn>3</mn></mfrac><mo>=</mo><mfrac><mn>5</mn><mn>3</mn></mfrac><mo>×</mo><mi>s</mi><mo>∴</mo><mi>s</mi><mo>=</mo><mfrac><mn>8</mn><mn>5</mn></mfrac><mo>=</mo><mn>1.6</mn><mtext> </mtext><mi>M</mi></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">jNy </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span class=\"bangla\"> Gi Dcw¯’wZ‡Z </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.010</mn><mtext> </mtext><mi>M</mi><mtext> </mtext><mi>F</mi><mi>e</mi><mi>S</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span class=\"bangla\"> Gi </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>25</mn><mtext> </mtext><mi>m</mi><mi>L</mi></math></span> </span><span class=\"bangla\"> `ªeY‡K RvwiZ Ki‡Z </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mi>m</mi><mi>L</mi></math></span> </span><span class=\"bangla\"> AvqZ‡bi KZ NbgvÎvi </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><mi>M</mi><mi>n</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span class=\"bangla\"> `ªeY cÖ‡qvRb?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">0.003 M</span></p>",
+            "<p><span class=\"english\">0.01 M</span></p>",
+            "<p><span class=\"english\">0.05 M</span></p>",
+            "<p><span class=\"english\">0.02 M</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">0.01 M</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mrow><mo>(</mo><mi>e</mi><mi>V</mi><mi>S</mi><mo>)</mo></mrow></mrow><mrow><mi>F</mi><mi>e</mi><mi>S</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow></msub><mo>=</mo><msub><mrow><mrow><mo>(</mo><mi>e</mi><mi>V</mi><mi>S</mi><mo>)</mo></mrow></mrow><mrow><mi>K</mi><mi>M</mi><mi>n</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></mrow></msub></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mn>0.01</mn><mo>×</mo><mn>25</mn><mo>=</mo><mn>5</mn><mo>×</mo><mn>5</mn><mo>×</mo><mn>2</mn><mi>s</mi><mo>∴</mo><mi>s</mi><mo>=</mo><mn>0.01</mn><mi>M</mi></math></span> </span><span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">GKwU ¶vixq `ªe‡Y µgvMZ GwmW †hvM Kivi mgq †Kvb wb‡`©k‡Ki Dcw¯’wZ‡Z </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mi>H</mi><mtext> </mtext><mn>7.5</mn></math></span> </span><span class=\"bangla\"> G `ªeYwU njy` eY© aviY Ki‡e?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">wµmj †iW</span></p>",
+            "<p><span class=\"bangla\">_vBgj eøy</span></p>",
+            "<p><span class=\"bangla\">wjUgvm</span></p>",
+            "<p><span class=\"bangla\">wg_vBj A‡iÄ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">wµmj †iW</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> wµmj †iW</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>98</mn><mi mathvariant=\"normal\">%</mi></math></span> </span><span class=\"bangla\"> weï× </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span class=\"bangla\"> (Av‡cwÿK ¸iæZ¡ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>1.80</mn><mo>;</mo></math></span> </span><span class=\"bangla\"> AvYweK fi </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>98</mn></math></span> </span><span class=\"bangla\">) Gi †gvjvwiwU KZ?</span><span class=\"bangla\"> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>9.8</mn><mtext> </mtext><mi>M</mi></math></span> </span><span class=\"bangla\"> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>0.98</mn><mtext> </mtext><mi>M</mi></math></span> </span><span class=\"bangla\"> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1.0</mn><mtext> </mtext><mi>M</mi></math></span> </span><span class=\"bangla\"> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>18</mn><mtext> </mtext><mi>M</mi></math></span> </span><span class=\"bangla\"> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>18</mn><mtext> </mtext><mi>M</mi></math></span> </span><span class=\"bangla\"> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"bangla\">†h‡nZz Av‡cw¶K ¸iæZ¡ †`qv Av‡Q ZvB kZKiv cwigvY ej‡Z </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi mathvariant=\"normal\">%</mi><mrow><mo>(</mo><mfrac><mi>w</mi><mi>w</mi></mfrac><mo>)</mo></mrow></math></span> </span><span class=\"bangla\"> †evSv‡bv n‡q‡Q| </span></p><p><span class=\"bangla\">ZvB, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi><mo>=</mo><mfrac><mrow><mn>10</mn><mo>×</mo><mi>x</mi><mo>×</mo><mi>ρ</mi></mrow><mi>M</mi></mfrac><mo>=</mo><mfrac><mrow><mn>10</mn><mo>×</mo><mn>98</mn><mo>×</mo><mn>1.8</mn></mrow><mn>98</mn></mfrac><mo>=</mo><mn>18</mn><mi>M</mi></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wb‡Pi †KvbwU RviY-weRviY wewµqviƒ‡c MY¨ Kiv hvq?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mrow><mi>u</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>4</mn><mi>N</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mo stretchy=\"false\">→</mo><msup><mrow><mrow><mo>[</mo><mi>C</mi><mi>u</mi><msub><mrow><mrow><mo>(</mo><mi>N</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>)</mo></mrow></mrow><mrow><mn>4</mn></mrow></msub><mo>]</mo></mrow></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>+</mo><msup><mrow><mi>H</mi></mrow><mrow><mo>+</mo></mrow></msup><mo stretchy=\"false\">→</mo><mi>N</mi><msubsup><mrow><mi>H</mi></mrow><mrow><mn>4</mn></mrow><mrow><mo>+</mo></mrow></msubsup></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msup><mrow><mi>a</mi></mrow><mrow><mn>2</mn><mo>+</mo></mrow></msup><mo>+</mo><mn>2</mn><msup><mrow><mi>F</mi></mrow><mrow><mo>−</mo></mrow></msup><mo stretchy=\"false\">→</mo><mi>C</mi><mi>a</mi><msub><mrow><mi>F</mi></mrow><mrow><mn>2</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mi>O</mi><msup><mrow><mi>H</mi></mrow><mrow><mo>−</mo></mrow></msup><mo stretchy=\"false\">→</mo><mi>C</mi><msup><mrow><mi>l</mi></mrow><mrow><mo>−</mo></mrow></msup><mo>+</mo><mi>C</mi><mi>l</mi><msup><mrow><mi>O</mi></mrow><mrow><mo>−</mo></mrow></msup><mo>+</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mi>O</mi><msup><mrow><mi>H</mi></mrow><mrow><mo>−</mo></mrow></msup><mo stretchy=\"false\">→</mo><mi>C</mi><msup><mrow><mi>l</mi></mrow><mrow><mo>−</mo></mrow></msup><mo>+</mo><mi>C</mi><mi>l</mi><msup><mrow><mi>O</mi></mrow><mrow><mo>−</mo></mrow></msup><mo>+</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><mi>O</mi><msup><mrow><mi>H</mi></mrow><mrow><mo>−</mo></mrow></msup><mo stretchy=\"false\">→</mo><mi>C</mi><msup><mrow><mi>l</mi></mrow><mrow><mo>−</mo></mrow></msup><mo>+</mo><mi>C</mi><mi>l</mi><msup><mrow><mi>O</mi></mrow><mrow><mo>−</mo></mrow></msup><mo>+</mo><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">GKB ZvcgvÎv I Pv‡c KZ MÖvg </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi></math></span> </span><span class=\"bangla\"> Gi AvqZb </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>56.0</mn><mtext> </mtext><mi>g</mi><mtext> </mtext><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub></math></span> </span><span class=\"bangla\"> Gi AvqZ‡bi mgvb n‡e?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>56.0</mn><mtext> </mtext><mi>g</mi></math></span> </span><span class=\"bangla\"> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>68.0</mn><mtext> </mtext><mi>g</mi></math></span> </span><span class=\"bangla\"> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>28.0</mn><mtext> </mtext><mi>g</mi></math></span> </span><span class=\"bangla\"> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>34.0</mn><mtext> </mtext><mi>g</mi></math></span> </span><span class=\"bangla\"> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>68.0</mn><mtext> </mtext><mi>g</mi></math></span> </span><span class=\"bangla\"> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"bangla\">GKB ZvcgvÎv I Pv‡c mgvb AvqZ‡bi mKj M¨v‡m mgvb msL¨K AYy _v‡K| </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub></math></span> </span><span class=\"bangla\"> I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi></math></span> </span><span class=\"bangla\"> Gi AvqZb mgvb| ZvB G‡`i †gvj msL¨vI mgvb n‡e|</span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>56</mn><mi>g</mi><mtext> </mtext><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><mfrac><mn>56</mn><mn>28</mn></mfrac><mo>=</mo><mn>2</mn><mtext> </mtext><mi>m</mi><mi>o</mi><mi>l</mi><mi>e</mi><mtext> </mtext><msub><mrow><mi>N</mi></mrow><mrow><mn>2</mn></mrow></msub></math></span> </span><span class=\"bangla\"> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mn>2</mn><mtext> </mtext><mi>m</mi><mi>o</mi><mi>l</mi><mi>e</mi><mtext> </mtext><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi><mo>=</mo><mrow><mo>(</mo><mn>2</mn><mo>×</mo><mn>34</mn><mo>)</mo></mrow><mi>g</mi><mo>=</mo><mn>68</mn><mi>g</mi></math></span> </span><span class=\"bangla\"> </span></p><p></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>5</mn></mrow></msub></math></span> </span><span> </span><span class=\"bangla\">†hŠ‡M mvjdv‡ii cÖK…Z RviY msL¨v-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>5</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>4</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>6</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>2</mn></math></span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>6</mn></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mo>−</mo><mi>O</mi><mo>−</mo><msup><mrow><mrow><mrow><mover><mrow><munder><mi>S</mi><mtable columnalign=\"left\" columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><mo stretchy=\"false\">|</mo><mo stretchy=\"false\">|</mo></mtd></mtr><mtr><mtd><mi>O</mi></mtd></mtr></mtable></munder></mrow><mrow><mtable columnalign=\"left\" columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><mi>O</mi></mtd></mtr><mtr><mtd><mo stretchy=\"false\">|</mo><mo stretchy=\"false\">|</mo></mtd></mtr></mtable></mrow></mover></mrow></mrow></mrow><mrow><mo>+</mo><mn>6</mn></mrow></msup><mo>−</mo><mi>O</mi><mo>−</mo><mi>O</mi><mo>−</mo><mi>H</mi></math></span> </span><span> </span><span class=\"bangla\">g‡b ivL‡Z n‡e †h, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>S</mi></math></span> </span><span class=\"bangla\"> Gi m‡e©v”P RviY gvb </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo><mn>6</mn></math></span> </span><span class=\"bangla\">|</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wb‡Pi †KvbwU weRviK wn‡m‡e KvR Ki‡Z cv‡i?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><mi>M</mi><mi>n</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>K</mi><mi>C</mi><mi>l</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>S</mi><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>S</mi></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wb‡Pi †KvbwU †m‡KÛvwi ÷¨vÛvW© c`v_©?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>K</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>C</mi><msub><mrow><mi>r</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>7</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><msub><mrow><mi>a</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>C</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mi>a</mi><mi>O</mi><mi>H</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub><mn>.2</mn><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>O</mi></math></span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mi>a</mi><mi>O</mi><mi>H</mi></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mi>a</mi><mi>O</mi><mi>H</mi></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wb‡Pi †Kvb †hŠ‡M Kve©‡bi RviY msL¨v I †hvRbx mgvb?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>C</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>H</mi></mrow><mrow><mn>6</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>H</mi><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>3</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><msub><mrow><mi>H</mi></mrow><mrow><mn>2</mn></mrow></msub><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>2</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mi>C</mi><msub><mrow><mi>l</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">Rjxq `ªe‡Y </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mi>C</mi><mi>l</mi></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>N</mi><mi>a</mi><mi>O</mi><mi>H</mi></math></span> </span><span class=\"bangla\"> Gi cÖkgb wewµqvq cÖkgb we›`yi </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi><mi>H</mi></math></span> </span><span class=\"bangla\"> †KvbwU?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7.0</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8.8</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5.27</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3.21</mn></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7.0</mn></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7.0</mn></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wb‡Pi †Kvb Gwm‡Wi Zzj¨ msL¨v me©vwaK?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>H</mi><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>3</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>2</mn></mrow></msub></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>H</mi></mrow><mrow><mn>3</mn></mrow></msub><mi>P</mi><msub><mrow><mi>O</mi></mrow><mrow><mn>4</mn></mrow></msub></math></span> </span><span> </span><span class=\"bangla\">Gi Zzj¨ msL¨v </span><span class=\"english\">3</span><span class=\"bangla\">|</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">GKwU cvwbi AYyi fi KZ? </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">[</mo><msub><mrow><mi>N</mi></mrow><mrow><mi>A</mi></mrow></msub><mo>=</mo><mn>6</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>23</mn></mrow></msup><mo stretchy=\"false\">]</mo></math></span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>23</mn></mrow></msup><mi>g</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>23</mn></mrow></msup><mi>g</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>23</mn></mrow></msup><mi>g</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>1.5</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>23</mn></mrow></msup><mi>g</mi></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>23</mn></mrow></msup><mi>g</mi></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>6</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>23</mn></mrow></msup></math></span> </span><span> </span><span class=\"bangla\">wUi fi</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>18</mn><mi>g</mi></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mn>1</mn></math></span> </span><span> </span><span class=\"bangla\">wUi fi</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>18</mn><mrow><mn>6</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mn>23</mn></mrow></msup></mrow></mfrac><mi>g</mi><mo>=</mo><mn>3</mn><mo>×</mo><msup><mrow><mn>10</mn></mrow><mrow><mo>−</mo><mn>23</mn></mrow></msup><mi>g</mi></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mi>x</mi><mn>6</mn></mfrac><mo>+</mo><mfrac><mi>y</mi><mn>5</mn></mfrac><mo>=</mo><mn>1</mn></math></span> </span><span class=\"bangla\"> mij</span><span class=\"bangla\">‡</span><span class=\"bangla\">iLvwU A</span><span class=\"bangla\">¶Ø</span><span class=\"bangla\">‡</span><span class=\"bangla\">qi mv</span><span class=\"bangla\">‡</span><span class=\"bangla\">_ </span><span class=\"bangla\">†</span><span class=\"bangla\">h w</span><span class=\"bangla\">Î</span><span class=\"bangla\">fzR MVb K</span><span class=\"bangla\">‡</span><span class=\"bangla\">i Zvi </span><span class=\"bangla\">†</span><span class=\"bangla\">¶Î</span><span class=\"bangla\">dj KZ eM</span><span class=\"bangla\">©</span><span class=\"bangla\"> GKK?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">5</span></p>",
+            "<p><span class=\"english\">6</span></p>",
+            "<p><span class=\"english\">15</span></p>",
+            "<p><span class=\"english\">30</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">15</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_42556689.png\"/></span></p><p><span class=\"bangla\">w</span><span class=\"bangla\">Î</span><span class=\"bangla\">fzRwUi </span><span class=\"bangla\">†</span><span class=\"bangla\">¶Î</span><span class=\"bangla\">dj </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>×</mo><mn>6</mn><mo>×</mo><mn>5</mn><mo>=</mo><mn>15</mn></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">eM</span><span class=\"bangla\">©</span><span class=\"bangla\"> GKK</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†Kv‡bv e„‡Ëi mgvšÍivj `yBwU ¯úk©K </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>+</mo><mn>16</mn><mo>=</mo><mn>0</mn></math></span> </span><span class=\"bangla\"> I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mi>x</mi><mo>+</mo><mn>6</mn><mi>y</mi><mo>+</mo><mn>52</mn><mo>=</mo><mn>0</mn></math></span> </span><span class=\"bangla\"> n‡j e„‡Ëi e¨vmva© KZ</span><span> </span><span class=\"bangla\">GKK?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">2</span></p>",
+            "<p><span class=\"english\">4</span></p>",
+            "<p><span class=\"english\">1</span></p>",
+            "<p><span class=\"english\">3</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">1</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_34167d31.png\"/></span></p><p><span class=\"bangla\">¯úk©KØ‡qi ga¨eZx© `~iZ¡ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mn>2</mn><mi>R</mi></math></span> </span><span class=\"bangla\"> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mfrac><mrow><mo>|</mo><mn>26</mn><mo>−</mo><mn>16</mn><mo>|</mo></mrow><msqrt><msup><mrow><mn>4</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mn>3</mn></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mfrac><mo>=</mo><mn>2</mn><mi>R</mi><mo stretchy=\"false\">⇒</mo><mfrac><mn>10</mn><mn>5</mn></mfrac><mo>=</mo><mn>2</mn><mi>R</mi><mtext> </mtext><mo>∴</mo><mi>R</mi><mo>=</mo><mn>1</mn></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">GKK</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">(1, 2)</span><span class=\"bangla\"> we›`y n‡Z</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>8</mn><mi>x</mi><mo>+</mo><mn>15</mn><mi>y</mi><mo>−</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span><span class=\"bangla\">†iLvi j¤^ `~iZ¡ KZ GKK?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>3</mn><msqrt><mn>5</mn></msqrt></mfrac></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4.2</mn></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><mo>=</mo><mrow><mo>|</mo><mfrac><mrow><mn>8</mn><mo>+</mo><mn>30</mn><mo>−</mo><mn>4</mn></mrow><msqrt><msup><mrow><mn>8</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mn>15</mn></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mfrac><mo>|</mo></mrow><mo>=</mo><mfrac><mn>34</mn><mn>17</mn></mfrac><mo>=</mo><mn>2</mn></math></span> </span><span> </span><span class=\"bangla\">GKK</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>(</mo><mn>3</mn><msqrt><mn>3</mn></msqrt><mo>,</mo><mtext> </mtext><msup><mn>180</mn><mrow><mo>∘</mo></mrow></msup><mo>)</mo></mrow></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>(</mo><mn>4</mn><msqrt><mn>3</mn></msqrt><mo>,</mo><mtext> </mtext><msup><mn>0</mn><mrow><mo>∘</mo></mrow></msup><mo>)</mo></mrow></math></span> </span><span class=\"bangla\"> we›`yØ‡qi ga¨eZx© `~iZ¡ KZ GKK?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>3</mn></msqrt></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>36</mn></msqrt></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><msqrt><mn>3</mn></msqrt></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><mn>107</mn></msqrt></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><msqrt><mn>3</mn></msqrt></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>d</mi><mo>=</mo><mn>3</mn><msqrt><mn>3</mn></msqrt><mo>+</mo><mn>4</mn><msqrt><mn>3</mn></msqrt><mo>=</mo><mn>7</mn><msqrt><mn>3</mn></msqrt></math></span> </span><span> </span><span class=\"bangla\">GKK</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo stretchy=\"false\">(</mo><mn>2</mn><mo>,</mo><mn>5</mn><mo stretchy=\"false\">)</mo><mo>,</mo><mi>B</mi><mo stretchy=\"false\">(</mo><mn>5</mn><mo>,</mo><mn>9</mn><mo stretchy=\"false\">)</mo></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi><mo stretchy=\"false\">(</mo><mn>6</mn><mo>,</mo><mn>8</mn><mo stretchy=\"false\">)</mo></math></span> </span><span class=\"bangla\"> we›`yÎq </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mi>B</mi><mi>C</mi><mi>D</mi></math></span> </span><span class=\"bangla\"> i¤^‡mi wZbwU kxl©we›`y n‡j, PZz_© we›`y </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math></span> </span><span class=\"bangla\"> Gi ¯’vbv¼ †KvbwU?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mn>4</mn><mo>,</mo><mn>3</mn><mo stretchy=\"false\">)</mo></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mn>9</mn><mo>,</mo><mn>12</mn><mo stretchy=\"false\">)</mo></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mn>4</mn><mo>,</mo><mn>7</mn><mo stretchy=\"false\">)</mo></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mn>7</mn><mo>,</mo><mn>9</mn><mo stretchy=\"false\">)</mo></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mn>9</mn><mo>,</mo><mn>12</mn><mo stretchy=\"false\">)</mo></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"bangla\">G‡¶‡Î kxl© </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi></math></span> </span><span class=\"bangla\"> Gi ¯’vbv¼ †c‡Z </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi></math></span> </span><span class=\"bangla\"> I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>D</mi></math></span> </span><span class=\"bangla\"> Gi mswkøó ¯’vbv‡¼i mgwó †_‡K wecixZ kxl© </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi></math></span> </span><span class=\"bangla\"> Gi mswkøó ¯’vbv¼ we‡qvM Ki‡Z n‡e|</span></p><p><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_9faa9e8b.png\"/></span></p><p><span class=\"bangla\">awi, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mo>≡</mo><mrow><mo>(</mo><mi>x</mi><mo>,</mo><mi>y</mi><mo>)</mo></mrow><mo>;</mo></math></span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>=</mo><mn>6</mn><mo>+</mo><mn>5</mn><mo>−</mo><mn>2</mn><mo>=</mo><mn>9</mn><mo>;</mo></math></span> </span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>y</mi><mo>=</mo><mn>8</mn><mo>+</mo><mn>9</mn><mo>−</mo><mn>5</mn><mo>=</mo><mn>12</mn></math></span> </span><span> </span></p><p><span class=\"bangla\">A_©vr, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>C</mi><mo>≡</mo><mrow><mo>(</mo><mn>9</mn><mo>,</mo><mn>12</mn><mo>)</mo></mrow></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>−</mo><mn>12</mn><mo>=</mo><mn>0</mn></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>x</mi><mo>−</mo><mi>p</mi><mi>y</mi><mo>+</mo><mn>13</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span><span class=\"bangla\">mij</span><span class=\"bangla\">‡</span><span class=\"bangla\">iLv `yBwU ci</span><span class=\"bangla\">¯ú</span><span class=\"bangla\">i j</span><span class=\"bangla\">¤</span><span class=\"bangla\">^ n</span><span class=\"bangla\">‡</span><span class=\"bangla\">j </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math></span> </span><span class=\"bangla\"> Gi gvb n</span><span class=\"bangla\">‡</span><span class=\"bangla\">e-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>8</mn><mn>15</mn></mfrac></math></span> </span><span class=\"bangla\"> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>12</mn><mn>13</mn></mfrac></math></span> </span><span class=\"bangla\"> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>5</mn><mn>8</mn></mfrac></math></span> </span><span class=\"bangla\"> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>15</mn><mn>8</mn></mfrac></math></span> </span><span class=\"bangla\"> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>15</mn><mn>8</mn></mfrac></math></span> </span><span class=\"bangla\"> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mo>×</mo><mn>3</mn><mo>+</mo><mn>8</mn><mo>×</mo><mrow><mo>(</mo><mo>−</mo><mi>p</mi><mo>)</mo></mrow><mo>=</mo><mn>0</mn><mo stretchy=\"false\">⇒</mo><mn>15</mn><mo>=</mo><mn>8</mn><mi>p</mi><mo>∴</mo><mi>p</mi><mo>=</mo><mfrac><mn>15</mn><mn>8</mn></mfrac></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mrow><mo>(</mo><mn>1</mn><mo>+</mo><mi>s</mi><mi>i</mi><mi>n</mi><mtext> </mtext><mrow><mi>θ</mi></mrow><mo>)</mo></mrow><mo>=</mo><mn>2</mn></math></span> </span><span class=\"bangla\"> Gi Kv‡Z</span><span class=\"bangla\">©</span><span class=\"bangla\">mxq mgxKiY-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mi>x</mi><mo>−</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>4</mn><mi>x</mi><mo>=</mo><mn>4</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>4</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>4</mn><mi>x</mi><mo>=</mo><mn>4</mn></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>4</mn></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>r</mi><mo>+</mo><mi>r</mi><mi>s</mi><mi>i</mi><mi>n</mi><mtext> </mtext><mrow><mi>θ</mi></mrow><mo>=</mo><mn>2</mn><mo stretchy=\"false\">⇒</mo><msqrt><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mn>2</mn><mo>−</mo><mi>y</mi></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mo>−</mo><mn>4</mn><mi>y</mi><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>∴</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>4</mn><mi>y</mi><mo>=</mo><mn>4</mn></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn><mi>y</mi><mo>=</mo><mn>21</mn></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>a</mi><mi>x</mi><mo>−</mo><mn>3</mn><mi>b</mi><mi>y</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span><span class=\"bangla\">mgxKiYØq GKB mij</span><span class=\"bangla\">‡</span><span class=\"bangla\">iLv cÖKvk Ki</span><span class=\"bangla\">‡</span><span class=\"bangla\">j </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>b</mi></math></span> </span><span class=\"bangla\"> Gi gvb KZ?</span><span><span> </span></span><span><span> </span></span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mn>1</mn><mo>,</mo><mtext> </mtext><mi>b</mi><mo>=</mo><mn>2</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>7</mn></mfrac><mo>,</mo><mtext> </mtext><mi>b</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mn>0</mn><mo>,</mo><mtext> </mtext><mi>b</mi><mo>=</mo><mn>1</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mo>,</mo><mtext> </mtext><mi>b</mi><mo>=</mo><mn>4</mn></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>7</mn></mfrac><mo>,</mo><mtext> </mtext><mi>b</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>x</mi><mo>+</mo><mn>7</mn><mi>y</mi><mo>=</mo><mn>21</mn></math></span> </span><span> </span><span class=\"bangla\">Ges</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>a</mi><mi>x</mi><mo>−</mo><mn>3</mn><mi>b</mi><mi>y</mi><mo>+</mo><mn>6</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p><p><span class=\"bangla\">A_ev, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>a</mi><mi>x</mi><mo>−</mo><mn>3</mn><mi>b</mi><mi>y</mi><mo>=</mo><mo>−</mo><mn>6</mn></math></span> </span><span> </span><span class=\"bangla\">GKB mij</span><span class=\"bangla\">‡</span><span class=\"bangla\">iLv cÖKvk Ki</span><span class=\"bangla\">‡</span><span class=\"bangla\">j,</span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi>a</mi></mrow><mn>3</mn></mfrac><mo>=</mo><mfrac><mrow><mo>−</mo><mn>3</mn><mi>b</mi></mrow><mn>7</mn></mfrac><mo>=</mo><mfrac><mrow><mo>−</mo><mn>6</mn></mrow><mn>21</mn></mfrac><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>7</mn></mfrac></math></span> </span><span class=\"english\">;</span><span class=\"bangla\"> Zvn‡j, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mn>2</mn><mi>a</mi></mrow><mn>3</mn></mfrac><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>7</mn></mfrac><mo>∴</mo><mi>a</mi><mo>=</mo><mo>−</mo><mfrac><mn>3</mn><mn>7</mn></mfrac></math></span> </span></p><p><span class=\"bangla\">Avevi, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mrow><mo>−</mo><mn>3</mn><mi>b</mi></mrow><mn>7</mn></mfrac><mo>=</mo><mo>−</mo><mfrac><mn>2</mn><mn>7</mn></mfrac><mo>∴</mo><mi>b</mi><mo>=</mo><mfrac><mn>2</mn><mn>3</mn></mfrac></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>+</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span><span class=\"bangla\">†</span><span class=\"bangla\">iLvi mgvšÍivj Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mn>3</mn><mo>,</mo><mo>−</mo><mn>2</mn><mo stretchy=\"false\">)</mo></math></span> </span><span class=\"bangla\"> we</span><span class=\"bangla\">›</span><span class=\"bangla\">`yMvgx mij</span><span class=\"bangla\">‡</span><span class=\"bangla\">iLvi mgxKiY wb</span><span class=\"bangla\">‡</span><span class=\"bangla\">Pi </span><span class=\"bangla\">†</span><span class=\"bangla\">KvbwU?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>12</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>+</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><mi>x</mi><mo>−</mo><mn>2</mn><mi>y</mi><mo>−</mo><mn>13</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>2</mn><mo>×</mo><mn>3</mn><mo>+</mo><mn>3</mn><mo>×</mo><mo stretchy=\"false\">(</mo><mo>−</mo><mn>2</mn><mo stretchy=\"false\">)</mo><mo stretchy=\"false\">⇒</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>(</mo><mn>7</mn><mo>,</mo><mtext> </mtext><mn>7</mn><mo>)</mo></mrow></math></span> </span><span> </span><span class=\"bangla\">I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mo>−</mo><mn>5</mn><mo>,</mo><mtext> </mtext><mo>−</mo><mn>10</mn><mo stretchy=\"false\">)</mo></math></span> </span><span class=\"bangla\"> we</span><span class=\"bangla\">›</span><span class=\"bangla\">`yØ</span><span class=\"bangla\">‡</span><span class=\"bangla\">qi ms</span><span class=\"bangla\">‡</span><span class=\"bangla\">hvM </span><span class=\"bangla\">†</span><span class=\"bangla\">iLv</span><span class=\"bangla\">‡</span><span class=\"bangla\">K </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi></math></span> </span><span class=\"bangla\">-A¶wU Kx Abycv</span><span class=\"bangla\">‡</span><span class=\"bangla\">Z </span><span class=\"bangla\">†</span><span class=\"bangla\">Q` K</span><span class=\"bangla\">‡</span><span class=\"bangla\">i?</span><span><span> </span></span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">5:7</span></p>",
+            "<p><span class=\"english\">7:10</span></p>",
+            "<p><span class=\"english\">7:3</span></p>",
+            "<p><span class=\"english\">10:7</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">7:10</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>A</mi><mo stretchy=\"false\">(</mo><mn>7</mn><mo>,</mo><mtext> </mtext><mn>7</mn><mo stretchy=\"false\">)</mo></math></span> </span><span> </span><span class=\"bangla\">Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>B</mi><mo stretchy=\"false\">(</mo><mo>−</mo><mn>5</mn><mo>,</mo><mo>−</mo><mn>10</mn><mo stretchy=\"false\">)</mo></math></span> </span><span> </span><span class=\"bangla\">we</span><span class=\"bangla\">›</span><span class=\"bangla\">`yØ</span><span class=\"bangla\">‡</span><span class=\"bangla\">qi ms</span><span class=\"bangla\">‡</span><span class=\"bangla\">hvM </span><span class=\"bangla\">†</span><span class=\"bangla\">iLv</span><span class=\"bangla\">‡</span><span class=\"bangla\">K</span><span> </span><span class=\"english\">x-</span><span class=\"bangla\">Aÿ hw` </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>∶</mo><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">Abycv</span><span class=\"bangla\">‡</span><span class=\"bangla\">Z wef³ K‡i|</span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mfrac><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub></mfrac><mo>=</mo></math></span> </span><span> </span><span><img src=\"images/VAP_Weekly_MCQ_and_Written_Exam_W-01_Set_1_016e3a5b.png\"/></span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mrow><mo>|</mo><mfrac><mn>7</mn><mrow><mo>−</mo><mn>10</mn></mrow></mfrac><mo>|</mo></mrow><mo>=</mo><mrow><mo>|</mo><mo>−</mo><mfrac><mn>7</mn><mn>10</mn></mfrac><mo>|</mo></mrow></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo></math></span> </span><span class=\"bangla\"> AbycvZ</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>7</mn><mo>∶</mo><mn>10</mn></math></span> </span><span class=\"bangla\"> (AšÍwe©f³)</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">GKwU wÎfz‡Ri wZbwU kxl© we›`yi ¯’vbv¼ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>(</mo><mn>0</mn><mo>,</mo><mn>0</mn><mo>)</mo></mrow><mo>,</mo><mtext> </mtext></math></span> </span><span class=\"bangla\"> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mo>−</mo><mn>6</mn><mo>,</mo><mtext> </mtext><mn>5</mn><mo stretchy=\"false\">)</mo></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mo>−</mo><mn>2</mn><mo>,</mo><mo>−</mo><mn>1</mn><mo stretchy=\"false\">)</mo></math></span> </span><span class=\"bangla\"> n‡j, Zvi †ÿÎdj-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">8</span><span class=\"bangla\"> eM© GKK</span></p>",
+            "<p><span class=\"english\">18</span><span class=\"bangla\"> eM© GKK</span></p>",
+            "<p><span class=\"english\">21</span><span class=\"bangla\"> eM© GKK</span></p>",
+            "<p><span class=\"english\">24</span><span class=\"bangla\"> eM© GKK</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">8</span><span class=\"bangla\"> eM© GKK</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"bangla\">†ÿÎdj </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mrow><mo>|</mo><mtable columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>−</mo><mn>6</mn></mtd><mtd><mn>5</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>−</mo><mn>2</mn></mtd><mtd><mo>−</mo><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable><mo>|</mo></mrow><mo>=</mo><mn>8</mn></math></span> </span><span> </span><span class=\"bangla\">eM© GKK</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">g~jwe›`yMvgx Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>8</mn><mo>=</mo><mn>0</mn></math></span> </span><span class=\"bangla\"> I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mo>−</mo><mn>1</mn></math></span> </span><span class=\"bangla\"> Gi †Q`we›`yMvgx mij‡iLvi mgxKiY-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>x</mi><mo>+</mo><mn>5</mn><mi>y</mi><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn><mi>x</mi><mo>+</mo><mn>11</mn><mi>y</mi><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn><mi>x</mi><mo>+</mo><mn>22</mn><mi>y</mi><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>12</mn><mi>x</mi><mo>+</mo><mn>11</mn><mi>y</mi><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"bangla\">mij‡iLvi mgxKiY, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>8</mn><mo>+</mo><mi>k</mi><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mi>y</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>=</mo><mn>0</mn><mtext> </mtext><mo>;</mo><mtext> </mtext></math></span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mrow><mo>(</mo><mn>4</mn><mo>+</mo><mi>k</mi><mo>)</mo></mrow><mo>+</mo><mi>y</mi><mrow><mo>(</mo><mn>3</mn><mo>+</mo><mi>k</mi><mo>)</mo></mrow><mo>−</mo><mn>8</mn><mo>+</mo><mi>k</mi><mo>=</mo><mn>0</mn><mtext> </mtext><mo>;</mo><mtext> </mtext></math></span> </span><span class=\"bangla\"> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>−</mo><mn>8</mn><mo>+</mo><mi>k</mi><mo>=</mo><mn>0</mn><mo stretchy=\"false\">⇒</mo><mi>k</mi><mo>=</mo><mn>8</mn><mo>;</mo></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>4</mn><mi>x</mi><mo>+</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>8</mn><mo>+</mo><mn>8</mn><mi>x</mi><mo>+</mo><mn>8</mn><mi>y</mi><mo>+</mo><mn>8</mn><mo>=</mo><mn>0</mn><mo stretchy=\"false\">⇒</mo><mn>12</mn><mi>x</mi><mo>+</mo><mn>11</mn><mi>y</mi><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>(</mo><mn>2</mn><mo>,</mo><mtext> </mtext><mo>−</mo><mn>1</mn><mo>)</mo></mrow><mo>,</mo><mtext> </mtext><mrow><mo>(</mo><mi>a</mi><mo>+</mo><mn>1</mn><mo>,</mo><mtext> </mtext><mi>a</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow></math></span> </span><span class=\"bangla\"> I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>(</mo><mi>a</mi><mo>+</mo><mn>2</mn><mo>,</mo><mtext> </mtext><mi>a</mi><mo>)</mo></mrow><mtext> </mtext></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">we</span><span class=\"bangla\">›</span><span class=\"bangla\">`y wZbwU mg</span><span class=\"bangla\">‡</span><span class=\"bangla\">iL n</span><span class=\"bangla\">‡</span><span class=\"bangla\">j, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>a</mi></math></span> </span><span class=\"bangla\"> Gi gvb-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">4</span></p>",
+            "<p><span class=\"english\">2</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>4</mn></mfrac></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mfrac><mn>1</mn><mn>2</mn></mfrac></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>(</mo><mn>2</mn><mo>,</mo><mtext> </mtext><mo>−</mo><mn>1</mn><mo>)</mo></mrow><mo>,</mo><mtext> </mtext><mrow><mo>(</mo><mi>a</mi><mo>+</mo><mn>1</mn><mo>,</mo><mtext> </mtext><mi>a</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow></math></span> </span><span class=\"bangla\"> I </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>(</mo><mi>a</mi><mo>+</mo><mn>2</mn><mo>,</mo><mtext> </mtext><mi>a</mi><mo>)</mo></mrow></math></span> </span><span class=\"bangla\"> </span><span class=\"bangla\">we</span><span class=\"bangla\">›</span><span class=\"bangla\">`yÎq mg</span><span class=\"bangla\">‡</span><span class=\"bangla\">iL| </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mfrac><mrow><mrow><mo>(</mo><mi>a</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>−</mo><mn>2</mn></mrow><mrow><mrow><mo>(</mo><mi>a</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow></mfrac><mo>=</mo><mfrac><mrow><mrow><mo>(</mo><mi>a</mi><mo>+</mo><mn>2</mn><mo>)</mo></mrow><mo>−</mo><mrow><mo>(</mo><mi>a</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mrow><mrow><mi>a</mi><mo>−</mo><mrow><mo>(</mo><mi>a</mi><mo>−</mo><mn>3</mn><mo>)</mo></mrow></mrow></mfrac></math></span> </span><span class=\"bangla\"> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mfrac><mrow><mi>a</mi><mo>−</mo><mn>1</mn></mrow><mrow><mi>a</mi><mo>−</mo><mn>2</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>3</mn></mfrac><mo stretchy=\"false\">⇒</mo><mn>3</mn><mi>a</mi><mo>−</mo><mn>3</mn><mo>=</mo><mi>a</mi><mo>−</mo><mn>2</mn></math></span> </span><span class=\"bangla\"> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mn>2</mn><mi>a</mi><mo>=</mo><mn>1</mn><mo stretchy=\"false\">⇒</mo><mi>a</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac></math></span> </span><span> </span></p><p><span class=\"bangla\">weKí: </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow><mo>|</mo><mtable columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><mn>2</mn></mtd><mtd><mo>−</mo><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mi>a</mi><mo>+</mo><mn>1</mn></mtd><mtd><mi>a</mi><mo>−</mo><mn>3</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mi>a</mi><mo>+</mo><mn>2</mn></mtd><mtd><mi>a</mi></mtd><mtd><mn>1</mn></mtd></mtr></mtable><mo>|</mo></mrow><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mrow><mo>|</mo><mtable columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><mn>3</mn></mtd><mtd><mo>−</mo><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>4</mn></mtd><mtd><mi>a</mi><mo>−</mo><mn>3</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>2</mn></mtd><mtd><mi>a</mi></mtd><mtd><mn>1</mn></mtd></mtr></mtable><mo>|</mo></mrow><mo stretchy=\"false\">[</mo><msubsup><mrow><mi>c</mi></mrow><mrow><mn>1</mn></mrow><mrow><mrow><msup><mi></mi><mo data-mjx-alternate=\"1\">′</mo></msup></mrow></mrow></msubsup><mo>=</mo><msub><mrow><mi>c</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>−</mo><msub><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msub><mo stretchy=\"false\">]</mo><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mrow><mo>|</mo><mtable columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><mn>0</mn></mtd><mtd><mn>0</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mi>a</mi><mo>−</mo><mn>2</mn></mtd><mtd><mn>1</mn></mtd></mtr><mtr><mtd><mo>−</mo><mn>1</mn></mtd><mtd><mi>a</mi><mo>+</mo><mn>1</mn></mtd><mtd><mn>1</mn></mtd></mtr></mtable><mo>|</mo></mrow><mrow><mo>[</mo><mtable columnspacing=\"1em\" rowspacing=\"4pt\"><mtr><mtd><msubsup><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow><mrow><mrow><msup><mi></mi><mo data-mjx-alternate=\"1\">′</mo></msup></mrow></mrow></msubsup><mo>=</mo><msub><mrow><mi>c</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>+</mo><msub><mrow><mi>c</mi></mrow><mrow><mn>3</mn></mrow></msub></mtd></mtr><mtr><mtd><msubsup><mrow><mi>c</mi></mrow><mrow><mn>1</mn></mrow><mrow><mrow><msup><mi></mi><mo data-mjx-alternate=\"1\">′</mo></msup></mrow></mrow></msubsup><mo>=</mo><msub><mrow><mi>c</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>−</mo><mn>3</mn><msub><mrow><mi>c</mi></mrow><mrow><mn>3</mn></mrow></msub></mtd></mtr></mtable><mo>]</mo></mrow><mo>=</mo><mi>a</mi><mo>+</mo><mn>1</mn><mo>+</mo><mi>a</mi><mo>−</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><mn>2</mn><mi>a</mi><mo>−</mo><mn>1</mn><mo>=</mo><mn>0</mn><mo stretchy=\"false\">⇒</mo><mi>a</mi><mo>=</mo><mtext> </mtext><mfrac><mn>1</mn><mn>2</mn></mfrac></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">(</mo><mn>1</mn><mo>,</mo><mn>0</mn><mo stretchy=\"false\">)</mo></math></span> </span><span class=\"bangla\"> we›`y Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>x</mi><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math></span> </span><span class=\"bangla\"> mij‡iLv †_‡K mg`~ieZ©x we›`ymg~‡ni †mU †h mÂvic_ MVb K‡i Zvi mgxKiY n‡e-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn><mi>y</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>x</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>y</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>2</mn><mi>x</mi></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>x</mi></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"bangla\">kZ©g‡Z †jLv hvq, </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msqrt><msup><mrow><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mrow><mo>(</mo><mi>y</mi><mo>−</mo><mn>0</mn><mo>)</mo></mrow></mrow><mrow><mn>2</mn></mrow></msup></msqrt><mo>=</mo><mrow><mo>|</mo><mfrac><mrow><mi>x</mi><mo>+</mo><mn>1</mn></mrow><msqrt><msup><mrow><mn>1</mn></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mn>0</mn></mrow><mrow><mn>2</mn></mrow></msup></msqrt></mfrac><mo>|</mo></mrow></math></span> </span><a></a></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><msup><mrow><mrow><mo>(</mo><mi>x</mi><mo>−</mo><mn>1</mn><mo>)</mo></mrow></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><msup><mrow><mrow><mo>(</mo><mi>x</mi><mo>+</mo><mn>1</mn><mo>)</mo></mrow></mrow><mrow><mn>2</mn></mrow></msup></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo stretchy=\"false\">⇒</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>−</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo>=</mo><msup><mrow><mi>x</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>+</mo><mn>2</mn><mi>x</mi><mo>+</mo><mn>1</mn><mo stretchy=\"false\">⇒</mo><msup><mrow><mi>y</mi></mrow><mrow><mn>2</mn></mrow></msup><mo>=</mo><mn>4</mn><mi>x</mi></math></span> </span><span class=\"bangla\"> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>5</mn><mi>x</mi><mo>−</mo><mn>5</mn><msqrt><mn>3</mn></msqrt><mi>y</mi><mo>+</mo><mn>2</mn><mo>=</mo><mn>0</mn></math></span> </span><span class=\"bangla\"> Ges </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>3</mn><msqrt><mn>3</mn></msqrt><mi>x</mi><mo>−</mo><mn>3</mn><mi>y</mi><mo>−</mo><mn>4</mn><mo>=</mo><mn>0</mn></math></span> </span><span> </span><span class=\"bangla\">†</span><span class=\"bangla\">iLvØ</span><span class=\"bangla\">‡</span><span class=\"bangla\">qi ga¨eZ©x m~²‡KvY KZ?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>90</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>60</mn></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>45</mn></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>m</mi></mrow><mrow><mn>1</mn></mrow></msub><mo>=</mo><mfrac><mn>1</mn><msqrt><mn>3</mn></msqrt></mfrac><mo>,</mo><mtext> </mtext><msub><mrow><mi>m</mi></mrow><mrow><mn>2</mn></mrow></msub><mo>=</mo><msqrt><mn>3</mn></msqrt><mtext> </mtext><mo>;</mo></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>t</mi><mi>a</mi><mi>n</mi><mi>θ</mi><mo>=</mo><mo>±</mo><mfrac><mrow><msqrt><mn>3</mn></msqrt><mo>−</mo><mfrac><mn>1</mn><msqrt><mn>3</mn></msqrt></mfrac></mrow><mrow><mn>1</mn><mo>+</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mo>±</mo><mfrac><mfrac><mn>2</mn><msqrt><mn>3</mn></msqrt></mfrac><mn>2</mn></mfrac><mo>=</mo><mo>±</mo><mfrac><mn>1</mn><msqrt><mn>3</mn></msqrt></mfrac><mo>∴</mo><mi>θ</mi><mo>=</mo><msup><mn>30</mn><mrow><mo>∘</mo></mrow></msup></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†Kvb cixÿvi gva¨‡g ürwc‡Ði †cwki Ae¯’v Rvbv hvq?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">ey‡Ki </span><span class=\"english\">X-ray</span></p>",
+            "<p><span class=\"english\">ECG</span></p>",
+            "<p><span class=\"english\">ETT</span></p>",
+            "<p><span class=\"english\">MRI</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">MRI</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> MRI</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">i³msenb m¤ú‡K© me©cÖ_g aviYv w`‡q‡Qb †K?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">DBwjqvg nv‡f©</span></p>",
+            "<p><span class=\"bangla\">R¨vKzBm wgjvi</span></p>",
+            "<p><span class=\"bangla\">wj‡bb</span></p>",
+            "<p><span class=\"bangla\">Kvj G‡iwK</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">DBwjqvg nv‡f©</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> DBwjqvg nv‡f©</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†KvbwU </span><span class=\"english\">Vit-K</span><span class=\"bangla\"> Gi Dcw¯’wZ‡Z hK…‡Z ms‡køwlZ nq?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">d¨v±i-</span><span class=\"english\">I</span></p>",
+            "<p><span class=\"bangla\">d¨v±i-</span><span class=\"english\">II</span></p>",
+            "<p><span class=\"bangla\">d¨v±i-</span><span class=\"english\">III</span></p>",
+            "<p><span class=\"bangla\">d¨v±i-</span><span class=\"english\">IV</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">d¨v±i-</span><span class=\"english\">II</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> d¨v±i-</span><span class=\"english\">II</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">jwmKv‡Z wjwcW Kxiƒ‡c _v‡K?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">KvB‡jvgvBµb</span></p>",
+            "<p><span class=\"bangla\">gvB‡mwj</span></p>",
+            "<p><span class=\"bangla\">Pwe©</span></p>",
+            "<p><span class=\"bangla\">Iqv·</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">KvB‡jvgvBµb</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> KvB‡jvgvBµb</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">ürwc‡Ði †Kvb ¯Í‡i wewÿßfv‡e Pwe© †j‡M _v‡K?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Epicardium</span></p>",
+            "<p><span class=\"english\">Myocardium</span></p>",
+            "<p><span class=\"english\">Endocardium</span></p>",
+            "<p><span class=\"english\">Pericardium</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Epicardium</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Epicardium</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">K‡ivbvwi mvBbvm I Wvb A¨vwUªqv‡gi ms‡hvM¯’‡j †Kvb KcvwUKv _v‡K?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">BD‡÷wkqvb KcvwUKv</span></p>",
+            "<p><span class=\"bangla\">w_‡ewmqvb KcvwUKv</span></p>",
+            "<p><span class=\"bangla\">gvBUªvj KcvwUKv</span></p>",
+            "<p><span class=\"bangla\">UªvBKvmwcW KcvwUKv</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">w_‡ewmqvb KcvwUKv</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> w_‡ewmqvb KcvwUKv</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">SA </span><span class=\"bangla\">†bvW</span><span> </span><span class=\"bangla\">†_‡K</span><span class=\"english\"> AV </span><span class=\"bangla\">†bv‡W DÏxcbv cwien‡Y KZ mgq jv‡M?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">0.01 sec</span></p>",
+            "<p><span class=\"english\">0.03 sec</span></p>",
+            "<p><span class=\"english\">0.05 sec</span></p>",
+            "<p><span class=\"english\">0.09 sec</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">0.03 sec</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> 0.03 sec</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wUmy¨ †_‡K wUmy¨i‡mi KZ kZvsk jwmKvi gva¨‡g wb®‹vwkZ nq?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi mathvariant=\"normal\">%</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>20</mn><mi mathvariant=\"normal\">%</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>30</mn><mi mathvariant=\"normal\">%</mi></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>50</mn><mi mathvariant=\"normal\">%</mi></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi mathvariant=\"normal\">%</mi></math></span> </span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>10</mn><mi mathvariant=\"normal\">%</mi></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">¶z`ªZg i³KwYKv †KvbwU?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">AYyPwµKv</span></p>",
+            "<p><span class=\"bangla\">†jvwnZ i³KwYKv</span></p>",
+            "<p><span class=\"bangla\">†k¦Z i³KwYKv</span></p>",
+            "<p><span class=\"bangla\">g‡bvmvBU</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">AYyPwµKv</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> AYyPwµKv</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wb‡Pi †KvbwU dzmdz‡m i³ mÂvwjZ K‡i? </span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">Wvb A¨vwUªqvg</span></p>",
+            "<p><span class=\"bangla\">evg A¨vwUªqvg</span></p>",
+            "<p><span class=\"bangla\">Wvb †fw›UªKj</span></p>",
+            "<p><span class=\"bangla\">evg †fw›UªKj</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">Wvb †fw›UªKj</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> Wvb †fw›UªKj</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wm‡÷wgK msen‡b i³ cÖev‡ni MwZc_-</span><span class=\"bangla\"> </span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">evg wbjq </span><span class=\"bangla\">→</span><span class=\"bangla\"> </span><span class=\"bangla\">A¨</span><span class=\"bangla\">vIU©v </span><span class=\"bangla\">→</span><span class=\"bangla\"> Kjv I </span><span class=\"bangla\">A½</span></p>",
+            "<p><span class=\"bangla\">Wvb wbjq </span><span class=\"bangla\">→</span><span class=\"bangla\"> dzmdzm </span><span class=\"bangla\">→</span><span class=\"bangla\"> </span><span class=\"bangla\">A¨</span><span class=\"bangla\">vjwfIjvm</span></p>",
+            "<p><span class=\"bangla\">evg wbjq </span><span class=\"bangla\">→</span><span class=\"bangla\"> </span><span class=\"bangla\">K‡</span><span class=\"bangla\">ivbvwi agwb </span><span class=\"bangla\">→</span><span class=\"bangla\"> ü</span><span class=\"bangla\">r‡c</span><span class=\"bangla\">wk</span></p>",
+            "<p><span class=\"bangla\">dzmdzm </span><span class=\"bangla\">→</span><span class=\"bangla\"> wkiv </span><span class=\"bangla\">→</span><span class=\"bangla\"> evg wbjq</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">evg wbjq </span><span class=\"bangla\">→</span><span class=\"bangla\"> </span><span class=\"bangla\">A¨</span><span class=\"bangla\">vIU©v </span><span class=\"bangla\">→</span><span class=\"bangla\"> Kjv I </span><span class=\"bangla\">A½</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> evg wbjq </span><span class=\"bangla\">→</span><span class=\"bangla\"> </span><span class=\"bangla\">A¨</span><span class=\"bangla\">vIU©v </span><span class=\"bangla\">→</span><span class=\"bangla\"> Kjv I </span><span class=\"bangla\">A½</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†jvwnZ i³KwYKvi DrcwË¯’j bq- </span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">Aw¯’g¾v</span></p>",
+            "<p><span class=\"bangla\">ürwcÐ</span></p>",
+            "<p><span class=\"bangla\">hK…Z</span></p>",
+            "<p><span class=\"bangla\">cøxnv</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">ürwcÐ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> ürwcÐ</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">i³ RgvU evuavi †ÿ‡Î †Kvb d¨v±iwU †ncvwib‡K A‡K‡Rv K‡i †`q?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">_ªw¤^b</span></p>",
+            "<p><span class=\"bangla\">_ª‡¤^vcøvw÷b</span></p>",
+            "<p><span class=\"bangla\">dvBweª‡bv‡Rb</span></p>",
+            "<p><span class=\"bangla\">K¨vjwmqvg Avqb</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">_ª‡¤^vcøvw÷b</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> _ª‡¤^vcøvw÷b</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wb‡Pi †KvbwU‡K Ô†jvwnZ i³KwYKvi Kei¯’vbÕ ejv nq?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">hK…Z</span></p>",
+            "<p><span class=\"bangla\">AMœ¨vkq</span></p>",
+            "<p><span class=\"bangla\">cøxnv</span></p>",
+            "<p><span class=\"bangla\">_vBgvm</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">cøxnv</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> cøxnv</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">wb‡Pi †KvbwU nvU© A¨vUv‡Ki cÖKvi‡f` bq? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">STEMI</span></p>",
+            "<p><span class=\"english\">NSTEMI</span></p>",
+            "<p><span class=\"bangla\">wbie nvU© A¨vUvK</span></p>",
+            "<p><span class=\"english\">TI</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">TI</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> TI</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">g‡bi g‡a¨ †Pv‡Li R‡ji b¨vq ïå avivwU Kx‡mi iƒc a‡i Abycg‡K Kj¨vYxi K_v e‡j hvq?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">gq~icÿxi</span></p>",
+            "<p><span class=\"bangla\">cÖRvcwZi</span></p>",
+            "<p><span class=\"bangla\">KeyZ‡ii</span></p>",
+            "<p><span class=\"bangla\">ivRns‡mi</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">ivRns‡mi</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> ivRns‡mi</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">Abyc‡gi eÜz nwik †Kv_vq KvR K‡i?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">KjKvZvq</span></p>",
+            "<p><span class=\"bangla\">Kvbcy‡i</span></p>",
+            "<p><span class=\"bangla\">cwð‡g </span></p>",
+            "<p><span class=\"bangla\">†KvbœM‡i</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">Kvbcy‡i</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> Kvbcy‡i</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">Abyc‡gi evev †ckvq Kx wQ‡jb?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">Wv³vi</span></p>",
+            "<p><span class=\"bangla\">e¨emvqx</span></p>",
+            "<p><span class=\"bangla\">wkÿK </span></p>",
+            "<p><span class=\"bangla\">DwKj</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">DwKj</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> DwKj</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">ÒVvÆvi m¤úK©Uv‡K ¯’vqx Kwievi B”Qv Avgvi bvB|Ó-ÔAcwiwPZvÕ M‡í Dw³wU Kvi?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">gvgvi</span></p>",
+            "<p><span class=\"bangla\">Abyc‡gi </span></p>",
+            "<p><span class=\"bangla\">weby`vi</span></p>",
+            "<p><span class=\"bangla\">k¤¢ybv‡_i </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">k¤¢ybv‡_i </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> k¤¢ybv‡_i</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">ÔAPjvqZbÕ †Kvb ai‡bi iPbv?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">Dcb¨vm</span></p>",
+            "<p><span class=\"bangla\">Kve¨MÖš’</span></p>",
+            "<p><span class=\"bangla\">Mí</span></p>",
+            "<p><span class=\"bangla\">bvUK</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">bvUK</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> bvUK</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">ÔAcwiwPZvÕ M‡í Abyc‡gi gvgv‡K fvM¨ †`eZvi cÖavb G‡R›U ejv nq †Kb?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">cÖwZcwËi Rb¨</span></p>",
+            "<p><span class=\"bangla\">¯^v_© m‡PZbZvi Rb¨</span></p>",
+            "<p><span class=\"bangla\">cÖfv‡ei Rb¨</span></p>",
+            "<p><span class=\"bangla\">K‚U eyw×i Rb¨</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">cÖfv‡ei Rb¨</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> cÖfv‡ei Rb¨</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†Kvb mgq‡K evsjv mvwn‡Z¨i ÔAÜKvi hyMÕ ejv nq?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">1201-1350 wLª.</span></p>",
+            "<p><span class=\"bangla\">600-950 wLª.</span></p>",
+            "<p><span class=\"bangla\">1351-1500 wLª.</span></p>",
+            "<p><span class=\"bangla\">600-750 wLª.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">1201-1350 wLª.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> 1201-1350 wLª.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">ÔPh©vc`Õ cÖ_g †Kv_v †_‡K cÖKvwkZ nq?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">kÖxivgcyi wgkb</span></p>",
+            "<p><span class=\"bangla\">GwkqvwUK †mvmvBwU </span></p>",
+            "<p><span class=\"bangla\">†dvU© DBwjqvg K‡jR</span></p>",
+            "<p><span class=\"bangla\">e½xq mvwnZ¨ cwil`</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">e½xq mvwnZ¨ cwil`</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> e½xq mvwnZ¨ cwil`</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">ÔPh©vc‡`Õi fvlv †KvbwU?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">wnw›`</span></p>",
+            "<p><span class=\"bangla\">ˆgw_wj</span></p>",
+            "<p><span class=\"bangla\">cÖvPxb evsjv </span></p>",
+            "<p><span class=\"bangla\">cÖvPxb ms¯‹…Z</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">cÖvPxb evsjv </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> cÖvPxb evsjv</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">ÔBDmyd-†Rv‡jLvÕ Kvi iPbv?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">AvjvI‡ji </span></p>",
+            "<p><span class=\"bangla\">weRq Kzgv‡ii</span></p>",
+            "<p><span class=\"bangla\">gxi gkviid †nv‡m‡bi</span></p>",
+            "<p><span class=\"bangla\">kvn gyn¤§` mMx‡ii</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">kvn gyn¤§` mMx‡ii</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> kvn gyn¤§` mMx‡ii</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">ÔPh©¨vPh©¨wewbðqÕ- Gi A_© Kx?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">†KvbwU AvPv‡h©i, Avi †KvbwU bq</span></p>",
+            "<p><span class=\"bangla\">†KvbwU AvPiYxq, Avi †KvbwU bq </span></p>",
+            "<p><span class=\"bangla\">†KvbwU PivP‡ii, Avi †KvbwU bq</span></p>",
+            "<p><span class=\"bangla\">†KvbwU Ph©vMvb, Avi †KvbwU bq</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">†KvbwU AvPiYxq, Avi †KvbwU bq </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> †KvbwU AvPiYxq, Avi †KvbwU bq</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘A Grammar of the Bengali Language’ </span><span class=\"bangla\">eBwU iPbv K‡ib †K?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">ivRv ivg‡gvnb ivq</span></p>",
+            "<p><span class=\"bangla\">b¨v_vwb‡qj eª¨vwm n¨vj‡nW</span></p>",
+            "<p><span class=\"bangla\">gvby‡qj `v Avm&amp;&amp;my¤úvmvuI</span></p>",
+            "<p><span class=\"bangla\">iv‡g›`ªmy›`i wÎ‡e`x</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">b¨v_vwb‡qj eª¨vwm n¨vj‡nW</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> b¨v_vwb‡qj eª¨vwm n¨vj‡nW</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">†Kvb e¨w³ evsjv mvwn‡Z¨ ÔwK‡kvi KweÕ bv‡g cwiwPZ?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">m‡Z¨›`ªbv_ `Ë</span></p>",
+            "<p><span class=\"bangla\">Ave`yj Kvw`i</span></p>",
+            "<p><span class=\"bangla\">weòz †`</span></p>",
+            "<p><span class=\"bangla\">myKvšÍ fÆvPvh©</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">myKvšÍ fÆvPvh©</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> myKvšÍ fÆvPvh©</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">ÔmgvmÕ e¨vKi‡Yi †Kvb As‡ki Av‡jvP¨ welq?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">aŸwbZ‡Ë¡i </span></p>",
+            "<p><span class=\"bangla\">evK¨Z‡Ë¡i</span></p>",
+            "<p><span class=\"bangla\">kãZ‡Ë¡i</span></p>",
+            "<p><span class=\"bangla\">AwfavbZ‡Ë¡i</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">kãZ‡Ë¡i</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> kãZ‡Ë¡i</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"bangla\">iƒcZ‡Ë¡i Aci bvg Kx?</span></p>",
+        "options_html": [
+            "<p><span class=\"bangla\">evK¨ZË¡</span></p>",
+            "<p><span class=\"bangla\">kãZË¡</span></p>",
+            "<p><span class=\"bangla\">aŸwbZË¡</span></p>",
+            "<p><span class=\"bangla\">A_©ZË¡</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"bangla\">kãZË¡</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"bangla\"> kãZË¡</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘Beauty is truth.’- Here “Beauty” is –––– noun.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Common</span></p>",
+            "<p><span class=\"english\">Proper</span></p>",
+            "<p><span class=\"english\">Collective</span></p>",
+            "<p><span class=\"english\">Abstract</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Abstract</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Abstract</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">What is verb form of the word 'Awareness'?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Aware</span></p>",
+            "<p><span class=\"english\">Beware</span></p>",
+            "<p><span class=\"english\">Awareness </span></p>",
+            "<p><span class=\"english\">Awarely</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Beware</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Beware</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Which of the following is not plural form?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Bacteria</span></p>",
+            "<p><span class=\"english\">Formula</span></p>",
+            "<p><span class=\"english\">Genera</span></p>",
+            "<p><span class=\"english\">Media</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Formula</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Formula</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘She is the </span><span class=\"english\">second</span><span class=\"english\"> of four siblings.’- The word ‘second’ is-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Noun</span></p>",
+            "<p><span class=\"english\">Adjective</span></p>",
+            "<p><span class=\"english\">Adverb</span></p>",
+            "<p><span class=\"english\">Pronoun </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Noun</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Noun</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘Why, that's fantastic!’- Here the word 'why' has been used as a/an-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Adjective</span></p>",
+            "<p><span class=\"english\">Noun</span></p>",
+            "<p><span class=\"english\">Adverb</span></p>",
+            "<p><span class=\"english\">Interjection</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Interjection</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Interjection</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Nelson is famous for his </span><span class=\"english\">victory</span><span class=\"english\"> at Trafalgar. Here the underlined word is a/an-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Proper Noun</span></p>",
+            "<p><span class=\"english\">Abstract Noun</span></p>",
+            "<p><span class=\"english\">Collective Noun</span></p>",
+            "<p><span class=\"english\">Material Noun</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Abstract Noun</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Abstract Noun</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">What is the singular form of the word ‘Dice’?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Die</span></p>",
+            "<p><span class=\"english\">Disc</span></p>",
+            "<p><span class=\"english\">Douce</span></p>",
+            "<p><span class=\"english\">Dicea</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Die</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Die</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Which of the following sentences contain the word 'down' as a preposition?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Try to down him. </span></p>",
+            "<p><span class=\"english\">She came down the hill.</span></p>",
+            "<p><span class=\"english\">She has seen the ups and downs of life.</span></p>",
+            "<p><span class=\"english\">The down train is late today.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">She came down the hill.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> She came down the hill.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">He wore </span><span class=\"english\">overalls</span><span class=\"english\"> and a torn shirt, and was barefooted. The underlined word is a/an-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Adjective</span></p>",
+            "<p><span class=\"english\">Noun</span></p>",
+            "<p><span class=\"english\">Adverb </span></p>",
+            "<p><span class=\"english\">Pronoun</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Noun</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Noun</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Which of the following sentences has the correct use of the word 'fast' as an adverb?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Tanisha speaks fast. </span></p>",
+            "<p><span class=\"english\">Shoaib Akhtar was the fast bowler in the history of cricket. </span></p>",
+            "<p><span class=\"english\">During Ramadan the Muslims fast. </span></p>",
+            "<p><span class=\"english\">She is having her break- fast.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Tanisha speaks fast. </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Tanisha speaks fast.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Which one is always singular?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Sunlight </span></p>",
+            "<p><span class=\"english\">Mango</span></p>",
+            "<p><span class=\"english\">Pants</span></p>",
+            "<p><span class=\"english\">Star</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Sunlight </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Sunlight</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">He brought an </span><span class=\"english\">iron</span><span class=\"english\">. The underlined word is a/an-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Common noun </span></p>",
+            "<p><span class=\"english\">Material noun </span></p>",
+            "<p><span class=\"english\">Proper noun </span></p>",
+            "<p><span class=\"english\">Abstract noun</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Common noun </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Common noun</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Everybody</span><span class=\"english\"> hates a liar. Identify the correct parts of speech of the underlined word.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Pronoun</span></p>",
+            "<p><span class=\"english\">Noun</span></p>",
+            "<p><span class=\"english\">Adjective</span></p>",
+            "<p><span class=\"english\">Adverb</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Pronoun</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> Pronoun</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Transform the following sentence: </span></p><p><span class=\"english\">‘The man I was with was helped by me.’ (Active)</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">I helped the man who was with.</span></p>",
+            "<p><span class=\"english\">I helped the man I had with. </span></p>",
+            "<p><span class=\"english\">I helped the man I had been with.</span></p>",
+            "<p><span class=\"english\">I helped I was with the man.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">I helped the man I had been with.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> I helped the man I had been with.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Transform the following sentence: </span></p><p><span class=\"english\">‘He is very dull and cannot understand his lesson.’ (Simple)</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">He is very dull and he cannot understand his lesson. </span></p>",
+            "<p><span class=\"english\">He is too dull to understand his lesson.</span></p>",
+            "<p><span class=\"english\">He is too dull that he cannot understand his lesson. </span></p>",
+            "<p><span class=\"english\">He is too dull that he does not understand his lesson. </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">He is too dull to understand his lesson.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Ans:</span><span class=\"english\"> He is too dull to understand his lesson.</span></p></span>"
+    }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "question_html": "<p>What is the powerhouse of the cell?</p>",
+    "options_html": [
+      "<p>Nucleus</p>",
+      "<p>Mitochondria</p>",
+      "<p>Chloroplast</p>",
+      "<p>Vacuole</p>"
+    ],
+    "correct_answer_html": "<p>Mitochondria</p>",
+    "solution_html": "<p>Mitochondria produces ATP through cellular respiration.</p>"
+  },
+  {
+    "question_html": "<p>Which of the following is a noble gas?</p>",
+    "options_html": [
+      "<p>Chlorine</p>",
+      "<p>Nitrogen</p>",
+      "<p>Argon</p>",
+      "<p>Fluorine</p>"
+    ],
+    "correct_answer_html": "<p>Argon</p>",
+    "solution_html": "<p>Argon (Ar) belongs to Group 18 — the noble gases.</p>"
+  },
+  {
+    "question_html": "<p>What is $\\int x^2\\,dx$?</p>",
+    "options_html": [
+      "<p>$x^3 + C$</p>",
+      "<p>$\\frac{x^3}{3} + C$</p>",
+      "<p>$2x + C$</p>",
+      "<p>$\\frac{x^2}{2} + C$</p>"
+    ],
+    "correct_answer_html": "<p>$\\frac{x^3}{3} + C$</p>",
+    "solution_html": "<p>Using the power rule: $\\int x^n\\,dx = \\frac{x^{n+1}}{n+1} + C$.</p>"
+  },
+  {
+    "question_html": "<p>How many chromosomes are in a normal human somatic cell?</p>",
+    "options_html": [
+      "<p>23</p>",
+      "<p>46</p>",
+      "<p>48</p>",
+      "<p>92</p>"
+    ],
+    "correct_answer_html": "<p>46</p>",
+    "solution_html": "<p>Human somatic (body) cells contain 46 chromosomes (23 pairs).</p>"
+  },
+  {
+    "question_html": "<p>Which law states that equal volumes of all gases at the same temperature and pressure contain the same number of molecules?</p>",
+    "options_html": [
+      "<p>Boyle's Law</p>",
+      "<p>Charles's Law</p>",
+      "<p>Avogadro's Law</p>",
+      "<p>Dalton's Law</p>"
+    ],
+    "correct_answer_html": "<p>Avogadro's Law</p>",
+    "solution_html": "<p>Avogadro's Law: equal volumes of gases at same T and P have equal numbers of molecules.</p>"
+  },
+  {
+    "question_html": "<p>The SI unit of electric current is:</p>",
+    "options_html": [
+      "<p>Volt</p>",
+      "<p>Watt</p>",
+      "<p>Ampere</p>",
+      "<p>Ohm</p>"
+    ],
+    "correct_answer_html": "<p>Ampere</p>",
+    "solution_html": "<p>The Ampere (A) is the SI base unit of electric current.</p>"
+  },
+  {
+    "question_html": "<p>What is the pH of pure water at 25°C?</p>",
+    "options_html": [
+      "<p>0</p>",
+      "<p>7</p>",
+      "<p>14</p>",
+      "<p>6</p>"
+    ],
+    "correct_answer_html": "<p>7</p>",
+    "solution_html": "<p>Pure water has a neutral pH of 7 at 25°C.</p>"
+  },
+  {
+    "question_html": "<p>The process by which plants make food using sunlight is called:</p>",
+    "options_html": [
+      "<p>Respiration</p>",
+      "<p>Fermentation</p>",
+      "<p>Photosynthesis</p>",
+      "<p>Transpiration</p>"
+    ],
+    "correct_answer_html": "<p>Photosynthesis</p>",
+    "solution_html": "<p>Photosynthesis converts CO₂ + H₂O + light energy → glucose + O₂.</p>"
+  },
+  {
+    "question_html": "<p>What does $E = mc^2$ represent?</p>",
+    "options_html": [
+      "<p>Kinetic energy formula</p>",
+      "<p>Mass-energy equivalence</p>",
+      "<p>Gravitational potential energy</p>",
+      "<p>Thermal energy</p>"
+    ],
+    "correct_answer_html": "<p>Mass-energy equivalence</p>",
+    "solution_html": "<p>Einstein's $E=mc^2$ shows mass and energy are equivalent and interconvertible.</p>"
+  },
+  {
+    "question_html": "<p>The number of protons in an atom determines its:</p>",
+    "options_html": [
+      "<p>Mass number</p>",
+      "<p>Neutron count</p>",
+      "<p>Atomic number</p>",
+      "<p>Electron shells</p>"
+    ],
+    "correct_answer_html": "<p>Atomic number</p>",
+    "solution_html": "<p>The atomic number (Z) equals the number of protons and uniquely identifies each element.</p>"
+  }
+]

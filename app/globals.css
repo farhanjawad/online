@@ -1,0 +1,245 @@
+@import "tailwindcss";
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   SutonnyMJ Bangla Font
+   Place SutonnyMJ.ttf in /public/fonts/
+   Download: https://www.omicronlab.com/bangla-fonts.html
+   ───────────────────────────────────────────────────────────────────────── */
+@font-face {
+  font-family: "SutonnyMJ";
+  src: url("/fonts/SutonnyMJ.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Google Fonts (loaded via layout.tsx <link> tag)
+   - Playfair Display: Display headings
+   - Outfit: Body text / UI
+   - JetBrains Mono: Timer, IDs, code
+   ───────────────────────────────────────────────────────────────────────── */
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Design Tokens
+   ───────────────────────────────────────────────────────────────────────── */
+:root {
+  /* Base palette – "Obsidian Command Center" */
+  --bg-base: #080b12;
+  --bg-surface: #0e1320;
+  --bg-elevated: #131929;
+  --bg-hover: #1a2234;
+  --border-subtle: rgba(255, 255, 255, 0.06);
+  --border-strong: rgba(255, 255, 255, 0.12);
+
+  /* Accent – amber gold */
+  --accent: #f59e0b;
+  --accent-dim: #d97706;
+  --accent-glow: rgba(245, 158, 11, 0.15);
+
+  /* Cyan – student portal highlights */
+  --cyan: #22d3ee;
+  --cyan-dim: #0891b2;
+  --cyan-glow: rgba(34, 211, 238, 0.12);
+
+  /* Semantic */
+  --success: #10b981;
+  --danger: #ef4444;
+  --warning: #f59e0b;
+  --info: #3b82f6;
+
+  /* Text */
+  --text-primary: #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted: #475569;
+
+  /* Fonts */
+  --font-display: "Playfair Display", Georgia, serif;
+  --font-body: "Outfit", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", monospace;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Base Styles
+   ───────────────────────────────────────────────────────────────────────── */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-base);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Bangla Text — SutonnyMJ
+   ───────────────────────────────────────────────────────────────────────── */
+.bangla,
+span.bangla {
+  font-family: "SutonnyMJ", serif !important;
+  font-size: 1.05em;
+  line-height: 1.8;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Question HTML Content Styles
+   ───────────────────────────────────────────────────────────────────────── */
+.question-content p {
+  margin: 0;
+  line-height: 1.8;
+}
+
+.question-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 0.5rem 0;
+}
+
+/* MathJax overrides */
+.question-content mjx-container {
+  color: var(--text-primary) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Scrollbar
+   ───────────────────────────────────────────────────────────────────────── */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-base);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Utility Classes
+   ───────────────────────────────────────────────────────────────────────── */
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-mono-exam {
+  font-family: var(--font-mono);
+}
+
+.glass-card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+}
+
+.glass-card-elevated {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-strong);
+  border-radius: 12px;
+}
+
+.accent-glow {
+  box-shadow: 0 0 20px var(--accent-glow);
+}
+
+.cyan-glow {
+  box-shadow: 0 0 20px var(--cyan-glow);
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Timer Pulse Animation (when < 5 minutes remaining)
+   ───────────────────────────────────────────────────────────────────────── */
+@keyframes timer-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+.timer-critical {
+  animation: timer-pulse 1s ease-in-out infinite;
+  color: var(--danger) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Fade In Animation
+   ───────────────────────────────────────────────────────────────────────── */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.4s ease-out forwards;
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.skeleton {
+  background: linear-gradient(
+    90deg,
+    var(--bg-elevated) 25%,
+    var(--bg-hover) 50%,
+    var(--bg-elevated) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+  border-radius: 6px;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Option Button States
+   ───────────────────────────────────────────────────────────────────────── */
+.option-btn {
+  transition: all 0.15s ease;
+  cursor: pointer;
+  user-select: none;
+}
+
+.option-btn:hover:not(.option-selected):not(.option-correct):not(.option-wrong) {
+  background: var(--bg-hover);
+  border-color: var(--border-strong);
+}
+
+.option-selected {
+  background: var(--cyan-glow) !important;
+  border-color: var(--cyan) !important;
+}
+
+.option-correct {
+  background: rgba(16, 185, 129, 0.1) !important;
+  border-color: var(--success) !important;
+}
+
+.option-wrong {
+  background: rgba(239, 68, 68, 0.1) !important;
+  border-color: var(--danger) !important;
+}
+
+/* ─────────────────────────────────────────────────────────────────────────────
+   Diagonal grid background pattern
+   ───────────────────────────────────────────────────────────────────────── */
+.grid-pattern {
+  background-image: 
+    linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+  background-size: 40px 40px;
+}

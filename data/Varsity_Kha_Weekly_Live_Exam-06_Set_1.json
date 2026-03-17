@@ -1,0 +1,662 @@
+[
+    {
+        "question_html": "<p><span class=\"english\">কোনটি</span><span> </span><span class=\"english\">রাজনৈতিক</span><span> </span><span class=\"english\">উপন্যাস</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">চতুরঙ্গ</span></p>",
+            "<p><span class=\"english\">অপরাজিত</span></p>",
+            "<p><span class=\"english\">পথের</span><span> </span><span class=\"english\">দাবী</span></p>",
+            "<p><span class=\"english\">চাঁদের</span><span> </span><span class=\"english\">অমাবস্যা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পথের</span><span> </span><span class=\"english\">দাবী</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘</span><span class=\"english\">পথের</span><span> </span><span class=\"english\">দাবী</span><span class=\"english\">’</span><span> </span><span class=\"english\">শরৎচন্দ্রের</span><span> </span><span class=\"english\">একটি</span><span> </span><span class=\"english\">রাজনৈতিক</span><span> </span><span class=\"english\">উপন্যাস</span><span class=\"english\">।</span><span> </span><span class=\"english\">‘</span><span class=\"english\">চতুরঙ্গ</span><span class=\"english\">’</span><span> </span><span class=\"english\">রবীন্দ্রনাথের</span><span> </span><span class=\"english\">একটি</span><span> </span><span class=\"english\">সামাজিক</span><span> </span><span class=\"english\">উপন্যাস</span><span class=\"english\">, </span><span class=\"english\">‘</span><span class=\"english\">অপরাজিত</span><span class=\"english\">’</span><span> </span><span class=\"english\">বিভূতিভূষণ</span><span> </span><span class=\"english\">বন্দ্যোপাধ্যায়ের</span><span> </span><span class=\"english\">একটি</span><span> </span><span class=\"english\">আত্মজীবনীমূলক</span><span> </span><span class=\"english\">উপন্যাস</span><span> </span><span class=\"english\">এবং</span><span> </span><span class=\"english\">‘</span><span class=\"english\">চাঁদের</span><span> </span><span class=\"english\">অমাবস্যা</span><span class=\"english\">’</span><span> </span><span class=\"english\">সৈয়দ</span><span> </span><span class=\"english\">ওয়ালীউল্লাহ্</span><span class=\"english\">‌ </span><span class=\"english\">রচিত</span><span> </span><span class=\"english\">একটি</span><span> </span><span class=\"english\">মনস্তাত্ত্বিক</span><span> </span><span class=\"english\">উপন্যাস</span><span class=\"english\">।  </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">“</span><span class=\"english\">অ্যাঁ এ হইল কী</span><span class=\"english\">? </span><span class=\"english\">কলি কি সত্যই উল্টাইতে বসিল</span><span class=\"english\">।</span><span class=\"english\">”–</span><span> </span><span class=\"english\">‘</span><span class=\"english\">বিলাসী</span><span class=\"english\">’</span><span> </span><span class=\"english\">গল্পে কেন এই উক্তিটি করা হয়েছিল</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">স</span><span class=\"english\">দ্য</span><span class=\"english\">বিধবা স্ত্রী বিলাসী স্বামীর চিতায় সহমরণে যেতে অসম্মত ছিল বলে</span></p>",
+            "<p><span class=\"english\">মৃত্যুঞ্জয় কায়েতের ছেলে হয়ে</span><span class=\"english\">ও</span><span class=\"english\"> সাপুড়ে হয়েছিল বলে</span></p>",
+            "<p><span class=\"english\">মৃত্যুঞ্জয় সাপুড়ের মেয়ের হাতে ভাত খেয়েছে বলে</span></p>",
+            "<p><span class=\"english\">পল্লিগ্রামের মানুষজন গুরুতর অসুস্থ মৃত্যুঞ্জয়ের খোঁজ করেনি বলে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">মৃত্যুঞ্জয় সাপুড়ের মেয়ের হাতে ভাত খেয়েছে বলে</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">কলি</span><span> </span><span class=\"english\">হিন্দু</span><span> </span><span class=\"english\">পুরাণের</span><span> </span><span class=\"english\">চার</span><span> </span><span class=\"english\">যুগের</span><span> </span><span class=\"english\">শেষ</span><span> </span><span class=\"english\">যুগ</span><span class=\"english\">। এ </span><span class=\"english\">যুগে</span><span> </span><span class=\"english\">পৃথিবীতে</span><span> </span><span class=\"english\">ধর্ম</span><span> </span><span class=\"english\">সংকুচিত</span><span> </span><span class=\"english\">হয়ে</span><span> </span><span class=\"english\">অধর্মের</span><span> </span><span class=\"english\">আধিক্য</span><span> </span><span class=\"english\">ঘটবে</span><span class=\"english\">। </span><span class=\"english\">তৎকালীন</span><span> </span><span class=\"english\">হিন্দু</span><span> </span><span class=\"english\">সমাজের</span><span> </span><span class=\"english\">একটা</span><span> </span><span class=\"english\">বড়ো</span><span> </span><span class=\"english\">কুসংস্কার</span><span> </span><span class=\"english\">ছিল</span><span> </span><span class=\"english\">যে</span><span class=\"english\">, </span><span class=\"english\">নিচু</span><span> </span><span class=\"english\">জাতের</span><span> </span><span class=\"english\">লোকের</span><span> </span><span class=\"english\">হাতে</span><span> </span><span class=\"english\">ভাত</span><span> </span><span class=\"english\">খেলে</span><span> </span><span class=\"english\">জাত</span><span> </span><span class=\"english\">চলে</span><span> </span><span class=\"english\">যায়</span><span class=\"english\">। </span><span class=\"english\">একে</span><span> </span><span class=\"english\">বলা</span><span> </span><span class=\"english\">হতো</span><span> </span><span class=\"english\">‘</span><span class=\"english\">অন্নপাপ</span><span class=\"english\">’</span><span class=\"english\">। </span><span class=\"english\">মৃত্যুঞ্জয়</span><span> </span><span class=\"english\">বিলাসীর</span><span> </span><span class=\"english\">হাতে</span><span> </span><span class=\"english\">রান্না</span><span> </span><span class=\"english\">করা</span><span> </span><span class=\"english\">ভাত</span><span> </span><span class=\"english\">খাওয়াতে</span><span> </span><span class=\"english\">কলি</span><span> </span><span class=\"english\">যুগের</span><span> </span><span class=\"english\">প্রকাশ</span><span> </span><span class=\"english\">ঘটেছে</span><span> </span><span class=\"english\">বলে</span><span> </span><span class=\"english\">উল্লেখ</span><span> </span><span class=\"english\">করা</span><span> </span><span class=\"english\">হয়েছে</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">বিলাসী</span><span class=\"english\">’</span><span> </span><span class=\"english\">গল্পের</span><span> </span><span class=\"english\">মূল</span><span> </span><span class=\"english\">বিষয়বস্তু</span><span> </span><span class=\"english\">কী</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">সমাজের</span><span> </span><span class=\"english\">সৃষ্টিশীলতা</span></p>",
+            "<p><span class=\"english\">সমাজের</span><span> </span><span class=\"english\">রক্ষণশীলতা</span></p>",
+            "<p><span class=\"english\">সমাজের</span><span> </span><span class=\"english\">সহানুভূতিশীলতা</span></p>",
+            "<p><span class=\"english\">সমাজের</span><span> </span><span class=\"english\">বৈষম্য</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">সমাজের</span><span> </span><span class=\"english\">রক্ষণশীলতা</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">ব্যতিক্রম</span><span class=\"english\"> ও </span><span class=\"english\">অসাধারণ</span><span> </span><span class=\"english\">প্রেমের</span><span> </span><span class=\"english\">বিপরীতে</span><span> </span><span class=\"english\">সমাজের</span><span> </span><span class=\"english\">অনুদারতা</span><span class=\"english\"> ও </span><span class=\"english\">রক্ষণশীলতা</span><span class=\"english\">,</span><span> </span><span class=\"english\">জীবনের</span><span> </span><span class=\"english\">নিষ্ঠুর</span><span class=\"english\"> ও </span><span class=\"english\">অশুভ</span><span> </span><span class=\"english\">চেহারা</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">সামাজিক</span><span> </span><span class=\"english\">প্রবন্ধ</span><span class=\"english\">’</span><span> </span><span class=\"english\">গ্রন্থটি</span><span> </span><span class=\"english\">কে</span><span> </span><span class=\"english\">রচনা</span><span> </span><span class=\"english\">করেছেন</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">শরৎচন্দ্র</span><span> </span><span class=\"english\">চট্টোপাধ্যায়</span><span> </span></p>",
+            "<p><span class=\"english\">রবীন্দ্রনাথ</span><span> </span><span class=\"english\">ঠাকুর</span></p>",
+            "<p><span class=\"english\">ভূদেবচন্দ্র</span><span> </span><span class=\"english\">মুখোপাধ্যায়</span><span> </span></p>",
+            "<p><span class=\"english\">বঙ্কিমচন্দ্র</span><span> </span><span class=\"english\">চট্টোপাধ্যায়</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ভূদেবচন্দ্র</span><span> </span><span class=\"english\">মুখোপাধ্যায়</span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘</span><span class=\"english\">ভূদেবচন্দ্র</span><span> </span><span class=\"english\">মুখোপাধ্যায়</span><span class=\"english\">’</span><span class=\"english\"> (১৮২৫-১৮৯৪) </span><span class=\"english\">উনিশ</span><span> </span><span class=\"english\">শতকের</span><span> </span><span class=\"english\">বাংলা</span><span class=\"english\">র</span><span> </span><span class=\"english\">নবজাগরণের</span><span> </span><span class=\"english\">অন্যতম</span><span> </span><span class=\"english\">পথিকৃ</span><span class=\"english\">ৎ। </span><span class=\"english\">‘</span><span class=\"english\">পারিবারিক</span><span> </span><span class=\"english\">প্রবন্ধ</span><span class=\"english\">’</span><span class=\"english\">, </span><span class=\"english\">‘</span><span class=\"english\">সামাজিক</span><span> </span><span class=\"english\">প্রবন্ধ</span><span class=\"english\">’</span><span class=\"english\">, </span><span class=\"english\">‘</span><span class=\"english\">আচার</span><span> </span><span class=\"english\">প্রবন্ধ</span><span class=\"english\">’</span><span> </span><span class=\"english\">ইত্যাদি</span><span> </span><span class=\"english\">তাঁর</span><span> </span><span class=\"english\">বিখ্যাত</span><span> </span><span class=\"english\">গ্রন্থ</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">কামস্কাট্‌কা</span><span> </span><span class=\"english\">শব্দের</span><span> </span><span class=\"english\">প্রকৃত</span><span> </span><span class=\"english\">উচ্চারণ</span><span> </span><span class=\"english\">কোনটি</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">কাম্‌চট্‌কা</span></p>",
+            "<p><span class=\"english\">কামচাট্‌কা</span></p>",
+            "<p><span class=\"english\">কামস্কটকা</span></p>",
+            "<p><span class=\"english\">কামচোটকা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">কামচাট্‌কা</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">কাঁদনা &gt; কান্না</span><span class=\"english\">’</span><span> </span><span class=\"english\">–</span><span class=\"english\"> এখানে কোন ধরনের ধ্বনি পরিবর্তন হয়েছে? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">স্বরাগম </span></p>",
+            "<p><span class=\"english\">স্বরসঙ্গতি </span></p>",
+            "<p><span class=\"english\">বিষমীভবন </span></p>",
+            "<p><span class=\"english\">সমীভবন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">সমীভবন</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">প্রতিধ্বনি</span><span class=\"english\">’</span><span class=\"english\"> শব্দটির উপসর্গ কোন অর্থে ব্যবহৃত? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">সদৃশ</span></p>",
+            "<p><span class=\"english\">বিপরীত </span></p>",
+            "<p><span class=\"english\">ভিন্ন </span></p>",
+            "<p><span class=\"english\">সম্মুখ </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">সদৃশ</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">অনতিবিলম্বে সম্রাট সৈন্য সমভিব্যাহারে দুর্গম মরুপথে</span><span> </span><span class=\"english\">অভিযান করলেন।</span><span class=\"english\">’</span><span class=\"english\">-</span><span class=\"english\">বাক্যটিতে উপসর্গ রয়েছে</span><span class=\"english\">- </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">নয়</span></p>",
+            "<p><span class=\"english\">ছয়</span></p>",
+            "<p><span class=\"english\">সাত</span></p>",
+            "<p><span class=\"english\">আট</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">নয়</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">অনতিবিলম্বে (অতি+বি) সম্রাট (সম্‌) সৈন্য সমভিব্যাহারে (সম+অভি+বি+আ) দুর্গম (দুর) মরুপথে</span><span> </span><span class=\"english\">অভিযান (অভি) করলেন।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">শব্দগুচ্ছ</span><span> </span><span class=\"english\">খাঁটি</span><span> </span><span class=\"english\">বাংলা</span><span> </span><span class=\"english\">উপসর্গজাত</span><span> </span><span class=\"english\">শব্দ</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বিভুঁই</span><span class=\"english\">, </span><span class=\"english\">বিপথ</span><span class=\"english\">, </span><span class=\"english\">বিশুদ্ধ </span></p>",
+            "<p><span class=\"english\">বিচরণ</span><span class=\"english\">, </span><span class=\"english\">বিক্ষেপ</span><span class=\"english\">, </span><span class=\"english\">আকণ্ঠ</span></p>",
+            "<p><span class=\"english\">আকাঁড়া</span><span class=\"english\">, </span><span class=\"english\">সুনাম</span><span class=\"english\">, </span><span class=\"english\">নি</span><span class=\"english\">লা</span><span class=\"english\">জ</span></p>",
+            "<p><span class=\"english\">সুরভ</span><span class=\"english\">, </span><span class=\"english\">সুধীর</span><span class=\"english\">, </span><span class=\"english\">আভাস</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">আকাঁড়া</span><span class=\"english\">, </span><span class=\"english\">সুনাম</span><span class=\"english\">, </span><span class=\"english\">নি</span><span class=\"english\">লা</span><span class=\"english\">জ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">কিছু</span><span> </span><span class=\"english\">খাঁটি</span><span> </span><span class=\"english\">বাংলা</span><span> </span><span class=\"english\">উপসর্গজাত</span><span> </span><span class=\"english\">শব্দ</span><span class=\"english\">: </span><span class=\"english\">বিভুঁই</span><span class=\"english\">, </span><span class=\"english\">সুনাম</span><span class=\"english\">, </span><span class=\"english\">আলুনি</span><span> </span><span class=\"english\">ইত্যাদি</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">তাকে </span><span class=\"english\">কোথাও</span><span class=\"english\"> খুঁজে পাওয়া যাচ্ছে না</span><span class=\"english\">’–</span><span class=\"english\"> নিম্নরেখাঙ্কিত পদটির ব্যাকরণিক শব্দশ্রেণি- </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অনির্দিষ্ট সর্বনাম </span></p>",
+            "<p><span class=\"english\">কালবাচক</span><span> </span><span class=\"english\">ক্রিয়াবিশেষণ</span><span> </span></p>",
+            "<p><span class=\"english\">প্রশ্নবাচক বিশেষণ </span></p>",
+            "<p><span class=\"english\">স্থানবাচক</span><span> </span><span class=\"english\">ক্রিয়াবিশেষণ</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">স্থানবাচক</span><span> </span><span class=\"english\">ক্রিয়াবিশেষণ</span><span> </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">অন্ধকারে আমার খুব ভয় করে</span><span class=\"english\">’</span><span> </span><span class=\"english\">–</span><span class=\"english\"> বাক্যটির সঠিক বৈশিষ্ট্য নিচের কোনটি? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বাক্যটিতে অকর্মক ক্রিয়া বিদ্যমান </span></p>",
+            "<p><span class=\"english\">বাক্যটিতে আতঙ্ক আবেগ বিদ্যমান </span></p>",
+            "<p><span class=\"english\">বাক্যটিতে সমধাতুজ কর্ম বিদ্যমান </span></p>",
+            "<p><span class=\"english\">বাক্যটিতে যৌগিক ক্রিয়া বিদ্যমান </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বাক্যটিতে অকর্মক ক্রিয়া বিদ্যমান </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">সাঁতার কাটলে শরীর ভালো থাকে</span><span class=\"english\">’</span><span class=\"english\"> এবং </span><span class=\"english\">‘</span><span class=\"english\">সাঁতার একটি কার্যকরী ব্যায়াম</span><span class=\"english\">’</span><span> </span><span class=\"english\">–</span><span class=\"english\"> বাক্যদুটিতে </span><span class=\"english\">‘</span><span class=\"english\">সাঁতার</span><span class=\"english\">’</span><span class=\"english\"> শব্দটির ব্যাকরণিক শব্দশ্রেণি যথাক্রমে- </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ক্রিয়া, ক্রিয়া </span></p>",
+            "<p><span class=\"english\">বিশেষ্য, ক্রিয়া </span></p>",
+            "<p><span class=\"english\">ক্রিয়া, বিশেষ্য </span></p>",
+            "<p><span class=\"english\">বিশেষ্য, বিশেষ্য </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ক্রিয়া, বিশেষ্য </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">১ম</span><span> </span><span class=\"english\">বাক্যে</span><span> </span><span class=\"english\">‘</span><span class=\"english\">সাঁতার</span><span class=\"english\">’</span><span> </span><span class=\"english\">শব্দটি</span><span> </span><span class=\"english\">দ্বারা</span><span> </span><span class=\"english\">কোনো</span><span> </span><span class=\"english\">কাজ</span><span> </span><span class=\"english\">করা</span><span> </span><span class=\"english\">বোঝাচ্ছে</span><span> </span><span class=\"english\">বলে</span><span> </span><span class=\"english\">এটি</span><span> </span><span class=\"english\">ক্রিয়াপদ</span><span> </span><span class=\"english\">এবং</span><span> </span><span class=\"english\">২য়</span><span> </span><span class=\"english\">বাক্যে</span><span> </span><span class=\"english\">‘</span><span class=\"english\">সাঁতার</span><span class=\"english\">’</span><span> </span><span class=\"english\">শব্দটি</span><span> </span><span class=\"english\">দ্বারা</span><span> </span><span class=\"english\">একটি</span><span> </span><span class=\"english\">শরীরচর্চার</span><span> </span><span class=\"english\">নাম</span><span> </span><span class=\"english\">বোঝাচ্ছে</span><span> </span><span class=\"english\">ফলে</span><span> </span><span class=\"english\">এটি</span><span> </span><span class=\"english\">বিশেষ্য</span><span> </span><span class=\"english\">পদ</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">শা</span><span class=\"english\">দি</span><span class=\"english\">’</span><span class=\"english\"> ও </span><span class=\"english\">‘</span><span class=\"english\">সা</span><span class=\"english\">দি</span><span class=\"english\">’</span><span class=\"english\"> শব্দদ্বয়ের অর্থ যথাক্রমে- </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বিয়ে ও বর্ণ </span></p>",
+            "<p><span class=\"english\">বিয়ে ও সজ্জন ব্যক্তি </span></p>",
+            "<p><span class=\"english\">বিয়ে ও অশ্বারোহী </span></p>",
+            "<p><span class=\"english\">বিয়ে ও উর্বর </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বিয়ে ও অশ্বারোহী </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">পরভৃত</span><span class=\"english\">’</span><span class=\"english\"> অর্থ কী? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">কাক </span></p>",
+            "<p><span class=\"english\">কোকিল </span></p>",
+            "<p><span class=\"english\">উপকারী </span></p>",
+            "<p><span class=\"english\">বায়স</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">কোকিল </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘</span><span class=\"english\">পরভৃ</span><span class=\"english\">ৎ</span><span class=\"english\">’</span><span> </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">‘</span><span class=\"english\">কাক</span><span class=\"english\">’</span><span> </span><span class=\"english\">বা </span><span class=\"english\">‘</span><span class=\"english\">বায়স</span><span class=\"english\">’</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">কোনটি </span><span class=\"english\">‘</span><span class=\"english\">সংক</span><span class=\"english\">র</span><span class=\"english\">’</span><span> </span><span class=\"english\">শব্দজোড় নয়</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পত্র</span><span class=\"english\">-</span><span class=\"english\">পল্লব</span></p>",
+            "<p><span class=\"english\">কাগজ</span><span class=\"english\">-</span><span class=\"english\">কলম</span></p>",
+            "<p><span class=\"english\">শাকসবজি</span></p>",
+            "<p><span class=\"english\">কালি</span><span class=\"english\">-</span><span class=\"english\">কলম</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পত্র</span><span class=\"english\">-</span><span class=\"english\">পল্লব</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">দুটি ভিন্ন ভাষার শব্দ একত্র হয়ে শব্দজোড় গঠিত হলে তাকে সংকর শব্দজোড় বলে। পত্র ও পল্লব দুটি শব্দই সংস্কৃত হওয়ায় এটি সংকর শব্দজোড় নয়।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Javed was </span><span class=\"english\">leaning_____a</span><span class=\"english\"> lamp post.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">against</span></p>",
+            "<p><span class=\"english\">for</span></p>",
+            "<p><span class=\"english\">before</span></p>",
+            "<p><span class=\"english\">by</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">against</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Lean</span><span> </span><span class=\"english\">against</span><span> </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">হেলান</span><span> </span><span class=\"english\">দেওয়া</span><span class=\"english\">। </span><span class=\"english\">বাক্যটির</span><span> </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">হবে</span><span class=\"english\">- </span><span class=\"english\">জাভেদ</span><span> </span><span class=\"english\">একটি</span><span> </span><span class=\"english\">ল্যাম্পপোস্টে</span><span> </span><span class=\"english\">হেলান</span><span> </span><span class=\"english\">দিচ্ছিলো</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">I'm not sure where Dave is. He ___taken Benjamin to a movie or to the zoo.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">would have</span></p>",
+            "<p><span class=\"english\">may have</span></p>",
+            "<p><span class=\"english\">ought not to have</span></p>",
+            "<p><span class=\"english\">would have had</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">may have</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">I found the boy reading a book. Here 'reading' is—</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Present participle</span></p>",
+            "<p><span class=\"english\">Past participle</span></p>",
+            "<p><span class=\"english\">Gerund</span></p>",
+            "<p><span class=\"english\">Perfect participle</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Present participle</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Transitive</span><span> </span><span class=\"english\">verb</span><span class=\"english\"> (</span><span class=\"english\">found</span><span class=\"english\">) এর </span><span class=\"english\">পরে</span><span> </span><span class=\"english\">যদি</span><span> </span><span class=\"english\">object (the boy</span><span class=\"english\">) </span><span class=\"english\">থাকে</span><span> </span><span class=\"english\">এবং</span><span> </span><span class=\"english\">সেই</span><span> </span><span class=\"english\">object</span><span class=\"english\"> এর </span><span class=\"english\">পরে</span><span> </span><span class=\"english\">যদি</span><span> </span><span class=\"english\">verb+ing</span><span class=\"english\"> (reading)</span><span> </span><span class=\"english\">থাকে</span><span class=\"english\">, </span><span class=\"english\">তাহলে</span><span> </span><span class=\"english\">সেটি</span><span> </span><span class=\"english\">present</span><span> </span><span class=\"english\">participle</span><span> </span><span class=\"english\">হবে</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Which is not a synonym of 'Malicious'?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Malevolent</span></p>",
+            "<p><span class=\"english\">Spiteful</span></p>",
+            "<p><span class=\"english\">Vindictive</span></p>",
+            "<p><span class=\"english\">Enigmatic</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Enigmatic</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Malicious</span><span> </span><span class=\"english\">মানে</span><span> </span><span class=\"english\">ক্ষতিকর</span><span class=\"english\">। </span><span class=\"english\">Option</span><span> </span><span class=\"english\">সমূহে</span><span> </span><span class=\"english\">উল্লিখিত</span><span> </span><span class=\"english\">malevolent, spiteful, vindictive</span><span> </span><span class=\"english\">তিনটি</span><span> </span><span class=\"english\">শব্দই</span><span> </span><span class=\"english\">Synonymous</span><span> </span><span class=\"english\">যাদের</span><span> </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">ক্ষতিকর</span><span> </span><span class=\"english\">বা</span><span> </span><span class=\"english\">বিদ্বেষপূর্ণ</span><span class=\"english\">। </span><span class=\"english\">তাই</span><span> </span><span class=\"english\">সঠিক</span><span> </span><span class=\"english\">উত্তর</span><span> </span><span class=\"english\">হবে</span><span> </span><span class=\"english\">enigmatic</span><span class=\"english\">।</span><span> </span><span class=\"english\">Enigmatic</span><span> </span><span class=\"english\">শব্দটির</span><span> </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">হলো</span><span> </span><span class=\"english\">রহস্যময়</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">The general public _____ a large number of computers now, because prices are beginning to decrease.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">must buy</span></p>",
+            "<p><span class=\"english\">must have bought</span></p>",
+            "<p><span class=\"english\">must be buying</span></p>",
+            "<p><span class=\"english\">must buying</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">must be buying</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">এই</span><span> </span><span class=\"english\">বাক্যে</span><span> </span><span class=\"english\">প্রবল</span><span> </span><span class=\"english\">সম্ভাবনা</span><span> </span><span class=\"english\">বোঝাতে</span><span> </span><span class=\"english\">must</span><span> </span><span class=\"english\">ব্যবহার</span><span> </span><span class=\"english\">করতে</span><span> </span><span class=\"english\">হবে</span><span class=\"english\">। </span><span class=\"english\">আর</span><span class=\"english\">, </span><span class=\"english\">‘</span><span class=\"english\">now’</span><span> </span><span class=\"english\">থাকায়</span><span> </span><span class=\"english\">Continuous</span><span> </span><span class=\"english\">Tense</span><span> </span><span class=\"english\">হবে</span><span class=\"english\">। </span><span class=\"english\">তাই</span><span> </span><span class=\"english\">সঠিক</span><span> </span><span class=\"english\">উত্তর</span><span> </span><span class=\"english\">must</span><span> </span><span class=\"english\">be</span><span> </span><span class=\"english\">buying</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">____ the book, she could not answer the question.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Not </span><span class=\"english\">readiner</span></p>",
+            "<p><span class=\"english\">Not having read</span></p>",
+            "<p><span class=\"english\">Reading</span></p>",
+            "<p><span class=\"english\">Read</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Not having read</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">___ </span><span class=\"english\">your assistance, I would have failed.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">But</span></p>",
+            "<p><span class=\"english\">But for</span></p>",
+            "<p><span class=\"english\">With</span></p>",
+            "<p><span class=\"english\">In spite</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">But for</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">“</span><span class=\"english\">না</span><span> </span><span class=\"english\">হলে</span><span class=\"english\">”</span><span> </span><span class=\"english\">অর্থে</span><span> </span><span class=\"english\">But</span><span> </span><span class=\"english\">for</span><span> </span><span class=\"english\">ব্যবহৃত</span><span> </span><span class=\"english\">হবে</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">\"Did they come ______ bus?\" \"No, they came ____ foot.\"</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">on/on </span></p>",
+            "<p><span class=\"english\">on/by </span></p>",
+            "<p><span class=\"english\">by/on </span></p>",
+            "<p><span class=\"english\">by/with</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">by/on </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Twenty years ago, fixed phones were not easily available in Bangladesh, _____ mobile phones. </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">until</span></p>",
+            "<p><span class=\"english\">however</span></p>",
+            "<p><span class=\"english\">although</span></p>",
+            "<p><span class=\"english\">let alone</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">let alone</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">No one but the captain knew the ship’s true destination. Here ‘but’ is functioning as what?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">adverb</span></p>",
+            "<p><span class=\"english\">conjunction </span></p>",
+            "<p><span class=\"english\">preposition </span></p>",
+            "<p><span class=\"english\">verb</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">preposition </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">এখানে</span><span class=\"english\">, </span><span class=\"english\">but</span><span> </span><span class=\"english\">‘</span><span class=\"english\">ছাড়া</span><span class=\"english\">’</span><span class=\"english\"> (</span><span class=\"english\">except</span><span class=\"english\">) </span><span class=\"english\">অর্থে</span><span> </span><span class=\"english\">ব্যবহৃত</span><span> </span><span class=\"english\">হয়েছে</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">The place is too noisy. Somebody ______.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">must shouting </span></p>",
+            "<p><span class=\"english\">must have shout</span></p>",
+            "<p><span class=\"english\">must shouted</span></p>",
+            "<p><span class=\"english\">must be shouting</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">must be shouting</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">The phrase ‘to get one's teeth into something’ means—</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">being cautious </span></p>",
+            "<p><span class=\"english\">giving all</span></p>",
+            "<p><span class=\"english\">manipulating someone </span></p>",
+            "<p><span class=\"english\">accepting defeat </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">giving all</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">To get one's teeth into something</span><span> </span><span class=\"english\">একটি</span><span> </span><span class=\"english\">Idiom</span><span> </span><span class=\"english\">যার</span><span> </span><span class=\"english\">মানে</span><span> </span><span class=\"english\">কোনো</span><span> </span><span class=\"english\">কাজে</span><span> </span><span class=\"english\">বা</span><span> </span><span class=\"english\">সমস্যায়</span><span> </span><span class=\"english\">গভীর</span><span> </span><span class=\"english\">ভাবে</span><span> </span><span class=\"english\">মনোযোগ</span><span> </span><span class=\"english\">দেওয়া</span><span> </span><span class=\"english\">বা</span><span> </span><span class=\"english\">পুরোপুরি</span><span> </span><span class=\"english\">জড়িয়ে</span><span> </span><span class=\"english\">পড়া</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">I thanked God for </span><span class=\"english\">fulfilling</span><span class=\"english\"> my life’s ambition. Here the underlined word is a/an–</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Verbal noun</span></p>",
+            "<p><span class=\"english\">Participle </span></p>",
+            "<p><span class=\"english\">Gerund</span></p>",
+            "<p><span class=\"english\">Verb</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Gerund</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">The word ‘goad’ can be best replaced by— </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Dishearten </span></p>",
+            "<p><span class=\"english\">Inspire </span></p>",
+            "<p><span class=\"english\">Impede</span></p>",
+            "<p><span class=\"english\">Encumber </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Inspire </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Goad</span><span> </span><span class=\"english\">বা</span><span> </span><span class=\"english\">inspire</span><span class=\"english\"> এর </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">প্রেরণা</span><span> </span><span class=\"english\">দেওয়া</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Choose the correct spelling.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Mediaeval</span></p>",
+            "<p><span class=\"english\">Mongose</span></p>",
+            "<p><span class=\"english\">Squezzing</span></p>",
+            "<p><span class=\"english\">Tentetive</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Mediaeval</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Correct spellings: Mongoose, Tentative, Squeezing</span><span class=\"english\">.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">একমাত্র</span><span> </span><span class=\"english\">পাহাড়ি</span><span> </span><span class=\"english\">দ্বীপ</span><span> </span><span class=\"english\">কোনটি</span><span class=\"english\">?</span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">সোনাদিয়া</span></p>",
+            "<p><span class=\"english\">কুতুবদিয়া</span></p>",
+            "<p><span class=\"english\">মহেশখালী</span></p>",
+            "<p><span class=\"english\">সেন্ট</span><span> </span><span class=\"english\">মার্টিন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">মহেশখালী</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">ঢাকা</span><span> </span><span class=\"english\">বিশ্ববিদ্যালয়ের</span><span> </span><span class=\"english\">প্রতিষ্ঠাকালীন</span><span> </span><span class=\"english\">তিনটি</span><span> </span><span class=\"english\">অনুষদ</span><span> </span><span class=\"english\">হলো</span><span class=\"english\">-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">কলা</span><span class=\"english\">, </span><span class=\"english\">বিজ্ঞান</span><span class=\"english\">, </span><span class=\"english\">আইন</span><span> </span></p>",
+            "<p><span class=\"english\">কলা</span><span class=\"english\">, </span><span class=\"english\">বাণিজ্য</span><span class=\"english\"> ও </span><span class=\"english\">জীববিজ্ঞান</span></p>",
+            "<p><span class=\"english\">কলা</span><span class=\"english\">, </span><span class=\"english\">বিজ্ঞান</span><span class=\"english\"> ও </span><span class=\"english\">সামাজিক</span><span> </span><span class=\"english\">বিজ্ঞান</span><span> </span></p>",
+            "<p><span class=\"english\">কলা</span><span class=\"english\">, </span><span class=\"english\">বিজ্ঞান</span><span class=\"english\"> ও </span><span class=\"english\">বাণিজ্য</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">কলা</span><span class=\"english\">, </span><span class=\"english\">বিজ্ঞান</span><span class=\"english\">, </span><span class=\"english\">আইন</span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: </span><span class=\"english\">তিনটি</span><span> </span><span class=\"english\">অনুষদ</span><span class=\"english\"> ও </span><span class=\"english\">সর্বমোট</span><span class=\"english\"> ১২ </span><span class=\"english\">টি</span><span> </span><span class=\"english\">বিভাগ</span><span> </span><span class=\"english\">নিয়ে</span><span class=\"english\"> ১৯২১ </span><span class=\"english\">সালের</span><span class=\"english\"> ১ </span><span class=\"english\">জুলাই</span><span> </span><span class=\"english\">ঢাকা</span><span> </span><span class=\"english\">বিশ্ববিদ্যালয়</span><span> </span><span class=\"english\">প্রতিষ্ঠিত</span><span> </span><span class=\"english\">হয়</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">পার্বত্য চট্টগ্রাম ও সিলেটের পাহাড় কোন যুগে সৃষ্ট</span><span class=\"english\">?</span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">টারশিয়ারি যুগে</span></p>",
+            "<p><span class=\"english\">প্লাইস্টোসিন যুগে</span></p>",
+            "<p><span class=\"english\">সাম্প্রতিক যুগে</span></p>",
+            "<p><span class=\"english\">জুরাসিক যুগে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">টারশিয়ারি যুগে</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: </span><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">মোট</span><span> </span><span class=\"english\">আয়তনের</span><span class=\"english\"> ১২% </span><span class=\"english\">এলাকা</span><span> </span><span class=\"english\">জুড়ে</span><span> </span><span class=\"english\">টারশিয়ারি</span><span> </span><span class=\"english\">যুগের</span><span> </span><span class=\"english\">পাহাড়সমূহ</span><span> </span><span class=\"english\">অবস্থিত</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">প্রথম</span><span> </span><span class=\"english\">নারী</span><span> </span><span class=\"english\">মেট্রোরেল</span><span> </span><span class=\"english\">চালকের</span><span> </span><span class=\"english\">নাম</span><span> </span><span class=\"english\">কী</span><span class=\"english\">?</span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">কানিজ</span><span> </span><span class=\"english\">ফাতেমা</span></p>",
+            "<p><span class=\"english\">মরিয়ম</span><span> </span><span class=\"english\">আফিজা</span></p>",
+            "<p><span class=\"english\">রুবানা</span><span> </span><span class=\"english\">হক</span></p>",
+            "<p><span class=\"english\">সুমনা</span><span> </span><span class=\"english\">সুলতানা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">মরিয়ম</span><span> </span><span class=\"english\">আফিজা</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">কারা</span><span> </span><span class=\"english\">সোহরাই</span><span> </span><span class=\"english\">উৎসব</span><span> </span><span class=\"english\">পালন</span><span> </span><span class=\"english\">করে</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">চাকমা</span><span> </span><span class=\"english\">নৃগোষ্ঠী</span></p>",
+            "<p><span class=\"english\">মারমা</span><span> </span><span class=\"english\">নৃগোষ্ঠী</span><span> </span></p>",
+            "<p><span class=\"english\">সাঁওতাল</span><span> </span><span class=\"english\">নৃগোষ্ঠী</span></p>",
+            "<p><span class=\"english\">গারো</span><span> </span><span class=\"english\">নৃগোষ্ঠী</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">সাঁওতাল</span><span> </span><span class=\"english\">নৃগোষ্ঠী</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বেবি</span><span> </span><span class=\"english\">জিংক</span><span> </span><span class=\"english\">ট্যাবলেট</span><span> </span><span class=\"english\">আবিষ্কারক</span><span> </span><span class=\"english\">প্রতিষ্ঠান</span><span> </span><span class=\"english\">কোনটি</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Bangladesh Medical University</span></p>",
+            "<p><span class=\"english\">icddr,b</span></p>",
+            "<p><span class=\"english\">WHO</span></p>",
+            "<p><span class=\"english\">IERDC</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">icddr,b</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">icddr,b</span><span class=\"english\"> (International Centre for </span><span class=\"english\">Diarrhoeal</span><span class=\"english\"> Disease Research, Bangladesh)</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">কর্কটক্রান্তি</span><span> </span><span class=\"english\">রেখা</span><span> </span><span class=\"english\">এবং</span><span class=\"english\"> ৯০° </span><span class=\"english\">পূর্ব</span><span> </span><span class=\"english\">দ্রাঘিমার</span><span> </span><span class=\"english\">ছেদবিন্দুটি</span><span> </span><span class=\"english\">পড়েছে</span><span> </span><span class=\"english\">নিম্নের</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">জেলায়</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">মাগুরা</span></p>",
+            "<p><span class=\"english\">রাজবাড়ি</span></p>",
+            "<p><span class=\"english\">কুমিল্লা</span></p>",
+            "<p><span class=\"english\">ফরিদপুর</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ফরিদপুর</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: </span><span class=\"english\">কর্কটক্রান্তি</span><span> </span><span class=\"english\">রেখা</span><span class=\"english\"> (২৩.৫</span><span class=\"english\"><sup>০</sup></span><span> </span><span class=\"english\">উত্তর</span><span> </span><span class=\"english\">অক্ষরেখা</span><span class=\"english\">) ও ৯০</span><span class=\"english\"><sup>০</sup></span><span> </span><span class=\"english\">পূর্ব</span><span> </span><span class=\"english\">দ্রাঘিমারেখার</span><span> </span><span class=\"english\">মিলনস্থল</span><span> </span><span class=\"english\">হলো</span><span> </span><span class=\"english\">ফরিদপুরের</span><span> </span><span class=\"english\">ভাঙ্গা</span><span> </span><span class=\"english\">উপজেলা</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">জাতীয়</span><span> </span><span class=\"english\">স্মৃতিসৌধ</span><span class=\"english\">’</span><span class=\"english\"> এর </span><span class=\"english\">প্রথম</span><span> </span><span class=\"english\">ফলকটি</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">স্মৃতি</span><span> </span><span class=\"english\">বহন</span><span> </span><span class=\"english\">করে</span><span class=\"english\">?</span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">শিক্ষা</span><span> </span><span class=\"english\">আন্দোলন</span></p>",
+            "<p><span class=\"english\">শাসনতন্ত্র</span><span> </span><span class=\"english\">আন্দোলন</span></p>",
+            "<p><span class=\"english\">ভাষা</span><span> </span><span class=\"english\">আন্দোলন</span></p>",
+            "<p><span class=\"english\">যুক্তফ্রন্ট</span><span> </span><span class=\"english\">নির্বাচন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ভাষা</span><span> </span><span class=\"english\">আন্দোলন</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: </span><span class=\"english\">জাতীয়</span><span> </span><span class=\"english\">স্মৃতিসৌধের</span><span> </span><span class=\"english\">ফলক</span><span> </span><span class=\"english\">সংখ্যা</span><span> </span><span class=\"english\">৭টি</span><span> </span><span class=\"english\">যা</span><span> </span><span class=\"english\">পর্যায়ক্রমে</span><span> </span><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">স্বাধীনতা</span><span> </span><span class=\"english\">আন্দোলনের</span><span> </span><span class=\"english\">৭টি</span><span> </span><span class=\"english\">পর্যায়কে</span><span> </span><span class=\"english\">নির্দেশ</span><span> </span><span class=\"english\">করে</span><span class=\"english\">। </span><span class=\"english\">যেমন</span><span class=\"english\">: </span><span class=\"english\">১ম</span><span> </span><span class=\"english\">পর্যায়</span><span class=\"english\">-৫২ এর </span><span class=\"english\">ভাষা</span><span> </span><span class=\"english\">আন্দোলন</span><span class=\"english\">, </span><span class=\"english\">২য়</span><span class=\"english\">-৫৪ এর </span><span class=\"english\">যুক্তফ্রন্ট</span><span class=\"english\">, </span><span class=\"english\">৩য়</span><span class=\"english\">-৫৬ এর </span><span class=\"english\">সংবিধান</span><span class=\"english\">, </span><span class=\"english\">৪র্থ</span><span class=\"english\">-৬২ এর </span><span class=\"english\">শিক্ষা</span><span> </span><span class=\"english\">আন্দোলন</span><span> </span><span class=\"english\">নির্বাচন</span><span class=\"english\">, </span><span class=\"english\">৫ম</span><span class=\"english\">-৬৬ এর </span><span class=\"english\">ছয়দফা</span><span class=\"english\">, </span><span class=\"english\">৬ষ্ঠ</span><span class=\"english\">-৬৯ এর </span><span class=\"english\">গণঅ</span><span class=\"english\">ভ্যু</span><span class=\"english\">ত্থান</span><span class=\"english\">, </span><span class=\"english\">৭ম</span><span class=\"english\">-৭১ এর </span><span class=\"english\">মুক্তিযুদ্ধ</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">ভৌগোলিক</span><span> </span><span class=\"english\">এলাকাটি</span><span> </span><span class=\"english\">‘</span><span class=\"english\">রামসার</span><span> </span><span class=\"english\">সাইট</span><span class=\"english\">’</span><span> </span><span class=\"english\">হিসেবে</span><span> </span><span class=\"english\">স্বীকৃত</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">রামসাগর</span></p>",
+            "<p><span class=\"english\">বগা</span><span> </span><span class=\"english\">লেক</span><span> </span></p>",
+            "<p><span class=\"english\">টাঙ্গুয়ার</span><span> </span><span class=\"english\">হাওর</span></p>",
+            "<p><span class=\"english\">কাপ্তাই</span><span> </span><span class=\"english\">হ্রদ</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">টাঙ্গুয়ার</span><span> </span><span class=\"english\">হাওর</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">সুন্দরবনে গোলপাতা সংগ্রহকারী সম্প্রদায় কী নামে পরিচিত? </span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">মৌয়াল</span></p>",
+            "<p><span class=\"english\">পাগমার্ক</span></p>",
+            "<p><span class=\"english\">বাওয়ালি</span></p>",
+            "<p><span class=\"english\">বনযোগী</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বাওয়ালি</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">ঢাকা</span><span> </span><span class=\"english\">বিশ্ববিদ্যালয়</span><span> </span><span class=\"english\">প্রতিষ্ঠায়</span><span> </span><span class=\"english\">কে</span><span> </span><span class=\"english\">অগ্রণী</span><span> </span><span class=\"english\">ভূমিকা</span><span> </span><span class=\"english\">পালন</span><span> </span><span class=\"english\">করেন</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">নওয়াব</span><span> </span><span class=\"english\">আবদুল</span><span> </span><span class=\"english\">লতিফ</span></p>",
+            "<p><span class=\"english\">স্যার</span><span> </span><span class=\"english\">সৈয়দ</span><span> </span><span class=\"english\">আহমেদ</span></p>",
+            "<p><span class=\"english\">নওয়াব</span><span> </span><span class=\"english\">স্যার</span><span> </span><span class=\"english\">সলিমুল্লাহ</span></p>",
+            "<p><span class=\"english\">খাজা</span><span> </span><span class=\"english\">নাজিমুদ্দিন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">নওয়াব</span><span> </span><span class=\"english\">স্যার</span><span> </span><span class=\"english\">সলিমুল্লাহ</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">জেলা</span><span> </span><span class=\"english\">সমুদ্রপৃষ্ঠ</span><span> </span><span class=\"english\">থেকে</span><span> </span><span class=\"english\">সবচেয়ে</span><span> </span><span class=\"english\">উঁচুতে</span><span> </span><span class=\"english\">অবস্থিত</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">খুলনা</span></p>",
+            "<p><span class=\"english\">বরিশাল</span></p>",
+            "<p><span class=\"english\">বগুড়া</span><span> </span></p>",
+            "<p><span class=\"english\">দিনাজপুর</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">দিনাজপুর</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: </span><span class=\"english\">দিনাজপুর</span><span> </span><span class=\"english\">সমুদ্রপৃষ্ঠ</span><span> </span><span class=\"english\">থেকে</span><span class=\"english\"> ৩৭.৫০ </span><span class=\"english\">মিটার</span><span> </span><span class=\"english\">উচ্চতায়</span><span> </span><span class=\"english\">অবস্থিত</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশের কোন জেলাটি সর্বাধিক আর্সেনিক আক্রান্ত</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ঢাকা</span></p>",
+            "<p><span class=\"english\">চাঁদপুর</span></p>",
+            "<p><span class=\"english\">বরিশাল</span></p>",
+            "<p><span class=\"english\">ভোলা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">চাঁদপুর</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: </span><span class=\"english\">বাংলাদেশে</span><span> </span><span class=\"english\">সর্বপ্রথম</span><span class=\"english\"> ১৯৯৩ </span><span class=\"english\">সালে</span><span> </span><span class=\"english\">চাঁপাইনবাবগঞ্জে</span><span> </span><span class=\"english\">আর্সেনিক</span><span> </span><span class=\"english\">শনাক্ত</span><span> </span><span class=\"english\">হয়</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাপিডিয়া প্রকাশ করে-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ঢাকা বিশ্ববিদ্যালয়</span></p>",
+            "<p><span class=\"english\">এশিয়াটিক সোসাইটি</span></p>",
+            "<p><span class=\"english\">বাংলা একাডেমি</span></p>",
+            "<p><span class=\"english\">রাজশাহী বিশ্ববিদ্যালয়</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">এশিয়াটিক সোসাইটি</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">সিটি</span><span> </span><span class=\"english\">কর্পোরেশনে</span><span> </span><span class=\"english\">প্রথম</span><span> </span><span class=\"english\">কোনো</span><span> </span><span class=\"english\">নারী</span><span> </span><span class=\"english\">মেয়র</span><span> </span><span class=\"english\">নির্বাচিত</span><span> </span><span class=\"english\">হন</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">চট্টগ্রাম</span></p>",
+            "<p><span class=\"english\">রাজশাহী</span></p>",
+            "<p><span class=\"english\">গাজীপুর</span></p>",
+            "<p><span class=\"english\">নারায়ণগঞ্জ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">নারায়ণগঞ্জ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: ড. </span><span class=\"english\">সেলিনা</span><span> </span><span class=\"english\">হায়া</span><span class=\"english\">ৎ </span><span class=\"english\">আইভী</span><span> </span><span class=\"english\">প্রথম</span><span> </span><span class=\"english\">নারী</span><span> </span><span class=\"english\">হিসেবে</span><span> </span><span class=\"english\">নারায়ণগঞ্জ</span><span> </span><span class=\"english\">সিটি</span><span> </span><span class=\"english\">কর্পোরেশনের</span><span> </span><span class=\"english\">মেয়র</span><span> </span><span class=\"english\">নির্বাচিত</span><span> </span><span class=\"english\">হন</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">জনসংখ্যা</span><span> </span><span class=\"english\">গবেষণা</span><span> </span><span class=\"english\">প্রতিষ্ঠান</span><span> </span><span class=\"english\">‘</span><span class=\"english\">NIPORT’</span><span> </span><span class=\"english\">কত</span><span> </span><span class=\"english\">সালে</span><span> </span><span class=\"english\">প্রতিষ্ঠিত</span><span> </span><span class=\"english\">হয়</span><span class=\"english\">? </span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">১৯৭৬ সালে</span></p>",
+            "<p><span class=\"english\">১৯৭৭ সালে</span></p>",
+            "<p><span class=\"english\">১৯৭৪ সালে</span></p>",
+            "<p><span class=\"english\">১৯৮৫ সালে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">১৯৭৭ সালে</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশ</span><span> </span><span class=\"english\">পোলিও</span><span> </span><span class=\"english\">মুক্ত</span><span> </span><span class=\"english\">হয়</span><span class=\"english\">-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">২০১২ </span><span class=\"english\">সালে</span></p>",
+            "<p><span class=\"english\">২০১৪ </span><span class=\"english\">সালে</span></p>",
+            "<p><span class=\"english\">২০২৬ </span><span class=\"english\">সালে</span></p>",
+            "<p><span class=\"english\">২০১৮ </span><span class=\"english\">সালে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">২০১৪ </span><span class=\"english\">সালে</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বিশ্বের</span><span> </span><span class=\"english\">প্রথম</span><span> </span><span class=\"english\">দেশ</span><span> </span><span class=\"english\">হিসেবে</span><span> </span><span class=\"english\">বাংলাদেশ</span><span> </span><span class=\"english\">কালাজ্বর</span><span> </span><span class=\"english\">মুক্ত</span><span> </span><span class=\"english\">ঘোষিত</span><span> </span><span class=\"english\">হয়</span><span class=\"english\">-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">২০২২ </span><span class=\"english\">সালে</span></p>",
+            "<p><span class=\"english\">২০২৩ </span><span class=\"english\">সালে</span></p>",
+            "<p><span class=\"english\">২০২৪ </span><span class=\"english\">সালে</span></p>",
+            "<p><span class=\"english\">২০২৫ </span><span class=\"english\">সালে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">২০২৩ </span><span class=\"english\">সালে</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">নিম্নোক্ত</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">জেলার</span><span> </span><span class=\"english\">সাথে</span><span> </span><span class=\"english\">অন্য</span><span> </span><span class=\"english\">কোনো</span><span> </span><span class=\"english\">দেশের</span><span> </span><span class=\"english\">সীমান্ত</span><span> </span><span class=\"english\">সংযোগ</span><span> </span><span class=\"english\">নেই</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ময়মনসিংহ</span></p>",
+            "<p><span class=\"english\">কুষ্টিয়া</span></p>",
+            "<p><span class=\"english\">ব্রাহ্মণবাড়িয়া</span></p>",
+            "<p><span class=\"english\">পটুয়াখালী</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পটুয়াখালী</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">জাতীয়</span><span> </span><span class=\"english\">পতাকার</span><span> </span><span class=\"english\">লাল</span><span> </span><span class=\"english\">বৃত্তটির</span><span> </span><span class=\"english\">ব্যাসার্ধ</span><span> </span><span class=\"english\">কী</span><span> </span><span class=\"english\">রূপ</span><span> </span><span class=\"english\">হবে</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পতাকার</span><span> </span><span class=\"english\">দৈর্ঘ্যের</span><span> </span><span class=\"english\">এক</span><span> </span><span class=\"english\">তৃতীয়াংশ</span><span> </span></p>",
+            "<p><span class=\"english\">পতাকার</span><span> </span><span class=\"english\">দৈর্ঘ্যের</span><span> </span><span class=\"english\">এক</span><span> </span><span class=\"english\">পঞ্চমাংশ</span><span> </span></p>",
+            "<p><span class=\"english\">পতাকার</span><span> </span><span class=\"english\">প্রস্থের</span><span> </span><span class=\"english\">এক</span><span> </span><span class=\"english\">পঞ্চমাংশ</span><span> </span></p>",
+            "<p><span class=\"english\">পতাকার</span><span> </span><span class=\"english\">প্রস্থের</span><span> </span><span class=\"english\">এক</span><span> </span><span class=\"english\">চতুর্থাংশ</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পতাকার</span><span> </span><span class=\"english\">দৈর্ঘ্যের</span><span> </span><span class=\"english\">এক</span><span> </span><span class=\"english\">পঞ্চমাংশ</span><span> </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">মোট</span><span> </span><span class=\"english\">সীমান্তবর্তী</span><span> </span><span class=\"english\">জেলা</span><span> </span><span class=\"english\">কতটি</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">৩১                   </span></p>",
+            "<p><span class=\"english\">৩২</span></p>",
+            "<p><span class=\"english\">৩৩                   </span></p>",
+            "<p><span class=\"english\">৩৪</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">৩২</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">ভারতের</span><span> </span><span class=\"english\">সাথে</span><span> </span><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">সীমান্তবর্তী</span><span> </span><span class=\"english\">জেলা-৩০টি</span><span class=\"english\">;</span></p><p><span class=\"english\">মিয়ানমারের</span><span> </span><span class=\"english\">সাথে</span><span> </span><span class=\"english\">সীমান্তবর্তী</span><span> </span><span class=\"english\">জেলা-৩টি</span><span class=\"english\">।</span></p><p><span class=\"english\">রাঙ্গামাটি</span><span> </span><span class=\"english\">জেলার</span><span> </span><span class=\"english\">সাথে</span><span> </span><span class=\"english\">ভারত</span><span class=\"english\"> ও </span><span class=\"english\">মিয়ানমার</span><span> </span><span class=\"english\">দুই</span><span> </span><span class=\"english\">দেশেরই</span><span> </span><span class=\"english\">সীমানা</span><span> </span><span class=\"english\">আছে</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">চট্টগ্রামের</span><span> </span><span class=\"english\">পূর্ব</span><span> </span><span class=\"english\">নাম</span><span> </span><span class=\"english\">কি</span><span> </span><span class=\"english\">ছিলো</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ভবানীগঞ্জ</span><span> </span></p>",
+            "<p><span class=\"english\">নাসিরাবাদ</span><span> </span></p>",
+            "<p><span class=\"english\">ইসলামাবাদ</span><span> </span></p>",
+            "<p><span class=\"english\">জালালাবাদ</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ইসলামাবাদ</span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">:</span></p><p><span class=\"english\">পূর্বনাম</span><span><span> </span></span><span><span> </span></span><span><span> </span></span><span class=\"english\">বর্তমান</span><span> </span><span class=\"english\">নাম</span></p><p><span class=\"english\">ভবানীগঞ্জ</span><span><span> </span></span><span><span> </span></span><span class=\"english\">গাইবান্ধা</span></p><p><span class=\"english\">নাসিরাবাদ</span><span><span> </span></span><span><span> </span></span><span class=\"english\">ময়মনসিংহ</span></p><p><span class=\"english\">জালালাবাদ</span><span><span> </span></span><span><span> </span></span><span class=\"english\">সিলেট</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">জাতীয়</span><span> </span><span class=\"english\">স্মৃতিসৌধের</span><span> </span><span class=\"english\">ফলক</span><span> </span><span class=\"english\">নিচের</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">ঘটনাকে</span><span> </span><span class=\"english\">নির্দেশ</span><span> </span><span class=\"english\">করে</span><span> </span><span class=\"english\">না</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">১৯৭০ </span><span class=\"english\">সালের</span><span> </span><span class=\"english\">নির্বাচন</span><span> </span></p>",
+            "<p><span class=\"english\">১৯৬৯ এর </span><span class=\"english\">গণঅভ্যুত্থান</span></p>",
+            "<p><span class=\"english\">১৯৬২ </span><span class=\"english\">সালের</span><span> </span><span class=\"english\">শিক্ষা</span><span> </span><span class=\"english\">আন্দোলন</span><span> </span></p>",
+            "<p><span class=\"english\">১৯৫৬ </span><span class=\"english\">সালের</span><span> </span><span class=\"english\">শাসনতন্ত্র</span><span> </span><span class=\"english\">আন্দোলন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">১৯৭০ </span><span class=\"english\">সালের</span><span> </span><span class=\"english\">নির্বাচন</span><span> </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">নবীনতম</span><span> </span><span class=\"english\">নদী</span><span> </span><span class=\"english\">কোনটি</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পদ্মা</span><span> </span></p>",
+            "<p><span class=\"english\">মেঘনা</span></p>",
+            "<p><span class=\"english\">যমুনা</span><span> </span></p>",
+            "<p><span class=\"english\">ব্রহ্মপুত্র</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">যমুনা</span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: ১৭৮৭ </span><span class=\"english\">সালে</span><span> </span><span class=\"english\">ডাউকি</span><span> </span><span class=\"english\">ফল্ট</span><span> </span><span class=\"english\">বরাবর</span><span> </span><span class=\"english\">সংঘটিত</span><span> </span><span class=\"english\">ভূমিকম্প</span><span class=\"english\"> ও </span><span class=\"english\">ভয়াবহ</span><span> </span><span class=\"english\">বন্যার</span><span> </span><span class=\"english\">ফলে</span><span> </span><span class=\"english\">ব্রহ্মপুত্রের</span><span> </span><span class=\"english\">গতিপথ</span><span> </span><span class=\"english\">পরিবর্তিত</span><span> </span><span class=\"english\">হয়ে</span><span> </span><span class=\"english\">যমুনা</span><span> </span><span class=\"english\">নদীর</span><span> </span><span class=\"english\">সৃষ্টি</span><span> </span><span class=\"english\">হয়</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">বৃহত্তম</span><span> </span><span class=\"english\">হাওড়</span><span> </span><span class=\"english\">কোনটি</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">টাঙ্গুয়ার</span><span> </span><span class=\"english\">হাওড়</span><span> </span></p>",
+            "<p><span class=\"english\">খালিয়াজুড়ি</span><span> </span><span class=\"english\">হাওড়</span><span> </span></p>",
+            "<p><span class=\"english\">নিকলী</span><span> </span><span class=\"english\">হাওড়</span><span> </span></p>",
+            "<p><span class=\"english\">হাকালুকি</span><span> </span><span class=\"english\">হাওড়</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">হাকালুকি</span><span> </span><span class=\"english\">হাওড়</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: </span><span class=\"english\">হাকালুকি</span><span> </span><span class=\"english\">হাওড়</span><span> </span><span class=\"english\">মৌলভীবাজার</span><span class=\"english\"> ও </span><span class=\"english\">সিলেট</span><span> </span><span class=\"english\">জেলার</span><span> </span><span class=\"english\">বিস্তীর্ণ</span><span> </span><span class=\"english\">অঞ্চল</span><span> </span><span class=\"english\">জুড়ে</span><span> </span><span class=\"english\">অবস্থিত</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">মারমা</span><span> </span><span class=\"english\">জাতিগোষ্ঠী</span><span> </span><span class=\"english\">পূর্বে</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">নামে</span><span> </span><span class=\"english\">পরিচিত</span><span> </span><span class=\"english\">ছিল</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বর্মন</span></p>",
+            "<p><span class=\"english\">মাহাতো</span></p>",
+            "<p><span class=\"english\">মগ</span></p>",
+            "<p><span class=\"english\">রাখাইন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">মগ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">মগরা</span><span> </span><span class=\"english\">ছিল</span><span> </span><span class=\"english\">জলদস্যু</span><span> </span><span class=\"english\">যারা</span><span> </span><span class=\"english\">নদীপথে</span><span> </span><span class=\"english\">লুটপাট</span><span> </span><span class=\"english\">চালাতো</span><span class=\"english\">। </span><span class=\"english\">মগদের</span><span> </span><span class=\"english\">দমন</span><span> </span><span class=\"english\">করেন-শায়েস্তা</span><span> </span><span class=\"english\">খান</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">ঢাকা</span><span> </span><span class=\"english\">বিশ্ববিদ্যালয়ের</span><span> </span><span class=\"english\">প্রথম</span><span> </span><span class=\"english\">মুসলিম</span><span> </span><span class=\"english\">উপাচার্য</span><span> </span><span class=\"english\">কে</span><span> </span><span class=\"english\">ছিলেন</span><span class=\"english\">?  </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">স্যার</span><span class=\"english\"> আহমেদ ফজলুর </span><span class=\"english\">রহমান</span><span> </span></p>",
+            "<p><span class=\"english\">সৈয়দ</span><span> </span><span class=\"english\">মোয়াজ্জেম</span><span> </span><span class=\"english\">হোসেন</span><span> </span></p>",
+            "<p><span class=\"english\">বিচারপতি</span><span> </span><span class=\"english\">আবু</span><span> </span><span class=\"english\">সাঈদ</span><span> </span><span class=\"english\">চৌধুরী</span><span> </span></p>",
+            "<p><span class=\"english\">মাহমুদ</span><span> </span><span class=\"english\">হুসাইন</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">স্যার</span><span class=\"english\"> আহমেদ ফজলুর </span><span class=\"english\">রহমান</span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: </span><span class=\"english\">স্যার</span><span> </span><span class=\"english\">আহমেদ</span><span> </span><span class=\"english\">ফজলুর</span><span> </span><span class=\"english\">রহমান</span><span> </span><span class=\"english\">বা</span><span> </span><span class=\"english\">স্যার</span><span> </span><span class=\"english\">এ.এফ</span><span class=\"english\">. </span><span class=\"english\">রহমান</span><span> </span><span class=\"english\">উপমহাদেশ</span><span> </span><span class=\"english\">থেকে</span><span> </span><span class=\"english\">প্রথম</span><span class=\"english\">, </span><span class=\"english\">বাঙালি</span><span> </span><span class=\"english\">হিসেবে</span><span> </span><span class=\"english\">প্রথম</span><span> </span><span class=\"english\">এবং</span><span> </span><span class=\"english\">মুসলিম</span><span> </span><span class=\"english\">হিসেবে</span><span> </span><span class=\"english\">প্রথম</span><span> </span><span class=\"english\">উপাচার্য</span><span> </span><span class=\"english\">ছিলেন</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">ঢাকা</span><span> </span><span class=\"english\">বিশ্ববিদ্যালয়</span><span> </span><span class=\"english\">কেন্দ্রীয়</span><span> </span><span class=\"english\">ছাত্র</span><span> </span><span class=\"english\">সংসদ</span><span class=\"english\"> (</span><span class=\"english\">DUCSU</span><span class=\"english\">) </span><span class=\"english\">কবে</span><span> </span><span class=\"english\">প্রতিষ্ঠিত</span><span class=\"english\"> হয়? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">১৯২১ </span><span class=\"english\">সালে</span><span> </span></p>",
+            "<p><span class=\"english\">১৯২২ </span><span class=\"english\">সালে</span><span> </span></p>",
+            "<p><span class=\"english\">১৯২৩ </span><span class=\"english\">সালে</span><span> </span></p>",
+            "<p><span class=\"english\">১৯২৫ </span><span class=\"english\">সালে</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">১৯২৩ </span><span class=\"english\">সালে</span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: </span><span class=\"english\">Dhaka University Central Students Union (</span><span class=\"english\">DUCSU</span><span class=\"english\">)</span><span> </span><span class=\"english\">ডাকসুকে</span><span> </span><span class=\"english\">বাংলাদেশের</span><span> </span><span class=\"english\">দ্বিতীয়</span><span> </span><span class=\"english\">সংসদও</span><span> </span><span class=\"english\">বলা</span><span> </span><span class=\"english\">হয়</span><span class=\"english\">। </span><span class=\"english\">প্রথম</span><span> </span><span class=\"english\">ডাকসু</span><span> </span><span class=\"english\">নির্বাচন</span><span> </span><span class=\"english\">অনুষ্ঠিত</span><span> </span><span class=\"english\">হয়েছিল</span><span class=\"english\"> ১৯৫৩ </span><span class=\"english\">সালে</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলাদেশ</span><span> </span><span class=\"english\">বিমান</span><span> </span><span class=\"english\">বাহিনীর</span><span> </span><span class=\"english\">প্রশিক্ষণ</span><span> </span><span class=\"english\">একাডেমি</span><span> </span><span class=\"english\">কোথায়</span><span> </span><span class=\"english\">অবস্থিত</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">চট্টগ্রামে</span><span> </span></p>",
+            "<p><span class=\"english\">রাজশাহীতে</span><span> </span></p>",
+            "<p><span class=\"english\">বগুড়ায়</span><span> </span></p>",
+            "<p><span class=\"english\">যশোরে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">যশোরে</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বর্ডার</span><span> </span><span class=\"english\">গার্ড</span><span> </span><span class=\"english\">বাংলাদেশ</span><span class=\"english\"> (</span><span class=\"english\">BGB</span><span class=\"english\">) </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">মন্ত্রণালয়ের</span><span> </span><span class=\"english\">অধীন</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">প্রতিরক্ষা</span><span> </span><span class=\"english\">মন্ত্রণালয়</span><span> </span></p>",
+            "<p><span class=\"english\">স্বরাষ্ট্র</span><span> </span><span class=\"english\">মন্ত্রণালয়</span></p>",
+            "<p><span class=\"english\">রাষ্ট্রপতির</span><span> </span><span class=\"english\">কার্যালয়</span><span> </span></p>",
+            "<p><span class=\"english\">প্রধান</span><span> </span><span class=\"english\">উপদেষ্টার</span><span> </span><span class=\"english\">কার্যালয়</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">স্বরাষ্ট্র</span><span> </span><span class=\"english\">মন্ত্রণালয়</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জেনে</span><span> </span><span class=\"english\">রেখো</span><span class=\"english\">: </span><span class=\"english\">বাংলাদেশ</span><span> </span><span class=\"english\">রাইফেলস</span><span> </span><span class=\"english\">বা</span><span> </span><span class=\"english\">বিডিআর</span><span class=\"english\"> (</span><span class=\"english\">BDR</span><span class=\"english\">) </span><span class=\"english\">থেকে</span><span class=\"english\"> ২০১১ </span><span class=\"english\">সালে</span><span> </span><span class=\"english\">বর্ডার</span><span> </span><span class=\"english\">গার্ড</span><span> </span><span class=\"english\">বাংলাদেশ</span><span class=\"english\"> (</span><span class=\"english\">BGB</span><span class=\"english\">) </span><span class=\"english\">নামকরণ</span><span> </span><span class=\"english\">করা</span><span> </span><span class=\"english\">হয়</span><span class=\"english\">।</span></p></span>"
+    }
+]

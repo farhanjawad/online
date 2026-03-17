@@ -1,0 +1,442 @@
+[
+    {
+        "question_html": "<p><span class=\"english\">দুপুর আড়াইটায় ঘড়ির ঘণ্টার কাঁটা ও মিনিটের কাঁটার পার্থক্য কত ডিগ্রি হবে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">105°</span></p>",
+            "<p><span class=\"english\">95°</span></p>",
+            "<p><span class=\"english\">115°</span></p>",
+            "<p><span class=\"english\">110°</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">105°</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">দুপুর 2:30 টায় ঘড়ির ঘণ্টার ও মিনিটের কাঁটার পার্থক্য </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><msup><mrow><mrow><mo>|</mo><mfrac><mrow><mn>11</mn><mi>M</mi><mtext> </mtext><mo>−</mo><mtext> </mtext><mn>60</mn><mi>H</mi></mrow><mn>2</mn></mfrac><mo>|</mo></mrow></mrow><mrow><msup><mi></mi><mrow><mo>∘</mo></mrow></msup></mrow></msup><mo>=</mo><msup><mrow><mrow><mo>|</mo><mfrac><mrow><mn>11</mn><mo>×</mo><mn>30</mn><mo>−</mo><mn>2</mn><mo>×</mo><mn>60</mn></mrow><mn>2</mn></mfrac><mo>|</mo></mrow></mrow><mrow><msup><mi></mi><mrow><mo>∘</mo></mrow></msup></mrow></msup><mo>=</mo><msup><mrow><mrow><mo>|</mo><mfrac><mrow><mn>330</mn><mo>−</mo><mn>120</mn></mrow><mn>2</mn></mfrac><mo>|</mo></mrow></mrow><mrow><msup><mi></mi><mrow><mo>∘</mo></mrow></msup></mrow></msup><mo>=</mo><msup><mrow><mrow><mo>|</mo><mfrac><mn>210</mn><mn>2</mn></mfrac><mo>|</mo></mrow></mrow><mrow><msup><mi></mi><mrow><mo>∘</mo></mrow></msup></mrow></msup><mo>=</mo><msup><mn>105</mn><mrow><mo>∘</mo></mrow></msup></math></span> </span><span> </span><span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">গতকালের পূর্বের দিনটি ছিল শনিবার। আগামীকালের পরের দিন কী বার হবে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বুধবার</span></p>",
+            "<p><span class=\"english\">বৃহস্পতিবার</span></p>",
+            "<p><span class=\"english\">শুক্রবার </span></p>",
+            "<p><span class=\"english\">মঙ্গলবার</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বুধবার</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>23</mn><mo>×</mo><msup><mrow><mn>100</mn></mrow><mrow><mn>5</mn></mrow></msup><mo>+</mo><mn>24</mn><mo>×</mo><msup><mrow><mn>100</mn></mrow><mrow><mn>5</mn></mrow></msup><mo>+</mo><mn>26</mn><mo>×</mo><msup><mrow><mn>100</mn></mrow><mrow><mn>5</mn></mrow></msup><mo>+</mo><mn>27</mn><mo>×</mo><msup><mrow><mn>100</mn></mrow><mrow><mn>5</mn></mrow></msup><mo>=</mo></math></span> </span><span class=\"english\"> কত?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mn>100</mn></mrow><mrow><mn>4</mn></mrow></msup></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mn>100</mn></mrow><mrow><mn>5</mn></mrow></msup></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mn>100</mn></mrow><mrow><mn>6</mn></mrow></msup></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mn>100</mn></mrow><mrow><mn>7</mn></mrow></msup></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mn>100</mn></mrow><mrow><mn>6</mn></mrow></msup></math></span> </span><span> </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">একটি চৌবাচ্চা তিনটি নল দিয়ে যথাক্রমে ১০, ১২ ও ১৫ ঘণ্টায় পূর্ণ হতে পারে। তিনটি নল একসঙ্গে খুলে দিলে চৌবাচ্চার অর্ধেক পূর্ণ হতে কত সময় লাগবে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">২ ঘণ্টা</span></p>",
+            "<p><span class=\"english\">৩ ঘণ্টা</span></p>",
+            "<p><span class=\"english\">৪ ঘণ্টা</span></p>",
+            "<p><span class=\"english\">৬ ঘণ্টা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">২ ঘণ্টা</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">শাকিল</span><span> </span><span class=\"english\">ও</span><span> </span><span class=\"english\">নুহান</span><span> </span><span class=\"english\">একটি</span><span> </span><span class=\"english\">কাজ</span><span> </span><span class=\"english\">১২</span><span> </span><span class=\"english\">দিনে</span><span> </span><span class=\"english\">করতে</span><span> </span><span class=\"english\">পারে</span><span class=\"english\">।</span><span> </span><span class=\"english\">যদি</span><span> </span><span class=\"english\">শাকিল</span><span> </span><span class=\"english\">সেই</span><span> </span><span class=\"english\">কাজটি</span><span> </span><span class=\"english\">২০</span><span> </span><span class=\"english\">দিনে</span><span> </span><span class=\"english\">করতে</span><span> </span><span class=\"english\">পারে</span><span> </span><span class=\"english\">তাহলে</span><span> </span><span class=\"english\">নুহান</span><span> </span><span class=\"english\">কত</span><span> </span><span class=\"english\">দিনে</span><span> </span><span class=\"english\">সেই</span><span> </span><span class=\"english\">কাজ</span><span> </span><span class=\"english\">করতে</span><span> </span><span class=\"english\">পারবে</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">25</span></p>",
+            "<p><span class=\"english\">26</span></p>",
+            "<p><span class=\"english\">30</span></p>",
+            "<p><span class=\"english\">28</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">30</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">৫ কি.মি. হাঁটার পর </span><span class=\"english\">আবির  তার</span><span class=\"english\"> ডানদিকে ঘুরে ৩ কি.মি. হাঁটলো। তারপর </span><span class=\"english\">বামদিকে  ঘুরে</span><span class=\"english\"> আরো ২ কি.মি. হাঁটলো। সর্বশেষ সে দক্ষিণ দিকে হাঁটলো। তার যাত্রা </span><span class=\"english\">শুরু  হয়েছিল</span><span class=\"english\"> কোনদিকে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">দক্ষিণ </span></p>",
+            "<p><span class=\"english\">উত্তর </span></p>",
+            "<p><span class=\"english\">পূর্ব </span></p>",
+            "<p><span class=\"english\">পশ্চিম </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পশ্চিম </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">একটি ঘড়িতে ঠিক ৩:৩০ বাজে। যদি মিনিটের কাঁটা দক্ষিণ দিকে থাকে তবে সেকেন্ডের কাঁটা কোন দিকে থাকবে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পশ্চিম দিকে</span></p>",
+            "<p><span class=\"english\">উত্তর দিকে</span></p>",
+            "<p><span class=\"english\">দক্ষিণ দিকে</span></p>",
+            "<p><span class=\"english\">উত্তর-পশ্চিম কোণে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">উত্তর দিকে</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_4ce1ca34.png\"/></span><span class=\"english\">চিত্র হতে স্পষ্ট যে, ঘড়িতে যখন 3:30 বাজে, তখন মিনিটের কাঁটা তার বিপরীত দিকে অর্থাৎ দক্ষিণ দিকে বিবেচনা করলে, সেকেন্ডের কাঁটাটি উত্তর দিক নির্দেশ করবে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">রোজি, মনি, আনিকা ও জেরিন সারিবদ্ধভাবে বসলো। আনিকা মনির বামে, রোজি মনির ডানে কিন্তু জেরিনের বামে বসলো। যদি আনিকা রোজির </span><span class=\"english\">বামে</span><span class=\"english\"> বসে থাকে তাহলে সবশেষে ডানে কে বসেছে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">মনি</span></p>",
+            "<p><span class=\"english\">আনিকা</span></p>",
+            "<p><span class=\"english\">জেরিন</span></p>",
+            "<p><span class=\"english\">রোজি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">জেরিন</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_f7a4e2ed.png\"/></span></p><p><span class=\"english\">এক্ষেত্রে সর্বডানের অবস্থান জেরিনের।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের চিত্রে মোট কয়টি বর্গক্ষেত্র</span><span> </span><span class=\"english\">আছে?</span></p><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_7054ae75.png\"/></span></p>",
+        "options_html": [
+            "<p><span class=\"english\">১৭</span></p>",
+            "<p><span class=\"english\">২২</span></p>",
+            "<p><span class=\"english\">২৬</span></p>",
+            "<p><span class=\"english\">৩০</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">৩০</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msup><mrow><mtext>৪</mtext></mrow><mrow><mtext>২</mtext></mrow></msup><mo>+</mo><msup><mrow><mtext>৩</mtext></mrow><mrow><mtext>২</mtext></mrow></msup><mo>+</mo><msup><mrow><mtext>২</mtext></mrow><mrow><mtext>২</mtext></mrow></msup><mo>+</mo><msup><mrow><mtext>১</mtext></mrow><mrow><mtext>২</mtext></mrow></msup><mo>=</mo><mtext>১৬</mtext><mo>+</mo><mtext>৯</mtext><mo>+</mo><mtext>৪</mtext><mo>+</mo><mtext>১</mtext><mo>=</mo><mtext>৩০</mtext></math></span> </span><span> </span><span class=\"english\">টি</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের চিত্রগুলোর কোনটি ভিন্ন?</span></p>",
+        "options_html": [
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_5a29468c.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_6444c676.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_3a62b8f9.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_2623e593.png\"/></span></p>"
+        ],
+        "correct_answer_html": "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_6444c676.png\"/></span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Problem pattern-এর শূন্যস্থানে Answer pattern-এর কোন চিত্রটি বসবে?</span></p><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_073c5bd2.png\"/></span></p>",
+        "options_html": [
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_35d4c90b.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_94db3c4c.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_d08835cc.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_cb63d586.png\"/></span></p>"
+        ],
+        "correct_answer_html": "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_35d4c90b.png\"/></span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">লক্ষণীয় যে, উক্ত জ্যামিতিক চিত্রের প্রতি ধাপে পরিবর্তন ঘড়ির কাঁটার দিকে সজ্জিত হচ্ছে ।</span></p><p></p><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_3948ab4e.png\"/></span></p><p><span class=\"english\">পরের প্যাটার্নটি হবে-</span></p><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_a8d1a9f4.png\"/></span></p><p><span class=\"english\">এখানে, তীর চিহ্ন ঘড়ির কাঁটা অনুসারে 90° কোণে ঘুরছে তা দেখানো হয়েছে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><a></a><span class=\"english\">JUDGEMENT</span><span> </span><span class=\"english\">শব্দটি আয়নায় কেমন দেখাবে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">JUDGEMENT</span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_11b0be0a.png\"/></span></p>",
+            "<p><span class=\"english\">YUDGEMENI</span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_0aed5884.png\"/></span></p>"
+        ],
+        "correct_answer_html": "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_11b0be0a.png\"/></span></p>",
+        "solution_html": "<br/>\n<span><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_04cc958e.png\"/></span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">একটি ডিজিটাল ঘড়িতে</span><span> </span><span class=\"english\">09 :</span><span class=\"english\"> 40</span><span class=\"english\"> বাজলে, আয়নাতে কিরূপ দেখা যাবে?</span></p>",
+        "options_html": [
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_3f12ccae.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_04070a39.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_e36eea67.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_cafc3f83.png\"/></span></p>"
+        ],
+        "correct_answer_html": "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_3f12ccae.png\"/></span></p>",
+        "solution_html": "<br/>\n<span><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_fad5170a.png\"/></span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">একটি ঘড়িতে সময় ১০:১০ হলে পানিতে দেখলে কেমন দেখা যাবে?</span></p>",
+        "options_html": [
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_7fe4bf58.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_a4d46042.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_dfaa10ca.png\"/></span></p>",
+            "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_258066ae.png\"/></span></p>"
+        ],
+        "correct_answer_html": "<p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_7fe4bf58.png\"/></span></p>",
+        "solution_html": "<br/>\n<span><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_791adc62.png\"/></span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">প্রশ্নবোধক স্থানে দূরত্ব কত বসালে দণ্ডটির ভারসাম্য ঠিক থাকবে?</span></p><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_9e05f3af.png\"/></span></p>",
+        "options_html": [
+            "<p><span class=\"english\">9</span></p>",
+            "<p><span class=\"english\">7</span></p>",
+            "<p><span class=\"english\">14</span></p>",
+            "<p><span class=\"english\">12</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">12</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">ধরি, অজানা দূরত্ব = x; লিভারের মূলনীতি অনুসারে,</span></p><p><span class=\"english\">x </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math></span> </span><span class=\"english\"> 60 = 80 </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math></span> </span><span class=\"english\"> 9;  </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo></math></span> </span><span class=\"english\"> x = </span><span class=\"english\">12</span><span class=\"english\">ft</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Approximately how much</span><span> </span><span class=\"english\">minimum</span><span class=\"english\"> force is needed to lift the weight?</span></p><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_9163d3a9.png\"/></span></p>",
+        "options_html": [
+            "<p><span class=\"english\">24 lbs</span></p>",
+            "<p><span class=\"english\">10 lbs</span></p>",
+            "<p><span class=\"english\">48 lbs</span></p>",
+            "<p><span class=\"english\">12 lbs</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">12 lbs</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">তোমার জন্মতারিখ ১৭.০৪.</span><span class=\"english\">২০০৫</span><span class=\"english\"> হলে, ২৩.০৯.২০</span><span class=\"english\">২৫</span><span class=\"english\"> তারিখে </span><span class=\"english\">তোমার</span><span class=\"english\"> বয়স কত হবে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">২০</span><span class=\"english\"> বছর ৫ মাস ৬ দিন</span></p>",
+            "<p><span class=\"english\">২০</span><span class=\"english\"> বছর ৪ মাস ৬ দিন</span></p>",
+            "<p><span class=\"english\">২১</span><span class=\"english\"> বছর ৫ মাস ৬ দিন</span></p>",
+            "<p><span class=\"english\">২১</span><span class=\"english\"> বছর ৪ মাস ৬ দিন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">২০</span><span class=\"english\"> বছর ৫ মাস ৬ দিন</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">পিস্টন ব্যবহার করা হয় কোন ইঞ্জিনে? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">জেট ইঞ্জিনে</span></p>",
+            "<p><span class=\"english\">বন্দুকে</span></p>",
+            "<p><span class=\"english\">ডিজেল ইঞ্জিনে</span></p>",
+            "<p><span class=\"english\">বৈদ্যুতিক ইঞ্জিনে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ডিজেল ইঞ্জিনে</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">অপশনে উল্লিখিত শুধুমাত্র ডিজেল ইঞ্জিনে পিস্টন থাকে। জেট ইঞ্জিনে বা বৈদ্যুতিক ইঞ্জিনে কোন পিস্টন থাকে না।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">যদি </span><span class=\"english\">PLANET </span><span class=\"english\">এর কোড </span><span class=\"english\">LETGXM</span><span class=\"english\"> হয় তাহলে </span><span class=\"english\">GROWTH </span><span class=\"english\">এর কোড কোনটি হবে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">PLTHXA</span></p>",
+            "<p><span class=\"english\">ZKHPMA</span></p>",
+            "<p><span class=\"english\">YXZMNR</span></p>",
+            "<p><span class=\"english\">QSLPRW</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">PLTHXA</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">যদি A অর্থ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>÷</mi></math></span> </span><span class=\"english\">, B অর্থ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>+</mo></math></span> </span><span class=\"english\">, C অর্থ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>−</mo><mtext> </mtext></math></span> </span><span class=\"english\">এবং D অর্থ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math></span> </span><span class=\"english\"> হয় তাহলে</span><span class=\"english\">,</span><span> </span><span class=\"english\">11 B 15 C 8 A 4 D 5 =?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">36</span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>−</mo><mn>16</mn></math></span> </span></p>",
+            "<p><span class=\"english\">26</span></p>",
+            "<p><span class=\"english\">16</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">16</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>11</mn><mtext> </mtext><mi>B</mi><mtext> </mtext><mn>15</mn><mtext> </mtext><mi>C</mi><mtext> </mtext><mn>8</mn><mtext> </mtext><mi>A</mi><mtext> </mtext><mn>4</mn><mtext> </mtext><mi>D</mi><mtext> </mtext><mn>5</mn><mtext> </mtext><mo>=</mo><mtext> </mtext><mn>11</mn><mtext> </mtext><mo>+</mo><mtext> </mtext><mn>15</mn><mtext> </mtext><mo>−</mo><mtext> </mtext><mn>8</mn><mtext> </mtext><mi>÷</mi><mtext> </mtext><mn>4</mn><mtext> </mtext><mo>×</mo><mtext> </mtext><mn>5</mn></math></span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo><mtext> </mtext><mn>11</mn><mtext> </mtext><mo>+</mo><mtext> </mtext><mn>15</mn><mtext> </mtext><mo>−</mo><mtext> </mtext><mn>2</mn><mtext> </mtext><mo>×</mo><mtext> </mtext><mn>5</mn><mtext> </mtext><mo>=</mo><mtext> </mtext><mn>26</mn><mtext> </mtext><mo>−</mo><mtext> </mtext><mn>10</mn><mtext> </mtext><mo>=</mo><mtext> </mtext><mn>16</mn></math></span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">যদি</span><span class=\"bangla\"> </span><span class=\"english\">JAHANGIRNAGAR = 3252169012620</span><span class=\"bangla\"> </span><span class=\"english\">হয়</span><span> </span><span class=\"english\">তবে</span><span class=\"bangla\"> </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>2205</mn><mo>×</mo><mn>3</mn><mo>=</mo><mo>?</mo></math></span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">GNHR</span></p>",
+            "<p><span class=\"english\">GGNH</span></p>",
+            "<p><span class=\"english\">JJGN</span></p>",
+            "<p><span class=\"english\">JNGH</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">GGNH</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">প্রশ্নবোধক স্থানে কোন সংখ্যাটি বসবে?</span></p><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_4a803f3f.png\"/></span></p>",
+        "options_html": [
+            "<p><span class=\"english\">67</span></p>",
+            "<p><span class=\"english\">99</span></p>",
+            "<p><span class=\"english\">87</span></p>",
+            "<p><span class=\"english\">74</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">67</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>26</mn><mo>+</mo><mrow><mo>(</mo><mn>2</mn><mo>+</mo><mn>6</mn><mo>)</mo></mrow><mo>=</mo><mn>34</mn></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>34</mn><mo>+</mo><mrow><mo>(</mo><mn>3</mn><mo>+</mo><mn>4</mn><mo>)</mo></mrow><mo>=</mo><mn>41</mn></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>41</mn><mo>+</mo><mrow><mo>(</mo><mn>4</mn><mo>+</mo><mn>1</mn><mo>)</mo></mrow><mo>=</mo><mn>46</mn></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>46</mn><mo>+</mo><mrow><mo>(</mo><mn>4</mn><mo>+</mo><mn>6</mn><mo>)</mo></mrow><mo>=</mo><mn>56</mn></math></span> </span><span> </span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mn>56</mn><mo>+</mo><mrow><mo>(</mo><mn>5</mn><mo>+</mo><mn>6</mn><mo>)</mo></mrow><mo>=</mo><mn>67</mn></math></span> </span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">ইংরেজি বর্ণমালার বামদিক থেকে ডানদিকে ১১-তম বর্ণের বামদিকে ৫ম বর্ণ কোনটি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">K</span></p>",
+            "<p><span class=\"english\">E</span></p>",
+            "<p><span class=\"english\">F</span></p>",
+            "<p><span class=\"english\">G</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">F</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">যদি ROSE কে লেখা হয় 6821, CHAIR কে লেখা হয় 73456 এবং PREACH কে লেখা হয় 961473, তাহলে SEARCH-এর কোড কত?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">246173</span></p>",
+            "<p><span class=\"english\">214673</span></p>",
+            "<p><span class=\"english\">214763</span></p>",
+            "<p><span class=\"english\">216473</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">214673</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">বর্ণগুলো ক্রমানুসারে কোড করা। </span><span class=\"english\">SEARCH</span><span class=\"english\"> এর প্রতিটি বর্ণ আগের শব্দগুলো থেকে ডিকোড করতে হবে।</span></p><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_745c7800.png\"/></span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">ইংরেজি বর্ণমালায় ধারাবাহিকভাবে ১৮তম অক্ষরের বামদিকে ১০ম অক্ষর কোনটি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">H</span></p>",
+            "<p><span class=\"english\">S</span></p>",
+            "<p><span class=\"english\">F</span></p>",
+            "<p><span class=\"english\">J</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">H</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোন শব্দটি সমগোত্রীয় নয়?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Aeroplane</span></p>",
+            "<p><span class=\"english\">Car</span></p>",
+            "<p><span class=\"english\">Scooter</span></p>",
+            "<p><span class=\"english\">Truck</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Aeroplane</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">অপশনে উল্লেখিত শব্দগুলোর মধ্যে Aeroplane চলে আকাশ পথে কিন্তু Car, Scooter ও Truck চলে স্থল পথে। Aeroplane অপশনটি নিচের সব অপশন থেকে আলাদা।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">A </span><span class=\"english\">এর ছেলে</span><span class=\"english\"> B</span><span class=\"english\"> এর সাথে বিয়ে হয়েছে </span><span class=\"english\">C </span><span class=\"english\">এর, যার বোন </span><span class=\"english\">D </span><span class=\"english\">এর বিয়ে হয়েছে </span><span class=\"english\">E </span><span class=\"english\">এর সাথে, সে </span><span class=\"english\">B </span><span class=\"english\">এর ভাই। </span><span class=\"english\">D </span><span class=\"english\">এর সাথে </span><span class=\"english\">A </span><span class=\"english\">এর সম্পর্ক </span><span class=\"english\">কী</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বোন</span></p>",
+            "<p><span class=\"english\">পুত্রবধূ</span></p>",
+            "<p><span class=\"english\">শ্যালিকা</span></p>",
+            "<p><span class=\"english\">চাচাতো বোন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পুত্রবধূ</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">আপনি ধূমপান অপছন্দ করেন কিন্তু বাসে বসে আপনার পাশের সিটের যাত্রীটি সিগারেট ধরাল। আপনি-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">তাকে ধূমপানের অপকারিতা সম্পর্কে জ্ঞান দিবেন</span></p>",
+            "<p><span class=\"english\">সিগারেট ফেলে দিতে বলবেন</span></p>",
+            "<p><span class=\"english\">গাড়ি থেকে নেমে যেতে বলবেন</span></p>",
+            "<p><span class=\"english\">বাসের মধ্যে সিগারেট ধরানোটা ঠিক হয়নি তা বলবেন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বাসের মধ্যে সিগারেট ধরানোটা ঠিক হয়নি তা বলবেন</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">৮১, ২৭, _</span><span class=\"english\">_</span><span class=\"english\">_, ৩, ১ লুপ্ত সংখ্যাটি কত?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">৬</span></p>",
+            "<p><span class=\"english\">৯</span></p>",
+            "<p><span class=\"english\">১২</span></p>",
+            "<p><span class=\"english\">১৫</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">৯</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">৮১, ২৭, ___, ৩, ১</span></p><p><span class=\"english\">৩</span><span class=\"english\"><sup>৪</sup></span><span class=\"english\">, ৩</span><span class=\"english\"><sup>৩</sup></span><span class=\"english\">, ৩</span><span class=\"english\"><sup>২</sup></span><span class=\"english\">, ৩</span><span class=\"english\"><sup>১</sup></span><span class=\"english\">, ৩</span><span class=\"english\"><sup>০</sup></span></p><p><span class=\"english\">অর্থাৎ লুপ্ত সংখ্যাটি হবে ৩</span><span class=\"english\"><sup>২</sup></span><span class=\"english\"> বা ৯</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">২৬০ এর ২৫% সমান, কত এর ২০%?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">65</span></p>",
+            "<p><span class=\"english\">130</span></p>",
+            "<p><span class=\"english\">325</span></p>",
+            "<p><span class=\"english\">15</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">325</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">১, ১, ২, ৩, ৫, ৮, .... এই সংখ্যা পরম্পরায় অষ্টম পদ কত</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">২১</span></p>",
+            "<p><span class=\"english\">১৩</span></p>",
+            "<p><span class=\"english\">১৯</span></p>",
+            "<p><span class=\"english\">১৬</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">২১</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">প্রথম পদ + দ্বিতীয় পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> তৃতীয় পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> ২</span></p><p><span class=\"english\">দ্বিতীয় পদ + তৃতীয় পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> চতুর্থ পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> ৩</span></p><p><span class=\"english\">তৃতীয় পদ + চতুর্থ পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> পঞ্চম পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> ৫</span></p><p><span class=\"english\">চতুর্থ পদ + পঞ্চম পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> ষষ্ঠ পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> ৮</span></p><p><span class=\"english\">পঞ্চম পদ + ষষ্ঠ পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> সপ্তম পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> ১৩</span></p><p><span class=\"english\">ষষ্ঠ পদ + সপ্তম পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> অষ্টম পদ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> ২১</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>Z</mi></mrow><mrow><mn>2</mn></mrow></msub><msub><mrow><mi>A</mi></mrow><mrow><mn>3</mn></mrow></msub><mo>,</mo><msub><mrow><mi>Y</mi></mrow><mrow><mn>4</mn></mrow></msub><msub><mrow><mi>B</mi></mrow><mrow><mn>9</mn></mrow></msub><mo>,</mo><msub><mrow><mi>X</mi></mrow><mrow><mn>8</mn></mrow></msub><msub><mrow><mi>C</mi></mrow><mrow><mn>27</mn></mrow></msub><mo>,</mo><msub><mrow><mi>W</mi></mrow><mrow><mn>16</mn></mrow></msub><msub><mrow><mi>D</mi></mrow><mrow><mn>81</mn></mrow></msub><mo>,</mo></math></span> </span><span> </span><span class=\"english\">––––?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>V</mi></mrow><mrow><mn>64</mn></mrow></msub><msub><mrow><mi>E</mi></mrow><mrow><mn>363</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>U</mi></mrow><mrow><mn>64</mn></mrow></msub><msub><mrow><mi>E</mi></mrow><mrow><mn>363</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>V</mi></mrow><mrow><mn>32</mn></mrow></msub><msub><mrow><mi>E</mi></mrow><mrow><mn>243</mn></mrow></msub></math></span> </span><span> </span></p>",
+            "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>U</mi></mrow><mrow><mn>32</mn></mrow></msub><msub><mrow><mi>E</mi></mrow><mrow><mn>243</mn></mrow></msub></math></span> </span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow><mi>V</mi></mrow><mrow><mn>32</mn></mrow></msub><msub><mrow><mi>E</mi></mrow><mrow><mn>243</mn></mrow></msub></math></span> </span><span> </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">প্রশ্নবোধক স্থানে কোন সংখ্যা বসবে?</span></p><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_ed04fec1.png\"/></span></p>",
+        "options_html": [
+            "<p><span class=\"english\">42</span></p>",
+            "<p><span class=\"english\">44</span></p>",
+            "<p><span class=\"english\">38</span></p>",
+            "<p><span class=\"english\">54</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">44</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">এই চিত্রে ৮ থেকে শুরু ঘড়ির কাঁটার ঘূর্ণন এর দিক বরাবর একটি ধারা পাওয়া যায়। </span></p><p><span class=\"english\">ধারাটি: </span><span class=\"english\">8 14 22 32 44</span></p><p><span class=\"english\"> অন্তর:    </span><span class=\"english\">6 8 10 12</span></p><p><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>∴</mo><mtext> </mtext></math></span> </span><span class=\"english\">চিত্রটির শূন্যস্থানে ৪৪ বসবে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">প্রশ্নবোধক (?) স্থানে যথোপযুক্ত সংখ্যা কোনটি?</span></p><p><span><img src=\"images/VAP_Daily_MCQ_Live_Exam_MA-01_Part-01and_02_Set_1_0d5a25b1.png\"/></span></p>",
+        "options_html": [
+            "<p><span class=\"english\">65</span></p>",
+            "<p><span class=\"english\">63</span></p>",
+            "<p><span class=\"english\">75</span></p>",
+            "<p><span class=\"english\">83</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">63</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">০.০৪ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math></span> </span><span class=\"english\"> ০.০০৫ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math></span> </span><span class=\"english\"> ০.৩ =?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">০.০০০০৬</span></p>",
+            "<p><span class=\"english\">০.০০৬০০</span></p>",
+            "<p><span class=\"english\">০.৫০৬</span></p>",
+            "<p><span class=\"english\">০.০৬০</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">০.০০০০৬</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">১ম ধাপ ৪ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math></span> </span><span class=\"english\"> ৫ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>×</mo></math></span> </span><span class=\"english\"> ৩ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> ৬০ এবং ২য় ধাপ দশমিকের পর </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> ২ + ৩ + ১ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> ৬ ঘর। </span></p><p><span class=\"english\">সুতরাং </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mtext>০.০৪</mtext><mo>×</mo><mtext>০.০০৫</mtext><mo>×</mo><mtext>০.৩ = </mtext><mtext>০.০০০০৬</mtext></math></span> </span><span class=\"english\"> (.০০০০৬০ </span><span class=\"english\"><span class=\"math\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>=</mo></math></span> </span><span class=\"english\"> .০০০০৬)</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">কোন ক্রমে সাজালে নিম্নের শব্দগুলো অর্থপূর্ণ হবে?</span><span><span> </span></span></p><p><span class=\"english\">1. Child 2. Cry 3. </span><span class=\"english\">Milk  4</span><span class=\"english\">. </span><span class=\"english\">Mother  5</span><span class=\"english\">. Smile </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">1, 2, 3, 4, 5 </span></p>",
+            "<p><span class=\"english\">4, 3, 1, 2, 5</span></p>",
+            "<p><span class=\"english\">1, 2, 4, 3, 5</span><span> </span></p>",
+            "<p><span class=\"english\">1, 5, 4, 3, 2</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">1, 2, 4, 3, 5</span><span> </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">৯, ১৯, ১২, ২৯ ও </span><span class=\"english\">A</span><span class=\"bangla\"> </span><span class=\"english\">এর গড় মান ২১ হলে, </span><span class=\"english\">A</span><span class=\"bangla\"> </span><span class=\"english\">এর মান কত?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">28</span></p>",
+            "<p><span class=\"english\">63</span></p>",
+            "<p><span class=\"english\">36</span></p>",
+            "<p><span class=\"english\">21</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">36</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">ডাক্তার রোগীকে প্রতি ২ ঘণ্টা পর পর খাওয়ার জন্য ৬টি বড়ি দিলেন। শেষ বড়িটি রোগী কত ঘণ্টা পরে খাবেন?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">৬ ঘণ্টা</span></p>",
+            "<p><span class=\"english\">৮ ঘণ্টা</span></p>",
+            "<p><span class=\"english\">১০ ঘণ্টা</span></p>",
+            "<p><span class=\"english\">১২ ঘণ্টা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">১০ ঘণ্টা</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">B, A</span><span class=\"english\"> এর চেয়ে খাটো এবং </span><span class=\"english\">C, B</span><span class=\"english\"> এর চেয়ে লম্বা</span><span class=\"english\">;</span><span> </span><span class=\"english\">D, E</span><span class=\"english\"> এর চেয়ে লম্বা কিন্তু </span><span class=\"english\">B</span><span class=\"english\"> এর চেয়ে খাটো। কে সবচেয়ে খাটো?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">E</span></p>",
+            "<p><span class=\"english\">C</span></p>",
+            "<p><span class=\"english\">B</span></p>",
+            "<p><span class=\"english\">A</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">E</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">ABC = 36, ACID = 289 </span><span class=\"english\">হলে, </span><span class=\"english\">DEAF = </span><span class=\"english\">কত?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">78</span></p>",
+            "<p><span class=\"english\">16</span></p>",
+            "<p><span class=\"english\">256</span></p>",
+            "<p><span class=\"english\">265</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">256</span></p>",
+        "solution_html": ""
+    }
+]

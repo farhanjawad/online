@@ -1,0 +1,112 @@
+[
+  {
+    "question_html": "<p>Which organelle is responsible for producing energy (ATP) in eukaryotic cells?</p>",
+    "options_html": [
+      "<p>Ribosome</p>",
+      "<p>Mitochondria</p>",
+      "<p>Golgi apparatus</p>",
+      "<p>Endoplasmic reticulum</p>"
+    ],
+    "correct_answer_html": "<p>Mitochondria</p>",
+    "solution_html": "<p>The mitochondria is known as the powerhouse of the cell because it produces ATP through cellular respiration.</p>"
+  },
+  {
+    "question_html": "<p>The chemical formula of water is:</p>",
+    "options_html": [
+      "<p>H₂O₂</p>",
+      "<p>HO₂</p>",
+      "<p>H₂O</p>",
+      "<p>H₃O</p>"
+    ],
+    "correct_answer_html": "<p>H₂O</p>",
+    "solution_html": "<p>Water consists of two hydrogen atoms and one oxygen atom.</p>"
+  },
+  {
+    "question_html": "<p>Newton's second law of motion states that Force = ?</p>",
+    "options_html": [
+      "<p>mass / acceleration</p>",
+      "<p>mass × velocity</p>",
+      "<p>mass × acceleration</p>",
+      "<p>mass × distance</p>"
+    ],
+    "correct_answer_html": "<p>mass × acceleration</p>",
+    "solution_html": "<p>F = ma, where F is force, m is mass, and a is acceleration.</p>"
+  },
+  {
+    "question_html": "<p>Which planet is closest to the Sun?</p>",
+    "options_html": [
+      "<p>Venus</p>",
+      "<p>Earth</p>",
+      "<p>Mars</p>",
+      "<p>Mercury</p>"
+    ],
+    "correct_answer_html": "<p>Mercury</p>",
+    "solution_html": "<p>Mercury is the first planet from the Sun in our solar system.</p>"
+  },
+  {
+    "question_html": "<p>The value of $\\pi$ (pi) approximately equals:</p>",
+    "options_html": [
+      "<p>2.718</p>",
+      "<p>3.141</p>",
+      "<p>1.618</p>",
+      "<p>2.304</p>"
+    ],
+    "correct_answer_html": "<p>3.141</p>",
+    "solution_html": "<p>Pi (π) is approximately 3.14159..., used as the ratio of a circle's circumference to its diameter.</p>"
+  },
+  {
+    "question_html": "<p><span class=\"bangla\">gvbe</span><span class=\"bangla\">‡`‡</span><span class=\"bangla\">ni</span><span class=\"bangla\"> `</span><span class=\"bangla\">xN©Zg</span><span class=\"bangla\"> †</span><span class=\"bangla\">Kvl</span><span class=\"bangla\"> †</span><span class=\"bangla\">KvbwU</span><span class=\"bangla\">? </span></p>",
+    "options_html": [
+      "<p><span class=\"bangla\">mœvqy</span><span class=\"bangla\"> †</span><span class=\"bangla\">Kvl</span></p>",
+      "<p><span class=\"bangla\">i³ †</span><span class=\"bangla\">Kvl</span></p>",
+      "<p><span class=\"bangla\">hK</span><span class=\"bangla\">…Z †</span><span class=\"bangla\">Kvl</span></p>",
+      "<p><span class=\"bangla\">†</span><span class=\"bangla\">cwk</span><span class=\"bangla\"> †</span><span class=\"bangla\">Kvl</span></p>"
+    ],
+    "correct_answer_html": "<p><span class=\"bangla\">mœvqy</span><span class=\"bangla\"> †</span><span class=\"bangla\">Kvl</span></p>",
+    "solution_html": "<br/>\n<span><p></p></span>"
+  },
+  {
+    "question_html": "<p>What is the derivative of $\\sin(x)$?</p>",
+    "options_html": [
+      "<p>$-\\cos(x)$</p>",
+      "<p>$\\cos(x)$</p>",
+      "<p>$\\tan(x)$</p>",
+      "<p>$-\\sin(x)$</p>"
+    ],
+    "correct_answer_html": "<p>$\\cos(x)$</p>",
+    "solution_html": "<p>The derivative of $\\sin(x)$ with respect to $x$ is $\\cos(x)$.</p>"
+  },
+  {
+    "question_html": "<p>DNA stands for:</p>",
+    "options_html": [
+      "<p>Deoxyribonucleic Acid</p>",
+      "<p>Diribonucleic Acid</p>",
+      "<p>Deoxyribose Nucleic Acid</p>",
+      "<p>Dioxy Ribonucleic Acid</p>"
+    ],
+    "correct_answer_html": "<p>Deoxyribonucleic Acid</p>",
+    "solution_html": "<p>DNA = Deoxyribonucleic Acid, the molecule carrying genetic information.</p>"
+  },
+  {
+    "question_html": "<p>The speed of light in vacuum is approximately:</p>",
+    "options_html": [
+      "<p>$3 \\times 10^6$ m/s</p>",
+      "<p>$3 \\times 10^8$ m/s</p>",
+      "<p>$3 \\times 10^{10}$ m/s</p>",
+      "<p>$3 \\times 10^4$ m/s</p>"
+    ],
+    "correct_answer_html": "<p>$3 \\times 10^8$ m/s</p>",
+    "solution_html": "<p>The speed of light $c \\approx 3 \\times 10^8$ m/s.</p>"
+  },
+  {
+    "question_html": "<p>Which gas makes up the largest percentage of Earth's atmosphere?</p>",
+    "options_html": [
+      "<p>Oxygen</p>",
+      "<p>Carbon dioxide</p>",
+      "<p>Nitrogen</p>",
+      "<p>Argon</p>"
+    ],
+    "correct_answer_html": "<p>Nitrogen</p>",
+    "solution_html": "<p>Nitrogen (N₂) makes up approximately 78% of Earth's atmosphere.</p>"
+  }
+]

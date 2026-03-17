@@ -1,0 +1,662 @@
+[
+    {
+        "question_html": "<p><span class=\"english\">Change the </span><span class=\"english\">text into indirect.</span></p><p><span class=\"english\">“I have to go now,” no</span><span class=\"english\">ticing the time, he says to her. </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Noticing the time, he said to her that he had to go then.</span></p>",
+            "<p><span class=\"english\">Noticing the time, he said to her that he had to go now.</span></p>",
+            "<p><span class=\"english\">Noticing the time, he says to her that he have to go then.</span></p>",
+            "<p><span class=\"english\">Noticing the time, he says to her that he </span><span class=\"english\">has</span><span class=\"english\"> to go now.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Noticing the time, he says to her that he </span><span class=\"english\">has</span><span class=\"english\"> to go now.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">এখানে</span><span> </span><span class=\"english\">যেহেতু</span><span class=\"english\"> reporting verb-present tense </span><span class=\"english\">এ</span><span> </span><span class=\"english\">রয়েছে</span><span> </span><span class=\"english\">তাই,</span><span class=\"english\"> Narration </span><span class=\"english\">এর</span><span> </span><span class=\"english\">নিয়মানুযায়ী</span><span class=\"english\"> reported speech </span><span class=\"english\">কে</span><span class=\"english\"> indirect </span><span class=\"english\">করার</span><span> </span><span class=\"english\">সময়</span><span> </span><span class=\"english\">tense </span><span class=\"english\">এর</span><span> </span><span class=\"english\">কোনো</span><span> </span><span class=\"english\">পরিবর্তন</span><span> </span><span class=\"english\">হবে</span><span> </span><span class=\"english\">না।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Which one is the correct indirect narration</span><span class=\"english\"> of the following sentence</span><span class=\"english\">?</span></p><p><span class=\"english\">He said to me, </span><span class=\"english\">“Why have you beaten my dog?</span><span class=\"english\">”</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">He demanded me why had I beated his dog.</span></p>",
+            "<p><span class=\"english\">He asked me why I have had beaten his dog.</span></p>",
+            "<p><span class=\"english\">He enquired me why had I had beaten his dog.</span></p>",
+            "<p><span class=\"english\">He demanded of me why I had beaten his dog.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">He demanded of me why I had beaten his dog.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Direct Speech </span><span class=\"english\">এর</span><span class=\"english\"> why have you...., </span><span class=\"english\">পরিবর্তন</span><span> </span><span class=\"english\">হয়ে</span><span class=\"english\"> indirect speech-</span><span class=\"english\">এ</span><span class=\"english\"> Why I had... </span><span class=\"english\">হবে।</span><span class=\"english\"> He demanded of me why I had beaten his dog. </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Do it as I say. The passive voice is- </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Let it done as I say.</span></p>",
+            "<p><span class=\"english\">Let it be done as is said by me.</span></p>",
+            "<p><span class=\"english\">It should be done as I say.</span></p>",
+            "<p><span class=\"english\">Be it done as it is said.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Let it be done as is said by me.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">complex sentence </span><span class=\"english\">এর</span><span> </span><span class=\"english\">passive </span><span class=\"english\">করার</span><span> </span><span class=\"english\">ক্ষেত্রে</span><span> </span><span class=\"english\">দুটি</span><span> </span><span class=\"english\">clause </span><span class=\"english\">এরই</span><span> </span><span class=\"english\">আলাদা</span><span> </span><span class=\"english\">আলাদা</span><span> </span><span class=\"english\">passive </span><span class=\"english\">করতে</span><span> </span><span class=\"english\">হয়।</span><span> </span><span class=\"english\">এখানে</span><span> </span><span class=\"english\">অপশন</span><span class=\"english\"> (</span><span class=\"english\">b) </span><span class=\"english\">তেই</span><span> </span><span class=\"english\">শুধু</span><span> </span><span class=\"english\">principal clause </span><span class=\"english\">টি</span><span> </span><span class=\"english\">imperative sentence </span><span class=\"english\">অনুযায়ী</span><span> </span><span class=\"english\">passive </span><span class=\"english\">করা</span><span> </span><span class=\"english\">হয়েছে</span><span> </span><span class=\"english\">এবং</span><span> </span><span class=\"english\">subordinate clause </span><span class=\"english\">ও</span><span> </span><span class=\"english\">passive </span><span class=\"english\">করা</span><span> </span><span class=\"english\">হয়েছে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Choose the correct passive form</span><span class=\"english\">:</span><span> </span><span class=\"english\">I know that he did th</span><span class=\"english\">e</span><span class=\"english\"> work.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">It was known to me that the work was done by him.</span></p>",
+            "<p><span class=\"english\">It is known to me that the work was done by him.</span></p>",
+            "<p><span class=\"english\">It is known to me that the work has been done by him.</span></p>",
+            "<p><span class=\"english\">It was known to me that the work had been done by him.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">It is known to me that the work was done by him.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">এখানে</span><span> </span><span class=\"english\">প্রদত্ত</span><span class=\"english\"> active sentence </span><span class=\"english\">টি</span><span> </span><span class=\"english\">যেহেতু</span><span> </span><span class=\"english\">একটি</span><span class=\"english\"> complex sentence </span><span class=\"english\">তাই</span><span class=\"english\">, that </span><span class=\"english\">দ্বারা</span><span> </span><span class=\"english\">যুক্ত</span><span> </span><span class=\"english\">উভয়</span><span class=\"english\"> clause </span><span class=\"english\">কেই</span><span class=\"english\"> passive </span><span class=\"english\">করতে</span><span> </span><span class=\"english\">হবে।</span><span> </span><span class=\"english\">ফলে</span><span> </span><span class=\"english\">সঠিক</span><span> </span><span class=\"english\">উত্তরটি</span><span> </span><span class=\"english\">হলো</span><span class=\"english\">: It is known</span><span class=\"english\"> to me</span><span class=\"english\"> that the work was done by him.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Choose the correct sentence</span><span class=\"english\">.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">She walk</span><span class=\"english\">s</span><span class=\"english\"> rarely his dog.</span></p>",
+            "<p><span class=\"english\">We were last week in london</span><span class=\"english\">.</span></p>",
+            "<p><span class=\"english\">My father goes </span><span class=\"english\">fishing always.</span></p>",
+            "<p><span class=\"english\">The girl speaks English fluently.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">The girl speaks English fluently.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">She rarely walks her</span><span> </span><span class=\"english\">dog. </span></p><p><span class=\"english\">We were in london last week. </span></p><p><span class=\"english\">My father alwalys goes</span><span class=\"english\"> fishing.</span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Change to compound: “Despite</span><span class=\"english\"> being worn out</span><span class=\"english\">, he completed the task.”</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">He </span><span class=\"english\">was </span><span class=\"english\">worn out</span><span class=\"english\">, but he completed the task.</span></p>",
+            "<p><span class=\"english\">He completed the task and was </span><span class=\"english\">worn out</span><span class=\"english\">.</span></p>",
+            "<p><span class=\"english\">He completed the task despite being </span><span class=\"english\">worn out</span><span class=\"english\">.</span></p>",
+            "<p><span class=\"english\">He was </span><span class=\"english\">worn out</span><span class=\"english\"> when he completed the task.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">He </span><span class=\"english\">was </span><span class=\"english\">worn out</span><span class=\"english\">, but he completed the task.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Simple</span><span class=\"english\"> sentence</span><span class=\"english\"> -</span><span class=\"english\">এ</span><span> </span><span class=\"english\">‘</span><span class=\"english\">In</span><span> </span><span class=\"english\">spite of/Despite</span><span class=\"english\">’</span><span> </span><span class=\"english\">থাকলে</span><span class=\"english\"> Compound</span><span class=\"english\"> sentence</span><span class=\"english\"> -</span><span class=\"english\">এ</span><span class=\"english\"> ‘but’ </span><span class=\"english\">হয়।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Change to complex: “He </span><span class=\"english\">was</span><span class=\"english\"> too </span><span class=\"english\">afraid</span><span class=\"english\"> to </span><span class=\"english\">call his manager</span><span class=\"english\">.”</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">He </span><span class=\"english\">is</span><span class=\"english\"> so </span><span class=\"english\">afraid</span><span class=\"english\"> that he </span><span class=\"english\">could not call his manager</span><span class=\"english\">.</span></p>",
+            "<p><span class=\"english\">He </span><span class=\"english\">was</span><span> </span><span class=\"english\">afraid</span><span class=\"english\">, and he </span><span class=\"english\">could not call his manager</span><span class=\"english\">.</span></p>",
+            "<p><span class=\"english\">He was so afraid that he could not call his manager.</span></p>",
+            "<p><span class=\"english\">He i</span><span class=\"english\">s</span><span> </span><span class=\"english\">afraid</span><span class=\"english\"> to the extent that he </span><span class=\"english\">could not call his manager</span><span class=\"english\">.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">He was so afraid that he could not call his manager.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Simple-</span><span class=\"english\">এ</span><span class=\"english\"> to _____too </span><span class=\"english\">থাকলে</span><span class=\"english\"> Complex-</span><span class=\"english\">এ</span><span class=\"english\"> so_____ that </span><span class=\"english\">+ sub + tense </span><span class=\"english\">অনুযায়ী</span><span class=\"english\"> can/could not + </span><span class=\"english\">ext</span><span> </span><span class=\"english\">বসে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Identify the type of the sentence</span><span class=\"english\">:</span><span> </span><span class=\"english\">“</span><span class=\"english\">I came to study in the UK because I wanted to improve my English, so I talk to</span><span> </span><span class=\"english\">as many English people as possible.</span><span class=\"english\">”</span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Simple</span></p>",
+            "<p><span class=\"english\">Compound</span></p>",
+            "<p><span class=\"english\">Complex</span></p>",
+            "<p><span class=\"english\">Compound-</span><span class=\"english\">Complex</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Compound-</span><span class=\"english\">Complex</span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">যে বা</span><span class=\"english\">ক্যে</span><span> </span><span class=\"english\">sub ordinate clause</span><span class=\"english\"> এবং </span><span class=\"english\">coordinate</span><span> </span><span class=\"english\">clause</span><span class=\"english\"> দুইটাই থাকে </span><span class=\"english\">তাকে</span><span class=\"english\"> Compoun</span><span class=\"english\">d</span><span class=\"english\">-Complex sentence </span><span class=\"english\">বলে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">“</span><span class=\"english\">Besides being a brilliant student, she is a social worker.</span><span class=\"english\">”</span><span> </span><span class=\"english\">Which type of sentence is this?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Complex sentence</span></p>",
+            "<p><span class=\"english\">Simple sentence</span></p>",
+            "<p><span class=\"english\">Compound sentence</span></p>",
+            "<p><span class=\"english\">Complex-compound sentence</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Simple sentence</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">একটি</span><span> </span><span class=\"english\">‍</span><span class=\"english\">simple sentence- </span><span class=\"english\">এর</span><span> </span><span class=\"english\">বৈশিষ্ট্য</span><span> </span><span class=\"english\">হলো</span><span> </span><span class=\"english\">একটি</span><span class=\"english\"> subject </span><span class=\"english\">ও</span><span> </span><span class=\"english\">একটি</span><span class=\"english\"> finite verb </span><span class=\"english\">থা</span><span class=\"english\">কে</span><span class=\"english\">, </span><span class=\"english\">পক্ষান্তরে</span><span class=\"english\"> complex sentence -</span><span class=\"english\">এ</span><span> </span><span class=\"english\">সর্বনিম্ন</span><span> </span><span class=\"english\">দুটি</span><span class=\"english\"> sub </span><span class=\"english\">ও</span><span class=\"english\"> finite verb </span><span class=\"english\">থাকে</span><span> </span><span class=\"english\">এবং</span><span> </span><span class=\"english\">একটি</span><span class=\"english\">/</span><span class=\"english\">একাধিক</span><span class=\"english\"> subordinating conjunction </span><span class=\"english\">থাকে।</span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Identify the correct sentence.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Whom do you think wrote to m</span><span class=\"english\">e</span><span class=\"english\"> yesterday?</span></p>",
+            "<p><span class=\"english\">Who do you think wrot</span><span class=\"english\">e</span><span class=\"english\"> to me yesterday?</span></p>",
+            "<p><span class=\"english\">Who do you think has written to me yesterday?</span></p>",
+            "<p><span class=\"english\">Who did you think write to me yesterday?</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Who do you think wrot</span><span class=\"english\">e</span><span class=\"english\"> to me yesterday?</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Choose the correct answer.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">The two parties have different views to democracy.</span></p>",
+            "<p><span class=\"english\">The two parties has different views of democracy.</span></p>",
+            "<p><span class=\"english\">The two parties have different views of democracy.</span></p>",
+            "<p><span class=\"english\">The two parties differing on democracy.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">The two parties have different views of democracy.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">এখানে</span><span class=\"english\"> sentence </span><span class=\"english\">গুলোর</span><span> </span><span class=\"english\">অর্থানুযায়ী</span><span class=\"english\"> different views of  </span><span class=\"english\">শব্দগুচ্ছটি সঠিক।</span><span> </span><span class=\"english\">তাই,</span><span> </span><span class=\"english\">সঠিক</span><span> </span><span class=\"english\">উত্তরটি</span><span> </span><span class=\"english\">হলো</span><span class=\"english\">- The two parties have different views of democracy.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Find</span><span class=\"english\"> out</span><span class=\"english\"> the correct sentence:</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">No other friend I have ever got is as good as he.</span></p>",
+            "<p><span class=\"english\">I have ever got another friend as good as him.</span></p>",
+            "<p><span class=\"english\">No other friend I have got as good as him.</span></p>",
+            "<p><span class=\"english\">I have never got a friend as good as h</span><span class=\"english\">im</span><span class=\"english\">.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">No other friend I have ever got is as good as he.</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">The previous tenants were ____ for not paying on time.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">sentenced</span></p>",
+            "<p><span class=\"english\">evicted</span></p>",
+            "<p><span class=\"english\">assessed</span></p>",
+            "<p><span class=\"english\">forfeited</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">evicted</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Evicted-</span><span class=\"english\">উচ্ছেদ</span><span class=\"english\"> বা উৎপ</span><span class=\"english\">া</span><span class=\"english\">টি</span><span class=\"english\">ত করা।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Bangladesh has been one of the ____ in formulating and implementing a National Drug Policy in the face of the massively powerful and ______ global pharmaceutical industry.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">colonists, lucrative</span></p>",
+            "<p><span class=\"english\">pioneers, lucrative</span></p>",
+            "<p><span class=\"english\">followers, unprofitable</span></p>",
+            "<p><span class=\"english\">followers, secondary</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">pioneers, lucrative</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Pioneer </span><span class=\"english\">অগ্রদূত</span><span> </span><span class=\"english\">বা</span><span> </span><span class=\"english\">গবে</span><span class=\"english\">ষ</span><span class=\"english\">ণায়</span><span> </span><span class=\"english\">কোনো</span><span> </span><span class=\"english\">একটি</span><span> </span><span class=\"english\">ক্ষেত্রে</span><span> </span><span class=\"english\">কোনো</span><span> </span><span class=\"english\">কিছু</span><span> </span><span class=\"english\">প্রথম</span><span> </span><span class=\"english\">সূচনাকারী।</span><span class=\"english\"> Lucrative- </span><span class=\"english\">লাভজনক।</span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">My father forbade me____.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">not to have association with bad boys</span></p>",
+            "<p><span class=\"english\">not to keep association with bad boys</span></p>",
+            "<p><span class=\"english\">to keep association with bad boys</span></p>",
+            "<p><span class=\"english\">to not keep association with bad boys</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">to keep association with bad boys</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">বাক্যটির</span><span> </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">হবে</span><span class=\"english\">- </span><span class=\"english\">Forbid to do </span><span class=\"english\">অর্থাৎ</span><span> </span><span class=\"english\">কাউকে</span><span> </span><span class=\"english\">কোনো</span><span> </span><span class=\"english\">কিছু</span><span> </span><span class=\"english\">করতে</span><span> </span><span class=\"english\">নিষেধ</span><span class=\"english\">/</span><span class=\"english\">বারণ</span><span> </span><span class=\"english\">করা।</span><span> </span><span class=\"english\">উল্লেখ্য</span><span class=\"english\">, forbid </span><span class=\"english\">শব্দের</span><span> </span><span class=\"english\">মধ্যে</span><span class=\"english\"> not </span><span class=\"english\">শব্দটি</span><span> </span><span class=\"english\">বিদ্যমান।</span><span class=\"english\"> forbid </span><span class=\"english\">এর</span><span> </span><span class=\"english\">সাথে</span><span class=\"english\"> not </span><span class=\"english\">ব্যবহার</span><span> </span><span class=\"english\">করা</span><span class=\"english\"> redundancy (</span><span class=\"english\">বাহুল্য</span><span class=\"english\">)</span><span class=\"english\">।</span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">______ since I was ten.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">I know the vagabond</span></p>",
+            "<p><span class=\"english\">I had knew the vagabond</span></p>",
+            "<p><span class=\"english\">I had known the vagabond</span></p>",
+            "<p><span class=\"english\">H</span><span class=\"english\">ad I known the vagabond</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">I had known the vagabond</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Elma often walks </span><span class=\"english\">p</span><span class=\"english\">as</span><span class=\"english\">t the building. Here </span><span class=\"english\">“</span><span class=\"english\">p</span><span class=\"english\">ast” is an example of</span><span class=\"english\">–</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Adverb </span></p>",
+            "<p><span class=\"english\">Adjective</span></p>",
+            "<p><span class=\"english\">Preposition </span></p>",
+            "<p><span class=\"english\">None</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Preposition </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘the</span><span> </span><span class=\"english\">building’ noun phrase </span><span class=\"english\">এর</span><span> </span><span class=\"english\">পূর্বে</span><span class=\"english\"> past </span><span class=\"english\">শব্দটি</span><span class=\"english\"> preposition </span><span class=\"english\">হিসেবে</span><span> </span><span class=\"english\">বসেছে।</span><span> </span><span class=\"english\">কারণ</span><span> </span><span class=\"english\">সর্বদা</span><span class=\"english\"> preposition </span><span class=\"english\">এর</span><span> </span><span class=\"english\">পর</span><span class=\"english\"> noun equivalent </span><span class=\"english\">বসে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">The word ‘near’ can be used as</span><span class=\"english\">–</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Adjective </span></p>",
+            "<p><span class=\"english\">Adverb</span></p>",
+            "<p><span class=\"english\">Preposition</span></p>",
+            "<p><span class=\"english\">All of the above</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">All of the above</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">near (adj</span><span class=\"english\">e</span><span class=\"english\">ctive): He is a near relative. </span></p><p><span class=\"english\">near (adverb.): Don’t come near.</span></p><p><span class=\"english\">near (preposition.): His house is near the park.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Our neighbor went to the medical center after </span><span class=\"english\">_____</span><span class=\"english\">on the hand by a hot pan</span><span class=\"english\">.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">burning </span></p>",
+            "<p><span class=\"english\">burned</span></p>",
+            "<p><span class=\"english\">g</span><span class=\"english\">o</span><span class=\"english\">t burn</span><span class=\"english\">ing </span></p>",
+            "<p><span class=\"english\">being burned</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">being burned</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">By the time the teacher arrived, the student</span><span class=\"english\">______</span><span class=\"english\">breakfast.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">had </span></p>",
+            "<p><span class=\"english\">had had</span></p>",
+            "<p><span class=\"english\">ate</span></p>",
+            "<p><span class=\"english\">were </span><span class=\"english\">eating</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">had had</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">অতীতের</span><span> </span><span class=\"english\">দুটি</span><span> </span><span class=\"english\">কাজের</span><span> </span><span class=\"english\">মধ্যে</span><span> </span><span class=\"english\">যেটি</span><span> </span><span class=\"english\">আগে</span><span> </span><span class=\"english\">ঘটে</span><span> </span><span class=\"english\">সেটি</span><span class=\"english\"> Past Perfect</span><span class=\"english\"> Tense </span><span class=\"english\">হয়</span><span class=\"english\">; </span><span class=\"english\">আর</span><span> </span><span class=\"english\">যেটি</span><span> </span><span class=\"english\">অপেক্ষাকৃত</span><span> </span><span class=\"english\">পরে</span><span> </span><span class=\"english\">সংঘটিত</span><span> </span><span class=\"english\">হবে</span><span> </span><span class=\"english\">তা</span><span class=\"english\"> Past Indefinite Tense </span><span class=\"english\">এ</span><span> </span><span class=\"english\">হয়।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">The police stopped the group</span><span class=\"english\"> from</span><span class=\"english\"> _</span><span class=\"english\">___</span><span class=\"english\">the abandoned site.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">visited</span></p>",
+            "<p><span class=\"english\">vi</span><span class=\"english\">sit</span></p>",
+            "<p><span class=\"english\">to visit</span></p>",
+            "<p><span class=\"english\">visiting </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">visiting </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">preposition </span><span class=\"english\">এর পর </span><span class=\"english\">v</span><span class=\"english\">+</span><span class=\"english\">ing</span><span class=\"english\"> হয়। তাই </span><span class=\"english\">from (preposition)</span><span class=\"english\"> এর পর সঠিক উত্তর </span><span class=\"english\">visiting</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Had she more free time, she ______the world.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">would have travel</span></p>",
+            "<p><span class=\"english\">would travel</span></p>",
+            "<p><span class=\"english\">travel</span></p>",
+            "<p><span class=\"english\">travelling</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">would travel</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">প্রদত্ত</span><span> </span><span class=\"english\">বাক্যটি</span><span class=\"english\"> 2nd Conditional-</span><span class=\"english\">এ</span><span> </span><span class=\"english\">আছে।</span><span> </span><span class=\"english\">তাই</span><span class=\"english\">, </span><span class=\"english\">২য়</span><span class=\"english\"> Clause </span><span class=\"english\">টিতে</span><span class=\"english\"> sub+would+verb</span><span class=\"english\"> এর </span><span class=\"english\">base</span><span> </span><span class=\"english\">form</span><span class=\"english\"> হয়েছে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Unless you ______ your homework, the teacher will punish you.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">complete</span></p>",
+            "<p><span class=\"english\">completed</span></p>",
+            "<p><span class=\"english\">will complete</span></p>",
+            "<p><span class=\"english\">had completed</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">complete</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Sentence</span><span class=\"english\"> এর প্রথম অংশে </span><span class=\"english\">Present</span><span> </span><span class=\"english\">indefinite</span><span class=\"english\"> থাকলে পরের অংশে </span><span class=\"english\">future indefinite tense</span><span class=\"english\"> হয়।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Choose the synonym of </span><span class=\"english\">‘Meticulous’.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Negligent</span></p>",
+            "<p><span class=\"english\">Careful</span></p>",
+            "<p><span class=\"english\">Bold</span></p>",
+            "<p><span class=\"english\">Ordinary</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Careful</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">meticulous </span><span class=\"english\">অর্থ</span><span class=\"english\"> being very precise </span><span class=\"english\">যা</span><span class=\"english\"> ‘exact’ </span><span class=\"english\">এর</span><span> </span><span class=\"english\">‍</span><span class=\"english\">synonym.</span><span> </span><span class=\"english\">অন্যদিকে</span><span class=\"english\"> careless </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">যত্নহীন</span><span class=\"english\">, Bold </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">সাহসী</span><span> </span><span class=\"english\">এবং</span><span class=\"english\"> ordinary </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">সাধারণ।</span><span> </span><span class=\"english\">তাই</span><span> </span><span class=\"english\">সঠিক</span><span> </span><span class=\"english\">উত্তর</span><span> </span><span class=\"english\">হবে</span><span class=\"english\"> Exact.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Which of the following is not an incorrect synonym of the word “indifferent”?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">apathethic</span></p>",
+            "<p><span class=\"english\">concerned</span></p>",
+            "<p><span class=\"english\">similar</span></p>",
+            "<p><span class=\"english\">amicable</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">apathethic</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Find the synonym of </span><span class=\"english\">‘Arduous’.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Easy</span></p>",
+            "<p><span class=\"english\">Difficult</span></p>",
+            "<p><span class=\"english\">Trivial</span></p>",
+            "<p><span class=\"english\">Smooth</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Difficult</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Arduous </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">কষ্টসাধ্য।</span><span class=\"english\"> Difficult </span><span class=\"english\">শব্দের</span><span> </span><span class=\"english\">অর্থও</span><span> </span><span class=\"english\">কষ্টসাধ্য।</span><span> </span><span class=\"english\">অন্যদিকে</span><span> </span><span class=\"english\">Easy </span><span class=\"english\">শব্দের</span><span> </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">সহজ</span><span class=\"english\">,</span><span> </span><span class=\"english\">Trivial </span><span class=\"english\">অর্থ </span><span class=\"english\">“</span><span class=\"english\">তুচ্ছ</span><span class=\"english\">”</span><span class=\"english\">। </span><span class=\"english\">সুতরাং</span><span class=\"english\"> Arduous </span><span class=\"english\">এর</span><span> </span><span class=\"english\">সঠিক</span><span class=\"english\"> synonym </span><span class=\"english\">হবে</span><span class=\"english\"> Difficult.</span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">The expression “fits and starts” refers to</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">irregularly</span></p>",
+            "<p><span class=\"english\">punctually</span></p>",
+            "<p><span class=\"english\">fashionably</span></p>",
+            "<p><span class=\"english\">quickly</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">irregularly</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">What does the phrase “a blessing in disguise” imply?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">A bad situation with a hidden advantage</span></p>",
+            "<p><span class=\"english\">An obvious benefit</span></p>",
+            "<p><span class=\"english\">A curse in reality</span></p>",
+            "<p><span class=\"english\">A situation that worsens</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">A bad situation with a hidden advantage</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Because of falling orders, the company has been forced to ________ several hundred workers.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">lisp off </span></p>",
+            "<p><span class=\"english\">lay off</span></p>",
+            "<p><span class=\"english\">lay on</span></p>",
+            "<p><span class=\"english\">lie on </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">lay off</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Lisp off:</span><span class=\"bangla\"> </span><span class=\"english\">ভুলভাবে কথা বলা অথবা বাচ্চাদের মতো করে কথা বলা।</span></p><p><span class=\"english\">Lay off:</span><span class=\"bangla\"> </span><span class=\"english\">অর্থনৈতিক সমস্যার কারণে কর্মী ছাটাই করা।</span></p><p><span class=\"english\">Lay on: </span><span class=\"english\">সরবরাহ করা বা আরোপ করা।</span></p><p><span class=\"english\">Lie on: </span><span class=\"english\">কাউকে প্রভাবিত করা।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">If you are to save money, it is wise to _______ clothing rather than food.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">cut up</span></p>",
+            "<p><span class=\"english\">cut out</span></p>",
+            "<p><span class=\"english\">cut down</span></p>",
+            "<p><span class=\"english\">cut down on</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">cut down</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Cut down on- </span><span class=\"english\">পরিমাণে</span><span> </span><span class=\"english\">কমানো।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Identify the figure of speech in the sentence: “</span><span class=\"english\">The rain hammered against the doors.</span><span class=\"english\">”</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Simile</span></p>",
+            "<p><span class=\"english\">Personification</span></p>",
+            "<p><span class=\"english\">Hyperbole</span></p>",
+            "<p><span class=\"english\">Metaphor</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Personification</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">আমরা</span><span> </span><span class=\"english\">জানি</span><span class=\"english\">, </span><span class=\"english\">যদি</span><span> </span><span class=\"english\">কোনো</span><span> </span><span class=\"english\">বাক্য</span><span> </span><span class=\"english\">বা</span><span> </span><span class=\"english\">উক্তি</span><span> </span><span class=\"english\">দ্বারা</span><span> </span><span class=\"english\">নিষ্প্রাণ</span><span> </span><span class=\"english\">বস্তুগত</span><span> </span><span class=\"english\">ধারণাকে</span><span> </span><span class=\"english\">জীবন্ত</span><span> </span><span class=\"english\">ব্যক্তির</span><span> </span><span class=\"english\">ন্যায়</span><span> </span><span class=\"english\">বিবেচনা</span><span> </span><span class=\"english\">করা</span><span> </span><span class=\"english\">হয়</span><span class=\"english\">, </span><span class=\"english\">তবে</span><span> </span><span class=\"english\">তাকে</span><span class=\"english\"> Personification </span><span class=\"english\">বলে।</span><span> </span><span class=\"english\">এখানে</span><span> </span><span class=\"english\">rain</span><span> </span><span class=\"english\">কে</span><span> </span><span class=\"english\">মানুষের</span><span> </span><span class=\"english\">বৈশিষ্ট্য</span><span class=\"english\">র</span><span> </span><span class=\"english\">মত</span><span> </span><span class=\"english\">করে</span><span> </span><span class=\"english\">উপস্থাপন</span><span> </span><span class=\"english\">করা</span><span> </span><span class=\"english\">হয়েছে</span><span> </span><span class=\"english\">বিধায়</span><span> </span><span class=\"english\">এটি</span><span> </span><span class=\"english\">একটি</span><span class=\"english\"> Personification</span><span class=\"english\">.</span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">“He is as brave as a lion.”</span><span> </span><span class=\"english\">Which figure of speech is used here?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Simile</span></p>",
+            "<p><span class=\"english\">Metaphor</span></p>",
+            "<p><span class=\"english\">Hyperbole</span></p>",
+            "<p><span class=\"english\">Alliteration</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Simile</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">as </span><span class=\"english\">অথবা</span><span> </span><span class=\"english\">like </span><span class=\"english\">দিয়ে</span><span> </span><span class=\"english\">দুটি</span><span> </span><span class=\"english\">জিনিসের</span><span> </span><span class=\"english\">তুলনা</span><span> </span><span class=\"english\">করা</span><span> </span><span class=\"english\">হলে</span><span> </span><span class=\"english\">সেটিকে</span><span class=\"english\"> ‘simile’ </span><span class=\"english\">বলে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">He has a little time,_____?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">has he</span></p>",
+            "<p><span class=\"english\">has he</span></p>",
+            "<p><span class=\"english\">doesn’t he</span></p>",
+            "<p><span class=\"english\">haven’t he</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">doesn’t he</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">a</span><span> </span><span class=\"english\">little</span><span class=\"english\"> এর ক্ষেত্রে </span><span class=\"english\">tag</span><span> </span><span class=\"english\">negative</span><span class=\"english\"> হয়।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Nobody phoned you,</span><span class=\"english\">_____?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">did they </span></p>",
+            "<p><span class=\"english\">do he</span></p>",
+            "<p><span class=\"english\">didn’t they </span></p>",
+            "<p><span class=\"english\">do they</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">did they </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">বাক্যটি</span><span class=\"english\"> negative </span><span class=\"english\">এবং</span><span class=\"english\"> past indefinite tense-</span><span class=\"english\">এ</span><span> </span><span class=\"english\">থাকায়</span><span> </span><span class=\"english\">এর</span><span class=\"english\"> tag </span><span class=\"english\">হলো</span><span class=\"english\">  did they</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Identify the clause</span><span class=\"english\">:</span><span class=\"english\"> “</span><span class=\"english\">Although he was tired</span><span class=\"english\">, he kept working.”</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Adjective clause</span></p>",
+            "<p><span class=\"english\">Adverb clause</span></p>",
+            "<p><span class=\"english\">Noun clause</span></p>",
+            "<p><span class=\"english\">Independent clause</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Adverb clause</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Cont</span><span class=\"english\">r</span><span class=\"english\">ast </span><span class=\"english\">বা বৈপর</span><span class=\"english\">ী</span><span class=\"english\">ত্য</span><span class=\"english\"> বোঝাতে</span><span class=\"english\">→</span><span class=\"english\"> Adverbial Clause. </span><span class=\"english\">Though, although, if, when, etc. </span><span class=\"english\">যুক্ত</span><span class=\"english\"> dependent clause</span><span class=\"english\"> টি</span><span> </span><span class=\"english\">সাধারণত</span><span class=\"english\"> Adverb clause </span><span class=\"english\">হয়।</span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Identify the underlined phrase:</span><span class=\"english\"> “The book </span><span class=\"english\">on the table</span><span class=\"english\"> is mine.”</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Noun phrase</span></p>",
+            "<p><span class=\"english\">Prepositional phrase</span></p>",
+            "<p><span class=\"english\">Adverbial phrase</span></p>",
+            "<p><span class=\"english\">Adjective phrase</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Adjective phrase</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">যে </span><span class=\"english\">phrase</span><span> </span><span class=\"english\">noun</span><span class=\"english\"> কে </span><span class=\"english\">modify</span><span class=\"english\"> করে তাকে </span><span class=\"english\">adjective</span><span> </span><span class=\"english\">phrase</span><span class=\"english\"> বলে। এই বাক্যে </span><span class=\"english\">underlined</span><span> </span><span class=\"english\">phrase</span><span> </span><span class=\"english\">The</span><span> </span><span class=\"english\">b</span><span class=\"english\">oo</span><span class=\"english\">k</span><span class=\"english\"> কে </span><span class=\"english\">modify</span><span class=\"english\"> করে যা একটি </span><span class=\"english\">noun</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Identify the correct sentence.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">She had faith in and hope</span><span class=\"english\">s</span><span class=\"english\"> for the future</span><span class=\"english\">.</span></p>",
+            "<p><span class=\"english\">She had faith and hopes for the future</span><span class=\"english\">.</span></p>",
+            "<p><span class=\"english\">She had faith and hopes in </span><span class=\"english\">t</span><span class=\"english\">he future</span><span class=\"english\">.</span></p>",
+            "<p><span class=\"english\">She had faith and hopes in future</span><span class=\"english\">.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">She had faith in and hope</span><span class=\"english\">s</span><span class=\"english\"> for the future</span><span class=\"english\">.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">F</span><span class=\"english\">a</span><span class=\"english\">ith in </span><span class=\"english\">বিশ্বাস</span><span> </span><span class=\"english\">রাখা</span><span> </span><span class=\"english\">এবং</span><span class=\"english\"> hope for- </span><span class=\"english\">আশা</span><span> </span><span class=\"english\">করা।</span><span> </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">The bird’s nest made of straw and twigs could not hold much knowledge. ________, the first thing needed was a proper cage. </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">However</span></p>",
+            "<p><span class=\"english\">Therefore</span></p>",
+            "<p><span class=\"english\">Moreover</span></p>",
+            "<p><span class=\"english\">Nevertheless</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Therefore</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">ফলাফল বুঝাতে,</span><span> </span><span class=\"english\">Therefore</span><span class=\"bangla\"> </span><span class=\"english\">(অতএব) বসে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Select the correctly spelled word.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">orientasion</span></p>",
+            "<p><span class=\"english\">mobilization</span></p>",
+            "<p><span class=\"english\">procastination</span></p>",
+            "<p><span class=\"english\">manifastation</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">mobilization</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">সঠিক বানান: </span><span class=\"english\">Orientation, procrastination, manifestation.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">The verb form of ‘strong’</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">strength</span></p>",
+            "<p><span class=\"english\">strong</span></p>",
+            "<p><span class=\"english\">strengthen</span></p>",
+            "<p><span class=\"english\">stronger</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">strengthen</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">The facilities of the older school_____.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">is as good or better than the new school</span></p>",
+            "<p><span class=\"english\">are as good or better than the new school</span></p>",
+            "<p><span class=\"english\">are as good as or better than those of the new school</span></p>",
+            "<p><span class=\"english\">are as good as or better than the new school</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">are as good as or better than those of the new school</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">“The facilities of the older school are as good as or better than those of the new school” </span><span class=\"english\">বাক্যটি</span><span> </span><span class=\"english\">সঠিক</span><span> </span><span class=\"english\">কারণ</span><span> </span><span class=\"english\">এখানে</span><span> </span><span class=\"english\">পুরনো</span><span> </span><span class=\"english\">স্কুল</span><span> </span><span class=\"english\">এর</span><span class=\"english\"> facilities </span><span class=\"english\">এর</span><span> </span><span class=\"english\">সাথে</span><span> </span><span class=\"english\">নতুন</span><span> </span><span class=\"english\">স্কুল</span><span> </span><span class=\"english\">এর</span><span class=\"english\"> facilities </span><span class=\"english\">এর</span><span> </span><span class=\"english\">তুলনা</span><span> </span><span class=\"english\">করায়</span><span class=\"english\"> pronoun </span><span class=\"english\">হিসেবে</span><span class=\"english\"> ‘those’ </span><span class=\"english\">ব্যবহৃত</span><span> </span><span class=\"english\">হয়।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">The new model of the phone has ________ the old one.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">like the same feature of</span></p>",
+            "<p><span class=\"english\">the same feature as</span></p>",
+            "<p><span class=\"english\">like same feature as </span></p>",
+            "<p><span class=\"english\">the similar feature to</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">the same feature as</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">“The same</span><span class=\"english\"> ...</span><span class=\"english\"> as” structure</span><span class=\"english\"> টি ২টি বিষয়ের মধ্যে সঠিক </span><span class=\"english\">comparison</span><span class=\"bangla\"> </span><span class=\"english\">বোঝাতে ব্যবহৃত হয়।</span><span><span> </span></span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">The behaviour of our politicians does not accord ____their stated principles.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">with</span></p>",
+            "<p><span class=\"english\">for</span></p>",
+            "<p><span class=\"english\">to</span></p>",
+            "<p><span class=\"english\">into</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">with</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Accord</span><span> </span><span class=\"english\">with</span><span class=\"english\">- সামঞ্জস্যপূর্ণ</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">We opted_____ a </span><span class=\"english\">reconciliation</span><span class=\"english\">_____ the dispute.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">in, to</span></p>",
+            "<p><span class=\"english\">with, at</span></p>",
+            "<p><span class=\"english\">for, to</span></p>",
+            "<p><span class=\"english\">for, </span><span class=\"english\">with</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">for, to</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Opt for- </span><span class=\"english\">কোনো</span><span> </span><span class=\"english\">কিছু</span><span> </span><span class=\"english\">বেছে</span><span> </span><span class=\"english\">নেওয়া।</span><span> </span><span class=\"english\">যেহেতু,</span><span> </span><span class=\"english\">বিতর্কের</span><span> </span><span class=\"english\">একটি</span><span> </span><span class=\"english\">সমাধান,</span><span> </span><span class=\"english\">অর্থে</span><span class=\"english\"> a reconciliation </span><span class=\"english\">to</span><span class=\"english\"> the dispute </span><span class=\"english\">ব্যবহৃত</span><span> </span><span class=\"english\">হয়।</span><span> </span><span class=\"english\">Reconciliation</span><span> </span><span class=\"english\">to</span><span class=\"english\"> (</span><span class=\"english\">something</span><span class=\"english\">)- মিমাংসা</span><span class=\"english\">।</span><span> </span><span class=\"english\">তাই</span><span class=\"english\"> for ..... </span><span class=\"english\">to</span><span> </span><span class=\"english\">হলো</span><span> </span><span class=\"english\">সঠিক</span><span> </span><span class=\"english\">উত্তর।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">______ father in him arose to see _____ child.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">A, the</span></p>",
+            "<p><span class=\"english\">The, the</span></p>",
+            "<p><span class=\"english\">The, an</span></p>",
+            "<p><span class=\"english\">A, a</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">The, the</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Which of the following words is in singular form? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">formulae</span></p>",
+            "<p><span class=\"english\">agenda</span></p>",
+            "<p><span class=\"english\">oas</span><span class=\"english\">e</span><span class=\"english\">s</span></p>",
+            "<p><span class=\"english\">referendum</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">referendum</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Plural of referendum is </span><span class=\"english\">r</span><span class=\"english\">eferenda.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Wince: Pain::</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">blush: embarrassment</span></p>",
+            "<p><span class=\"english\">pardon: tolerance</span></p>",
+            "<p><span class=\"english\">r</span><span class=\"english\">ectitude</span><span class=\"english\">: anger</span></p>",
+            "<p><span class=\"english\">march: patriotism</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">blush: embarrassment</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Wince </span><span class=\"english\">শব্দটির</span><span> </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">ব্যথা</span><span> </span><span class=\"english\">প্রদর্শন</span><span> </span><span class=\"english\">করা</span><span> </span><span class=\"english\">এবং</span><span class=\"english\"> pain </span><span class=\"english\">শব্দটির</span><span> </span><span class=\"english\">অর্থও</span><span> </span><span class=\"english\">ব্যথা।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Only____of these are truly problematic; the rest are easily adjustable.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">few</span></p>",
+            "<p><span class=\"english\">a few</span></p>",
+            "<p><span class=\"english\">one</span></p>",
+            "<p><span class=\"english\">little</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">a few</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Plural countable noun/pronoun </span><span class=\"english\">এর</span><span> </span><span class=\"english\">পূর্বে</span><span class=\"english\"> Plural determine</span><span class=\"english\">r</span><span class=\"english\"> (few, a few) </span><span class=\"english\">বসে।</span><span> </span><span class=\"english\">যখন</span><span> </span><span class=\"english\">বাক্যটি</span><span class=\"english\"> positive </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">দেয়</span><span> </span><span class=\"english\">তখন</span><span class=\"english\"> Determiner </span><span class=\"english\">হিসেবে</span><span class=\"english\"> few </span><span class=\"english\">না</span><span> </span><span class=\"english\">বসে</span><span class=\"english\"> a few </span><span class=\"english\">বসে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Identify the incorrect word/phrase in the following: While </span><span class=\"english\">most people</span><span class=\"english\"> would not think </span><span class=\"english\">of starting</span><span class=\"english\"> a garden on their roofs, human beings </span><span class=\"english\">have been planting</span><span class=\"english\"> gardens on rooftops for </span><span class=\"english\">thousand</span><span class=\"english\"> of years.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">most people</span></p>",
+            "<p><span class=\"english\">of starting</span></p>",
+            "<p><span class=\"english\">have been planting</span></p>",
+            "<p><span class=\"english\">thousand</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">thousand</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">অগ</span><span class=\"english\">ণি</span><span class=\"english\">ত</span><span> </span><span class=\"english\">বছর</span><span> </span><span class=\"english\">বোঝাতে</span><span class=\"english\"> thousand </span><span class=\"english\">এর</span><span> </span><span class=\"english\">সাথে</span><span class=\"english\"> ‘s’ </span><span class=\"english\">যুক্ত</span><span> </span><span class=\"english\">হবে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Translate the following sentence into English: “</span><span class=\"english\">নার্স</span><span> </span><span class=\"english\">আমাকে</span><span> </span><span class=\"english\">বলেছিল</span><span> </span><span class=\"english\">যে</span><span class=\"english\">, </span><span class=\"english\">ডাক্তারের</span><span> </span><span class=\"english\">কা</span><span class=\"english\">র্</span><span class=\"english\">যালয়</span><span> </span><span class=\"english\">বিকেল</span><span> </span><span class=\"english\">৫</span><span> </span><span class=\"english\">টায়</span><span> </span><span class=\"english\">বন্ধ</span><span> </span><span class=\"english\">হয়।</span><span class=\"english\">”</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">The nurse told me that the doctor’s office closed at 5:00 P.M.</span></p>",
+            "<p><span class=\"english\">The nurse told me that the doctor’s office had closed at 5:00 P.M.</span></p>",
+            "<p><span class=\"english\">The nurse told me that the doctor’s office closes at 5:00 P.M.</span></p>",
+            "<p><span class=\"english\">The nurse had told me that the doctor’s office had closed at 5:00 P.M.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">The nurse told me that the doctor’s office closes at 5:00 P.M.</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">A person who looks to the bright side of life</span><span class=\"english\">–</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Abstainer</span></p>",
+            "<p><span class=\"english\">Ascetic</span></p>",
+            "<p><span class=\"english\">Teetotaler</span></p>",
+            "<p><span class=\"english\">Optimist</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Optimist</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Select the sentence where “present” functions as an adjective:</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">She is going to present her findings at the conference.</span></p>",
+            "<p><span class=\"english\">He received a beautiful present on his graduation.</span></p>",
+            "<p><span class=\"english\">All the students who were present signed the attendance sheet.</span></p>",
+            "<p><span class=\"english\">The CEO will present the new project next week.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">All the students who were present signed the attendance sheet.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">এখানে</span><span class=\"english\"> ‘Present’ students </span><span class=\"english\">এর</span><span> </span><span class=\"english\">অবস্থা</span><span> </span><span class=\"english\">প্রকাশ</span><span> </span><span class=\"english\">বসেছে।</span><span> </span><span class=\"english\">তাই</span><span class=\"english\"> ‘Present’ </span><span class=\"english\">এখানে</span><span class=\"english\"> adjective </span><span class=\"english\">তোমরা</span><span> </span><span class=\"english\">জানো</span><span> </span><span class=\"english\">যে</span><span class=\"english\"> Linking verb ‘Be’ </span><span class=\"english\">এর</span><span> </span><span class=\"english\">পর</span><span class=\"english\"> Adjective </span><span class=\"english\">বসে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Never before _______such a magical atmosphere filling every corner of the old city.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ha</span><span class=\"english\">s</span><span class=\"english\"> they experienced</span></p>",
+            "<p><span class=\"english\">have they experienced</span></p>",
+            "<p><span class=\"english\">they have experienced</span></p>",
+            "<p><span class=\"english\">have experienced they</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">have they experienced</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Inversion- </span><span class=\"english\">এর</span><span> </span><span class=\"english\">নিয়মে</span><span class=\"english\"> never </span><span class=\"english\">থাকায়</span><span class=\"english\"> have verb</span><span> </span><span class=\"english\">টি</span><span class=\"english\"> subject ‘</span><span class=\"english\">they</span><span class=\"english\">’ </span><span class=\"english\">এর</span><span> </span><span class=\"english\">আগে</span><span> </span><span class=\"english\">বসেছে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Identify the correct sentence.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">While walking in the pa</span><span class=\"english\">r</span><span class=\"english\">k, the flowers were looked at by us.</span></p>",
+            "<p><span class=\"english\">After finishing the assignment, she put away the laptop.</span></p>",
+            "<p><span class=\"english\">After completing the work, the building looks perfect.</span></p>",
+            "<p><span class=\"english\">After seeing the movie, the book was read by her.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">After finishing the assignment, she put away the laptop.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">“After finishing the assignment, she put away the laptop” Dangling modifier </span><span class=\"english\">সর্বদা</span><span class=\"english\"> noun/pronoun </span><span class=\"english\">এর</span><span> </span><span class=\"english\">পূর্বে</span><span> </span><span class=\"english\">বসে</span><span class=\"english\">, </span><span class=\"english\">সেই</span><span class=\"english\"> noun/pronun </span><span class=\"english\">কে</span><span class=\"english\"> modify </span><span class=\"english\">করে।</span><span> </span><span class=\"english\">তাই</span><span class=\"english\">, </span><span class=\"english\">এখানে</span><span class=\"english\"> “after finishing the assignment”, she Pronoun </span><span class=\"english\">কে</span><span class=\"english\"> modify </span><span class=\"english\">করছে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Identify the underlined part in the sentence: “The </span><span class=\"english\">broken</span><span class=\"english\"> vase was carefully repaired.”</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Present participle</span></p>",
+            "<p><span class=\"english\">Past participle</span></p>",
+            "<p><span class=\"english\">Perfect participle</span></p>",
+            "<p><span class=\"english\">Gerund</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Past participle</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">এখানে</span><span class=\"english\"> broken </span><span class=\"english\">শব্দটি</span><span class=\"english\"> break-verb </span><span class=\"english\">এর</span><span class=\"english\"> past participle </span><span class=\"english\">থেকে</span><span> </span><span class=\"english\">উৎপন্ন</span><span> </span><span class=\"english\">হয়ে</span><span class=\"english\"> adj. </span><span class=\"english\">এর</span><span> </span><span class=\"english\">মতো</span><span> </span><span class=\"english\">কাজ</span><span> </span><span class=\"english\">করছে।</span><span> </span><span class=\"english\">তাই</span><span class=\"english\">, broken-</span><span class=\"english\">এখানে</span><span class=\"english\"> past participle </span><span class=\"english\">হিসেবে</span><span> </span><span class=\"english\">উত্তর</span><span> </span><span class=\"english\">নেওয়া</span><span> </span><span class=\"english\">হয়েছে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">They left without saying goodbye</span><span class=\"english\">.</span><span class=\"english\"> Here </span><span class=\"english\">‘</span><span class=\"english\">saying</span><span class=\"english\">’</span><span class=\"english\"> is a/an</span><span class=\"english\">–</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Verb</span></p>",
+            "<p><span class=\"english\">Noun</span></p>",
+            "<p><span class=\"english\">Pronoun</span></p>",
+            "<p><span class=\"english\">Adverb</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Noun</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Preposition+noun</span><span class=\"english\">।</span><span> </span><span class=\"english\">এখানে</span><span class=\"english\"> without prep </span><span class=\"english\">এরপর</span><span class=\"english\"> say-verb </span><span class=\"english\">এর</span><span> </span><span class=\"english\">সাথে</span><span class=\"english\"> ing </span><span class=\"english\">যুক্ত</span><span> </span><span class=\"english\">হয়ে</span><span class=\"english\"> gerund </span><span class=\"english\">গঠিত</span><span> </span><span class=\"english\">হয়ে</span><span class=\"english\"> noun </span><span class=\"english\">এর</span><span> </span><span class=\"english\">মতো</span><span> </span><span class=\"english\">কাজ</span><span> </span><span class=\"english\">করছে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Choose the correctly spelled word:</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Plausible</span></p>",
+            "<p><span class=\"english\">Soverignty</span></p>",
+            "<p><span class=\"english\">Benefitial</span></p>",
+            "<p><span class=\"english\">Definitly</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Plausible</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Sovereignty, Beneficial, </span><span class=\"english\">definitely</span><span class=\"english\">.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Choose the correct sentence.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">The boy was short who snatched my h</span><span class=\"english\">a</span><span class=\"english\">ndbag.</span></p>",
+            "<p><span class=\"english\">The boy s</span><span class=\"english\">n</span><span class=\"english\">atched my han</span><span class=\"english\">d</span><span class=\"english\">ba</span><span class=\"english\">g</span><span class=\"english\"> who was short.</span></p>",
+            "<p><span class=\"english\">The boy who s</span><span class=\"english\">n</span><span class=\"english\">athed my handba</span><span class=\"english\">g</span><span class=\"english\"> was short.</span></p>",
+            "<p><span class=\"english\">The boy was short who was </span><span class=\"english\">s</span><span class=\"english\">natching my handbag</span><span class=\"english\">.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">The boy who s</span><span class=\"english\">n</span><span class=\"english\">athed my handba</span><span class=\"english\">g</span><span class=\"english\"> was short.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">সর্বদা</span><span class=\"english\"> antecedent </span><span class=\"english\">এর পরেই</span><span class=\"english\"> relative pronoun </span><span class=\"english\">হয়ে</span><span> </span><span class=\"english\">থাকে</span><span> </span><span class=\"english\">বিধায়,</span><span class=\"english\"> “The boy who snatched my handbag was short” </span><span class=\"english\">বাক্যটি</span><span> </span><span class=\"english\">সঠিক</span><span> </span><span class=\"english\">উত্তর।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Choose the correct causative sentence:</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">She gets her brother to clean the room.</span></p>",
+            "<p><span class=\"english\">She cleans the room herself.</span></p>",
+            "<p><span class=\"english\">She</span><span class=\"english\"> is</span><span class=\"english\"> g</span><span class=\"english\">e</span><span class=\"english\">t cleaned the room.</span></p>",
+            "<p><span class=\"english\">She</span><span class=\"english\"> is</span><span class=\"english\"> cleaning the room herself.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">She gets her brother to clean the room.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Causitive verb ‘get’ </span><span class=\"english\">এর</span><span> </span><span class=\"english\">ক্ষেত্রে</span><span class=\"english\">, structure: Sub+get+action doer+infinitive</span><span class=\"english\">।</span><span> </span><span class=\"english\">তাই</span><span> </span><span class=\"english\">সঠিক</span><span> </span><span class=\"english\">উত্তর</span><span> </span><span class=\"english\">হলো-</span><span class=\"english\"> ‘she gets her brother to clean the room’.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Dr. Mary Edwards Walker was a surgeon, soldier, ____ fighter for women’s right.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">with </span></p>",
+            "<p><span class=\"english\">and</span></p>",
+            "<p><span class=\"english\">of </span></p>",
+            "<p><span class=\"english\">also</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">and</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">এখানে </span><span class=\"english\">parallel</span><span> </span><span class=\"english\">structure</span><span class=\"english\"> এর নিয়মানুযায়ী বাক্যে সকল </span><span class=\"english\">noun</span><span class=\"english\"> গুলো </span><span class=\"english\">parallel</span><span class=\"english\"> করতে </span><span class=\"english\">and</span><span class=\"english\"> ব্যবহার করা হয়েছে। তাই, সঠিক উত্তর</span><span> </span><span class=\"english\">হলো</span><span> </span><span class=\"english\">and</span><span class=\"english\">।</span></p></span>"
+    }
+]

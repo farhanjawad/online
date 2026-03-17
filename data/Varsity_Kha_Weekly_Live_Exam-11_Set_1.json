@@ -1,0 +1,662 @@
+[
+    {
+        "question_html": "<p><span class=\"english\">ভাষা আন্দোলন বিষয়ক উপন্যাস কোনটি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">সারেং বৌ</span></p>",
+            "<p><span class=\"english\">আগুনের পরশমণি</span></p>",
+            "<p><span class=\"english\">আরেক ফাল্গুন</span></p>",
+            "<p><span class=\"english\">চিলেকোঠার সেপাই</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">আরেক ফাল্গুন</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">১৯৫৫ সালের একুশে ফেব্রুয়ারি পালনের অভিজ্ঞতা নিয়ে জহির রায়হান আরেক ফাল্গুন উপন্যাস রচনা করেন।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">মজিদের প্রতি রহিমার অচঞ্চল আস্থা যার সঙ্গে তুল্য হয়েছে-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">সূর্য</span></p>",
+            "<p><span class=\"english\">ইস্পাত</span></p>",
+            "<p><span class=\"english\">ধ্রুবতারা</span></p>",
+            "<p><span class=\"english\">হীরকখণ্ড</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ধ্রুবতারা</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">“</span><span class=\"english\">তার </span><span class=\"english\">আনুগত্য</span><span class=\"english\"> ধ্রুবতারার ম</span><span class=\"english\">তো</span><span class=\"english\"> অনড়, তার বিশ্বাস পর্বতের ম</span><span class=\"english\">তো</span><span class=\"english\"> অটল</span><span class=\"english\">”</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">মজিদের</span><span> </span><span class=\"english\">কার উপর বিশ্বাস নেই</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">নিজের</span><span> </span><span class=\"english\">আত্মার</span><span> </span><span class=\"english\">শক্তিতে</span><span><span> </span></span></p>",
+            "<p><span class=\"english\">আল্লাহর</span><span> </span><span class=\"english\">উপরে</span></p>",
+            "<p><span class=\"english\">মোদাচ্ছের</span><span> </span><span class=\"english\">পিরের</span><span> </span><span class=\"english\">উপরে</span></p>",
+            "<p><span class=\"english\">অন্যের</span><span> </span><span class=\"english\">আত্মার</span><span> </span><span class=\"english\">শক্তিতে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">অন্যের</span><span> </span><span class=\"english\">আত্মার</span><span> </span><span class=\"english\">শক্তিতে</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">লালসালু</span><span class=\"english\">’</span><span> </span><span class=\"english\">উপন্যাসে</span><span> </span><span class=\"english\">মজিদ</span><span> </span><span class=\"english\">হাসুনির</span><span> </span><span class=\"english\">মাকে</span><span> </span><span class=\"english\">কী</span><span> </span><span class=\"english\">রঙের</span><span> </span><span class=\"english\">শাড়ি</span><span> </span><span class=\"english\">দিয়েছেন</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বেগুনি</span><span> </span><span class=\"english\">রং</span><span class=\"english\">, </span><span class=\"english\">কালো</span><span> </span><span class=\"english\">পাড়</span><span class=\"english\">।</span></p>",
+            "<p><span class=\"english\">সাদা</span><span> </span><span class=\"english\">রং</span><span class=\"english\">, </span><span class=\"english\">কালো</span><span> </span><span class=\"english\">পাড়</span><span class=\"english\">। </span></p>",
+            "<p><span class=\"english\">বেগুনি রং, লাল পাড়</span></p>",
+            "<p><span class=\"english\">বাদামি</span><span> </span><span class=\"english\">রং</span><span class=\"english\">, </span><span class=\"english\">কালো</span><span> </span><span class=\"english\">পাড়</span><span class=\"english\">।</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বেগুনি</span><span> </span><span class=\"english\">রং</span><span class=\"english\">, </span><span class=\"english\">কালো</span><span> </span><span class=\"english\">পাড়</span><span class=\"english\">।</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">গলুই</span><span class=\"english\">’ </span><span class=\"english\">শব্দের</span><span> </span><span class=\"english\">অর্থ</span><span> </span><span class=\"english\">কী</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">জাহাজে</span><span> </span><span class=\"english\">চড়ার</span><span> </span><span class=\"english\">অনুমতিপত্র</span></p>",
+            "<p><span class=\"english\">নৌকা</span><span> </span><span class=\"english\">চালানো</span><span class=\"english\">র</span><span> </span><span class=\"english\">জন্য</span><span> </span><span class=\"english\">ব</span><span class=\"english\">্যবহৃত</span><span> </span><span class=\"english\">সরু</span><span> </span><span class=\"english\">লম্বা</span><span> </span><span class=\"english\">বাঁশে</span><span class=\"english\">র</span><span> </span><span class=\"english\">দ</span><span class=\"english\">ণ্ড</span></p>",
+            "<p><span class=\"english\">নৌকার</span><span> </span><span class=\"english\">সামনের</span><span> </span><span class=\"english\">শক্ত</span><span> </span><span class=\"english\">ও</span><span> </span><span class=\"english\">সরু</span><span> </span><span class=\"english\">অংশ</span></p>",
+            "<p><span class=\"english\">বিশেষ</span><span> </span><span class=\"english\">ধরনের</span><span> </span><span class=\"english\">নৌকা</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">নৌকার</span><span> </span><span class=\"english\">সামনের</span><span> </span><span class=\"english\">শক্ত</span><span> </span><span class=\"english\">ও</span><span> </span><span class=\"english\">সরু</span><span> </span><span class=\"english\">অংশ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘</span><span class=\"english\">নলি</span><span class=\"english\">’</span><span class=\"english\">- জাহাজে চড়ার অনুমতিপত্র।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">প</span><span class=\"english\">্রবেশ</span><span class=\"english\">’ </span><span class=\"english\">শব্দে</span><span class=\"english\"> ‘</span><span class=\"english\">প</span><span class=\"english\">্র</span><span class=\"english\">’ </span><span class=\"english\">উপসর্গ</span><span class=\"english\">ট</span><span class=\"english\">ি</span><span> </span><span class=\"english\">কী</span><span> </span><span class=\"english\">অর্থ</span><span class=\"english\">ে</span><span> </span><span class=\"english\">ব</span><span class=\"english\">্যবহৃত</span><span> </span><span class=\"english\">হয়েছে</span><span class=\"english\">?  </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">গতি</span></p>",
+            "<p><span class=\"english\">উৎকর্ষ</span><span> </span></p>",
+            "<p><span class=\"english\">বিশেষ</span><span> </span></p>",
+            "<p><span class=\"english\">পশ্চাৎ</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">গতি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">প্রকৃষ্ট, প্রদর্শন, প্রজ্ঞা- উৎকর্ষ অর্থে</span></p><p><span class=\"english\">বিজ্ঞা</span><span class=\"english\">ন</span><span class=\"english\">, বিচিত্র, বিশুদ্ধ- বিশেষ অর্থে</span></p><p><span class=\"english\">অনুশোচনা, অনুগামী- পশ্চাৎ অর্থে</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">জলময়</span><span class=\"english\">’</span><span> </span><span class=\"english\">এর সঠিক প্রকৃতি ও প্রত্যয় কোনটি</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">জলজ+ময়</span></p>",
+            "<p><span class=\"english\">জল+য</span></p>",
+            "<p><span class=\"english\">জল+ময়ট</span><span class=\"english\">্‌</span></p>",
+            "<p><span class=\"english\">জলা+ময়</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">জল+ময়ট</span><span class=\"english\">্‌</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোনটি সঠিক</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">√</span><span class=\"english\">গৈ + তি = গীতি</span></p>",
+            "<p><span class=\"english\">√</span><span class=\"english\">গৈ +ক্রী= গীতি</span></p>",
+            "<p><span class=\"english\">√</span><span class=\"english\">গৈ + ক্তি = গিতী</span></p>",
+            "<p><span class=\"english\">√</span><span class=\"english\">গৈ + </span><span class=\"english\">√</span><span class=\"english\">ক্তি </span><span class=\"english\">= </span><span class=\"english\">গীতি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">√</span><span class=\"english\">গৈ + তি = গীতি</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">কোনটি প্রযোজক ধাতুর উদাহরণ?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বেত্‌+আ</span><span><span> </span></span></p>",
+            "<p><span class=\"english\">ঘুম্‌+আ</span></p>",
+            "<p><span class=\"english\">বাঁক্‌+আ</span></p>",
+            "<p><span class=\"english\">পড়</span><span class=\"english\">্‌</span><span class=\"english\">+আ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পড়</span><span class=\"english\">্‌</span><span class=\"english\">+আ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">মৌলিক ধাতুর পরে </span><span class=\"english\">প্রেরণার্থে</span><span class=\"english\"> (অপরকে নিয়োজিত করা অর্থে) </span><span class=\"english\">‘</span><span class=\"english\">আ</span><span class=\"english\">’</span><span class=\"english\"> প্রত্যয় যোগ করে প্রযোজক ধাতু গঠিত হয়।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">দৈব</span><span class=\"english\">’ </span><span class=\"english\">শব্দে</span><span class=\"english\"> ‘</span><span class=\"english\">ষ্ণ</span><span class=\"english\">’ </span><span class=\"english\">প্রত্যয়</span><span> </span><span class=\"english\">কী</span><span> </span><span class=\"english\">অর্থ</span><span class=\"english\">ে</span><span> </span><span class=\"english\">ব</span><span class=\"english\">্যবহৃত</span><span> </span><span class=\"english\">হয়েছে</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">উপাসক</span><span> </span></p>",
+            "<p><span class=\"english\">ভাব</span><span> </span></p>",
+            "<p><span class=\"english\">সম্পর্ক</span></p>",
+            "<p><span class=\"english\">অপত্য</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">সম্পর্ক</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">শৈব, বৈষ্ণব- উপাসক অর্থে</span></p><p><span class=\"english\">শৈশব, কৈশোর- ভাব অর্থে</span></p><p><span class=\"english\">মানব, যাদব- অপত্য অর্থে</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোনটির পুরুষবাচক রূপ নেই</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">শ্রীমান</span></p>",
+            "<p><span class=\"english\">কুলটা</span></p>",
+            "<p><span class=\"english\">ঠাকুরঝি</span></p>",
+            "<p><span class=\"english\">ননদ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">কুলটা</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">নিত্য </span><span class=\"english\">না</span><span class=\"english\">রীবাচক শব্দের পুরুষবাচক রূপ নেই। যেমন- সতীন, কুলটা।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">গ</span><span class=\"english\">ণক</span><span class=\"english\">’ </span><span class=\"english\">শব্দের</span><span> </span><span class=\"english\">স্ত্রী</span><span class=\"english\">ব</span><span class=\"english\">াচক</span><span> </span><span class=\"english\">শব্দ</span><span> </span><span class=\"english\">নিচের</span><span> </span><span class=\"english\">কোনটি</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">মহিলা</span><span> </span><span class=\"english\">গণক</span></p>",
+            "<p><span class=\"english\">গণকী</span></p>",
+            "<p><span class=\"english\">গণিকা</span><span> </span></p>",
+            "<p><span class=\"english\">গ</span><span class=\"english\">ণ</span><span class=\"english\">কপত্নী</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">গণকী</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">কোন</span><span> </span><span class=\"english\">শব্দ</span><span class=\"english\">জ</span><span class=\"english\">োড়</span><span> </span><span class=\"english\">বিপরীত</span><span> </span><span class=\"english\">নয়</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অপকৃষ্ট</span><span class=\"english\">-</span><span class=\"english\">ন</span><span class=\"english\">িকৃষ্ট</span></p>",
+            "<p><span class=\"english\">সিক্ত</span><span class=\"english\">-</span><span class=\"english\">শ</span><span class=\"english\">ুষ্ক</span></p>",
+            "<p><span class=\"english\">আঁটি-শাঁস</span></p>",
+            "<p><span class=\"english\">উপশম-বৃদ্ধি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">অপকৃষ্ট</span><span class=\"english\">-</span><span class=\"english\">ন</span><span class=\"english\">িকৃষ্ট</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘</span><span class=\"english\">অপকৃষ্ট</span><span class=\"english\">’</span><span class=\"english\"> ও </span><span class=\"english\">‘</span><span class=\"english\">নিকৃষ্ট</span><span class=\"english\">’</span><span class=\"english\"> শব্দ দুটির অর্থ নীচ বা জঘন্য।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">আবির্ভাব</span><span class=\"english\">’ </span><span class=\"english\">শব্দের</span><span> </span><span class=\"english\">বিপরীতার্থক</span><span> </span><span class=\"english\">শব্দ</span><span> </span><span class=\"english\">কোনটি</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">তাদৃশ</span></p>",
+            "<p><span class=\"english\">আত্ম</span></p>",
+            "<p><span class=\"english\">তিরোভাব</span></p>",
+            "<p><span class=\"english\">আরোহণ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">তিরোভাব</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">বিমর্ষ</span><span class=\"english\">’</span><span> </span><span class=\"english\">শব্দের বিপরীত শব্দ কী</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">প্রসন্ন</span></p>",
+            "<p><span class=\"english\">বিপন্ন</span></p>",
+            "<p><span class=\"english\">স্নিগ্ধ</span></p>",
+            "<p><span class=\"english\">প্রফুল্ল</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">প্রফুল্ল</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Do </span><span class=\"english\">as I say</span><span class=\"english\">. Identify the underlined clause</span><span class=\"english\">:</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">noun</span></p>",
+            "<p><span class=\"english\">adjective</span></p>",
+            "<p><span class=\"english\">preposition</span></p>",
+            "<p><span class=\"english\">adverb </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">adverb </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Verb-</span><span class=\"english\"> কে</span><span class=\"english\"> How</span><span class=\"english\"> দ্বারা প্রশ্ন করলে </span><span class=\"english\">Adverb</span><span class=\"english\"> পাওয়া যায়। যেহেতু, এখানে </span><span class=\"english\">How</span><span class=\"english\"> দ্বারা </span><span class=\"english\">‘Do’- </span><span class=\"english\">কে প্রশ্ন করে উত্তর পাওয়া যায়- </span><span class=\"english\">‘</span><span class=\"english\">as</span><span> </span><span class=\"english\">I say</span><span class=\"english\">’</span><span class=\"english\"> অর্থাৎ, </span><span class=\"english\">‘</span><span class=\"english\">যেমনভাবে আমি বলি</span><span class=\"english\">’</span><span class=\"english\"> এবং এটি </span><span class=\"english\">Clause</span><span class=\"english\"> আকারে রয়েছে তাই এটি </span><span class=\"english\">Adverb Clause</span><span class=\"english\">-এর উদাহরণ।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">He knew </span><span class=\"english\">where she hid the files</span><span class=\"english\">. Here the underlined clause is a/an—</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">N</span><span class=\"english\">oun clause</span></p>",
+            "<p><span class=\"english\">A</span><span class=\"english\">djective clause</span></p>",
+            "<p><span class=\"english\">A</span><span class=\"english\">dverbial clause</span></p>",
+            "<p><span class=\"english\">N</span><span class=\"english\">one of these</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">N</span><span class=\"english\">oun clause</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Which of the following is a form of ‘die’?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">dryad</span></p>",
+            "<p><span class=\"english\">dye</span></p>",
+            "<p><span class=\"english\">dying </span></p>",
+            "<p><span class=\"english\">dieing</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">dying </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">The verb form of the word ‘Number’ </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ennumber</span></p>",
+            "<p><span class=\"english\">number</span></p>",
+            "<p><span class=\"english\">numberen</span></p>",
+            "<p><span class=\"english\">none of the above</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">number</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">I need some books,  _____?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">needn't I</span></p>",
+            "<p><span class=\"english\">need I</span></p>",
+            "<p><span class=\"english\">don't I</span></p>",
+            "<p><span class=\"english\">won't I</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">don't I</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Let us go for a walk,_____?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">will we</span></p>",
+            "<p><span class=\"english\">won't we</span></p>",
+            "<p><span class=\"english\">shall we</span></p>",
+            "<p><span class=\"english\">will you</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">shall we</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">The word ‘Prolific’ is an example of—</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">verb</span></p>",
+            "<p><span class=\"english\">adjective </span></p>",
+            "<p><span class=\"english\">adverb</span></p>",
+            "<p><span class=\"english\">none </span><span class=\"english\">of these</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">adjective </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Which of the sentences uses ‘but’ as a preposition?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">It wasn't the red one but the blue one.</span></p>",
+            "<p><span class=\"english\">Still, we can but try.</span></p>",
+            "<p><span class=\"english\">Everyone was there but him</span><span class=\"english\">.</span></p>",
+            "<p><span class=\"english\">Let's have no buts.</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Everyone was there but him</span><span class=\"english\">.</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">আমরা জানি </span><span class=\"english\">preposition</span><span class=\"english\"> এর বাক্যের সাথে আরেকটি </span><span class=\"english\">Noun</span><span class=\"english\"> বা </span><span class=\"english\">Pronoun</span><span class=\"english\"> যুক্ত করে থাকে। </span><span class=\"english\">‘Everyone was there but him’</span><span> </span><span class=\"english\">sentence</span><span class=\"english\"> টি তে পুরো বাক্যের সাথে ‘</span><span class=\"english\">but’</span><span class=\"english\"> দ্বারা ‘</span><span class=\"english\">him’</span><span class=\"english\"> কে যুক্ত করা হয়েছে। </span><span class=\"english\">‘It wasn’t the red one but the blue one’</span><span class=\"english\"> বাক্যের সম্পূর্ণ রূপ হলো </span><span class=\"english\">‘It wasn’t the red one but it was</span><span> </span><span class=\"english\">the blue one’</span><span class=\"english\"> যেখানে কিনা দুটি বাক্যকেই যুক্ত করে ‘</span><span class=\"english\">but’</span><span class=\"english\"> এখানে একটি </span><span class=\"english\">Conjunction</span><span class=\"english\">। </span><span class=\"english\">‘Still, We can but try’</span><span class=\"english\"> বাক্যে ‘</span><span class=\"english\">but’ try(verb) </span><span class=\"english\">কে </span><span class=\"english\">modify</span><span class=\"english\"> করে </span><span class=\"english\">adverb</span><span class=\"english\"> হিসেবে কাজ করছে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">It troubled him a lot ––– people around were smiling to use these expressions.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">when</span></p>",
+            "<p><span class=\"english\">if</span></p>",
+            "<p><span class=\"english\">because of</span></p>",
+            "<p><span class=\"english\">despite</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">when</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">দুটি </span><span class=\"english\">clause</span><span class=\"english\"> কে যুক্ত করার সময় ‘</span><span class=\"english\">because</span><span> </span><span class=\"english\">of’ ও ‘despite’</span><span class=\"english\"> ব্যভার করা যায় না। এগুলোর পর সর্বদা  </span><span class=\"english\">phrase</span><span class=\"english\"> বসে। এবং অর্থগত কারণে এখানে সঠিক উত্তর </span><span class=\"english\">‘when’</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Nowadays consumer items are displayed in stores or in advertisements in ways that they create a feeling of _____ need for them. </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">actual </span></p>",
+            "<p><span class=\"english\">simple </span></p>",
+            "<p><span class=\"english\">immediate </span></p>",
+            "<p><span class=\"english\">basic</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">immediate </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">The synonym of the word ‘Tough’</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Arduous </span></p>",
+            "<p><span class=\"english\">Vigorous </span></p>",
+            "<p><span class=\"english\">Diffuse</span></p>",
+            "<p><span class=\"english\">Outrageous </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Arduous </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Tough </span><span class=\"english\">বা</span><span class=\"english\"> Arduous </span><span class=\"english\">এর অর্থ কষ্টসাধ্য।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Their parents wasn’t informed______their expedition.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">in</span></p>",
+            "<p><span class=\"english\">to</span></p>",
+            "<p><span class=\"english\">with</span></p>",
+            "<p><span class=\"english\">about</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">about</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Inform about </span><span class=\"english\">অর্থ অবগত থাকা।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Choose the correctly spelt word.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Deicet</span></p>",
+            "<p><span class=\"english\">Henious</span></p>",
+            "<p><span class=\"english\">Cancelletion</span></p>",
+            "<p><span class=\"english\">Instantaneous</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Instantaneous</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Correct spellings: Deceit, heinous, cancellation </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">I'm putting____ part of my wages every week to buy a bike.</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">on</span></p>",
+            "<p><span class=\"english\">by</span></p>",
+            "<p><span class=\"english\">out</span></p>",
+            "<p><span class=\"english\">up</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">by</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Put by </span><span class=\"english\">এর অর্থ সঞ্চয় করে রাখা।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">The phrase ‘Gray matter’ refers to—</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Something between legal and illegal </span></p>",
+            "<p><span class=\"english\">Something related to intellect </span></p>",
+            "<p><span class=\"english\">Something related to tax evasion</span></p>",
+            "<p><span class=\"english\">Something about related to color</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Something related to intellect </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">রোব্‌সপিয়ের হলেন</span><span class=\"english\">–</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">আমেরিকান লেখক</span></p>",
+            "<p><span class=\"english\">স্পেনের গেরিলা যোদ্ধা</span></p>",
+            "<p><span class=\"english\">চলচ্চিত্র অভিনেতা</span></p>",
+            "<p><span class=\"english\">ফরাসি বিপ্লবের নেতা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ফরাসি বিপ্লবের নেতা</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">জেনেটিক্স</span><span> </span><span class=\"english\">এর জনক</span><span class=\"english\">–</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">আইনস্টাইন</span></p>",
+            "<p><span class=\"english\">খুরানা</span></p>",
+            "<p><span class=\"english\">মেনডেল</span></p>",
+            "<p><span class=\"english\">ফ্লেমিং</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">মেনডেল</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘A Brief History of Time’ </span><span class=\"english\">গ্রন্থের</span><span> </span><span class=\"english\">লেখক</span><span> </span><span class=\"english\">কে</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">আলবার্ট</span><span> </span><span class=\"english\">আইনস্টাইন</span></p>",
+            "<p><span class=\"english\">স্টিভ</span><span> </span><span class=\"english\">জবস</span></p>",
+            "<p><span class=\"english\">স্টিফেন</span><span> </span><span class=\"english\">হকিং</span></p>",
+            "<p><span class=\"english\">ম্যারি</span><span> </span><span class=\"english\">কুরি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">স্টিফেন</span><span> </span><span class=\"english\">হকিং</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">Who among the following supported the French Revolution?</span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Russo and Voltaire</span></p>",
+            "<p><span class=\"english\">Plato and Russo</span></p>",
+            "<p><span class=\"english\">Montesquieu and Lavoisier</span></p>",
+            "<p><span class=\"english\">Locke and Montesquieu</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Russo and Voltaire</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">কোন</span><span> </span><span class=\"english\">দেশটি</span><span> </span><span class=\"english\">মেমোগেট</span><span> </span><span class=\"english\">(Memogate)</span><span> </span><span class=\"english\">কেলেঙ্কারির</span><span> </span><span class=\"english\">সঙ্গে</span><span> </span><span class=\"english\">যুক্ত</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">কলম্বিয়া</span><span> </span></p>",
+            "<p><span class=\"english\">ভারত</span><span> </span></p>",
+            "<p><span class=\"english\">দক্ষিণ</span><span> </span><span class=\"english\">আফ্রিকা</span><span> </span></p>",
+            "<p><span class=\"english\">পাকিস্তান</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পাকিস্তান</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">২০১১ সালে পাকিস্তানের বেসামরিক সরকারের রাষ্ট্রদূত (হুসেইন হাক্কানি) কর্তৃক সামরিক প্রশাসনকে নিয়ন্ত্রণে আনার জন্য যুক্তরাষ্ট্রের নিকট সাহায্য প্রার্থনার বিষয় ফাঁস হওয়াকে মেমোগেট কেলেঙ্কারি বলা হয়।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">PLO</span><span> </span><span class=\"english\">এর</span><span> </span><span class=\"english\">সদর</span><span> </span><span class=\"english\">দপ্তর</span><span> </span><span class=\"english\">কোথায়</span><span class=\"english\"> অবস্থিত</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পশ্চিম</span><span> </span><span class=\"english\">তীর</span></p>",
+            "<p><span class=\"english\">গাজা</span></p>",
+            "<p><span class=\"english\">বেনগাজী</span></p>",
+            "<p><span class=\"english\">রামাল্লা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">রামাল্লা</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">PLO</span><span class=\"english\"> এর পূর্ণরূপ- </span><span class=\"english\">Palestine Liberation Organization</span><span class=\"english\"> ইয়াসির আরাফাত ১৯৬৪ সালে </span><span class=\"english\">PLO</span><span class=\"english\"> প্রতিষ্ঠা করেন। এর সদর দপ্তর- </span><span class=\"english\">Orient house.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">চতুর্থ আরব ইসরায়েল যুদ্ধ কত সালে সংঘটিত হয়?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">১৯৬৭</span></p>",
+            "<p><span class=\"english\">১৯৬৯</span></p>",
+            "<p><span class=\"english\">১৯৭০</span></p>",
+            "<p><span class=\"english\">১৯৭৩</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">১৯৭৩</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">চতুর্থ আরব- ইসরায়েল যুদ্ধ ইয়োম কিপুর বা রামাদান যুদ্ধ নামে পরিচিত। যুক্তরাষ্ট্র ইসরায়েলকে সহায়তা করলে ১৯৭৩ সালে আরবরা তেল অবরোধ দেয়। যুক্তরাষ্ট্রের মধ্যস্থতায় ইসরায়েল সিনাই উপত্যকা এবং গোলান মালভূমি থেকে সৈন্য প্রত্যাহারের অঙ্গীকার করলে ওপেক ১৯৭৪ সালের মার্চ মাসে তেল নিষেধাজ্ঞা উঠিয়ে  নেয়।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">FBI</span><span class=\"english\"> এর পূর্ণরূপ-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">Federal Investigation Bureau</span></p>",
+            "<p><span class=\"english\">Federal Bureau of Intelligence</span></p>",
+            "<p><span class=\"english\">Federal Bureau of Investigation</span></p>",
+            "<p><span class=\"english\">Federal Intelligence Bureau</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">Federal Bureau of Investigation</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">FBI (Federal Bureau of Investigation)</span><span class=\"english\"> যুক্তরাষ্ট্রের গোয়েন্দা সংস্থা, যার সদর দপ্তর- ওয়াশিংটন ডিসি, যুক্তরাষ্ট্র।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">জ্যামিতির</span><span> </span><span class=\"english\">জনক</span><span> </span><span class=\"english\">কে</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ইউক্লিড</span><span> </span></p>",
+            "<p><span class=\"english\">এরিস্টটল</span><span> </span></p>",
+            "<p><span class=\"english\">পিথাগোরাস</span><span> </span></p>",
+            "<p><span class=\"english\">টলেমি</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ইউক্লিড</span><span> </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">ইসলামের</span><span> </span><span class=\"english\">পঞ্চম</span><span> </span><span class=\"english\">খলিফা</span><span> </span><span class=\"english\">বলা</span><span> </span><span class=\"english\">হয়</span><span> </span><span class=\"english\">কাকে</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">হযরত</span><span> </span><span class=\"english\">উমর</span><span> </span><span class=\"english\">বিন</span><span> </span><span class=\"english\">আব্দুল</span><span> </span><span class=\"english\">আজিজ</span><span class=\"english\"> (</span><span class=\"english\">রহ</span><span class=\"english\">.) </span></p>",
+            "<p><span class=\"english\">হযরত</span><span> </span><span class=\"english\">মুয়াবিয়া</span><span class=\"english\"> (</span><span class=\"english\">রা</span><span class=\"english\">.) </span></p>",
+            "<p><span class=\"english\">খলিফা</span><span> </span><span class=\"english\">আব্দুল</span><span> </span><span class=\"english\">মালিক</span><span> </span></p>",
+            "<p><span class=\"english\">খলিফা</span><span> </span><span class=\"english\">হারুন</span><span> </span><span class=\"english\">অর</span><span> </span><span class=\"english\">রশীদ</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">হযরত</span><span> </span><span class=\"english\">উমর</span><span> </span><span class=\"english\">বিন</span><span> </span><span class=\"english\">আব্দুল</span><span> </span><span class=\"english\">আজিজ</span><span class=\"english\"> (</span><span class=\"english\">রহ</span><span class=\"english\">.) </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">খোলাফায়ে রাশেদীনের শাসননীতির সাথে মিল থাকায় উমর বিন আবদুল আজিজ ইসলামের পঞ্চম খলিফা ও দ্বিতীয় উমর হিসেবে পরিচিত।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">সিনাগগ</span><span> </span><span class=\"english\">কাদের</span><span> </span><span class=\"english\">উপাসনালয়</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">জরাথ্রুস্ট</span><span> </span></p>",
+            "<p><span class=\"english\">জৈন</span></p>",
+            "<p><span class=\"english\">ইহুদি</span><span> </span></p>",
+            "<p><span class=\"english\">শিখ</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ইহুদি</span><span> </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">রেনেসাঁর বরপুত্র</span><span class=\"english\">’</span><span class=\"english\"> বলা হয় কাকে? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">নিকোলো ম্যাকিয়াভেলি </span></p>",
+            "<p><span class=\"english\">লিওনার্দো দ্য ভিঞ্চি  </span></p>",
+            "<p><span class=\"english\">মাইকেল অ্যাঞ্জেলো  </span></p>",
+            "<p><span class=\"english\">রাফায়েল</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">নিকোলো ম্যাকিয়াভেলি </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">ইরান-কন্ট্রা কেলেঙ্কারির সাথে যুক্তরাষ্ট্রের কোন প্রেসিডেন্টের সম্পর্ক ছিল?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বিল ক্লিনটন   </span></p>",
+            "<p><span class=\"english\">ডোয়াইট আইজেনহাওয়ার  </span></p>",
+            "<p><span class=\"english\">রোনাল্ড রিগ্যান </span></p>",
+            "<p><span class=\"english\">জিমি কার্টার</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">রোনাল্ড রিগ্যান </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">মার্কিন যুক্তরাষ্ট্রের রিগ্যান প্রশাসনের কর্মকর্তারা গোপনে ইরানের কাছে অস্ত্র বিক্রি করে এবং সেই অর্থ নিকারাগুয়ার বামপন্থি সান্দিনিস্তা সরকারের বিরুদ্ধে কন্ট্রা বিদ্রোহীদের অর্থায়নে ব্যবহার করে, যা ইরান কন্ট্রা কেলেঙ্কারি নামে পরিচিত।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">চীনে রাজতন্ত্রের অবসান ঘটে কোন বিপ্লবের ফলে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">গণতান্ত্রিক বিপ্লব                 </span></p>",
+            "<p><span class=\"english\">সমাজতান্ত্রিক বিপ্লব</span></p>",
+            "<p><span class=\"english\">জাতীয়তাবাদী বিপ্লব              </span></p>",
+            "<p><span class=\"english\">সাংস্কৃতিক বিপ্লব </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">জাতীয়তাবাদী বিপ্লব              </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘Magna Carta’</span><span class=\"english\"> ঘোষিত </span><span class=\"english\">হয়েছিল</span><span> </span><span class=\"english\">কত</span><span> </span><span class=\"english\">সালে</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">১২১০</span></p>",
+            "<p><span class=\"english\">১২১৫</span><span> </span></p>",
+            "<p><span class=\"english\">১২২৫</span><span> </span></p>",
+            "<p><span class=\"english\">১২৩০</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">১২১৫</span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">১২১৫ সালের ১৫ জুন ইংল্যান্ডের রাজা জন সামন্তদের চাপে পড়ে রাজার অধিকার সংক্রান্ত </span><span class=\"english\">‘</span><span class=\"english\">ম্যাগনাকার্টা চুক্তি</span><span class=\"english\">’</span><span class=\"english\"> স্বাক্ষর করেন।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">অর্থনীতিতে</span><span> </span><span class=\"english\">জনসংখ্যা</span><span> </span><span class=\"english\">তত্ত্বটির</span><span> </span><span class=\"english\">প্রবক্তা</span><span> </span><span class=\"english\">কে</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অ্যাডাম </span><span class=\"english\">স্মিথ</span></p>",
+            "<p><span class=\"english\">অমর্ত্য</span><span> </span><span class=\"english\">সেন</span></p>",
+            "<p><span class=\"english\">কার্ল</span><span> </span><span class=\"english\">মার্কস</span></p>",
+            "<p><span class=\"english\">রবার্ট</span><span> </span><span class=\"english\">ম্যালথাস</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">রবার্ট</span><span> </span><span class=\"english\">ম্যালথাস</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">নওয়াজ</span><span> </span><span class=\"english\">শরীফকে</span><span> </span><span class=\"english\">পাকিস্তানের</span><span> </span><span class=\"english\">প্রধানমন্ত্রীর</span><span> </span><span class=\"english\">পদ</span><span> </span><span class=\"english\">থেকে</span><span> </span><span class=\"english\">পদত্যাগ</span><span> </span><span class=\"english\">করতে</span><span> </span><span class=\"english\">হ</span><span class=\"english\">য়েছিল</span><span> </span><span class=\"english\">কেন</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">মেমোগেট</span><span> </span><span class=\"english\">কেলেঙ্কারি</span><span class=\"english\">র জন্য</span></p>",
+            "<p><span class=\"english\">ওয়াটারগেট</span><span> </span><span class=\"english\">কেলেঙ্কারি</span><span class=\"english\">র জন্য</span></p>",
+            "<p><span class=\"english\">পানামা</span><span> </span><span class=\"english\">পেপারস</span><span> </span><span class=\"english\">কেলেঙ্কারি</span><span class=\"english\">র জন্য</span></p>",
+            "<p><span class=\"english\">বোফোর্স</span><span> </span><span class=\"english\">কেলেঙ্কারি</span><span class=\"english\">র জন্য</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পানামা</span><span> </span><span class=\"english\">পেপারস</span><span> </span><span class=\"english\">কেলেঙ্কারি</span><span class=\"english\">র জন্য</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">পানামার আইন সংস্থা মোস্যাক ফনসেকার ফাঁস হওয়া গোপন নথি থেকে বিশ্বের ক্ষমতাধর ও ধনী ব্যক্তিদের অফশোর কোম্পানির মাধ্যমে কর ফাঁকি, অর্থ পাচার ও গোপন সম্পদ রাখার তথ্য ফাঁস হয়। এটি </span><span class=\"english\">‘</span><span class=\"english\">পানামা পেপারস কেলেঙ্কারি</span><span class=\"english\">’</span><span class=\"english\"> নামে পরিচিত।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">\"কাপুরুষেরা মরার আগে বহুবার মারা যায়, সাহসীরা একবার মৃত্যুবরণ করে\" কথাটি কে বলেছেন?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">উইলিয়াম শেক্সপিয়ার               </span></p>",
+            "<p><span class=\"english\">এরিস্টটল</span></p>",
+            "<p><span class=\"english\">সক্রেটিস                  </span></p>",
+            "<p><span class=\"english\">জুলিয়াস সিজার </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">উইলিয়াম শেক্সপিয়ার               </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">ওয়াটার লু</span><span> </span><span class=\"english\">যুদ্ধে</span><span> </span><span class=\"english\">কে</span><span> </span><span class=\"english\">পরাজিত</span><span> </span><span class=\"english\">হয়েছিলেন</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">হিটলার</span><span> </span></p>",
+            "<p><span class=\"english\">লেনিন</span><span> </span></p>",
+            "<p><span class=\"english\">স্ট্যালিন</span><span> </span></p>",
+            "<p><span class=\"english\">নেপোলিয়</span><span class=\"english\">ন</span><span> </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">নেপোলিয়</span><span class=\"english\">ন</span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\"> ১৮১৫ সালে বেলজিয়ামের ওয়াটার লু-তে ব্রিটেন ও ফ্রান্সের মধ্যে যুদ্ধ সংঘটিত হয়। যুদ্ধে নেপোলিয়ন পরাজিত হয়ে সেন্ট হেলেনা দ্বীপে নির্বাসিত হ</span><span class=\"english\">ন</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">তাসখন্দ চুক্তি কোন দুটি রাষ্ট্রের মধ্যে স্বাক্ষরিত হয়?</span><span> </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পাকিস্তান ও আফগানিস্তান</span></p>",
+            "<p><span class=\"english\">ভারত ও আফগানিস্তান</span></p>",
+            "<p><span class=\"english\">পাকিস্তান ও ভারত</span></p>",
+            "<p><span class=\"english\">আফগানিস্তান ও সোভিয়েত ইউনিয়ন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পাকিস্তান ও ভারত</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">কাশ্মীর নিয়ে ১৯৬৫ সালে ২য় পাক-ভারত যুদ্ধের অবসান ঘটিয়ে শান্তি প্রতিষ্ঠা করার লক্ষ্যে ১০ জানুয়ারি ১৯৬৬ সালে উজবেকিস্তানের তাসখন্দে শান্তিচুক্তি হয়, যা </span><span class=\"english\">‘</span><span class=\"english\">তাসখন্দ চুক্তি</span><span class=\"english\">’</span><span class=\"english\"> নামে পরিচিত।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">Hundred Years War was fought between-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">France and England</span></p>",
+            "<p><span class=\"english\">Greek and Persia</span></p>",
+            "<p><span class=\"english\">Italy and Germany</span></p>",
+            "<p><span class=\"english\">Argentina and France </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">France and England</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">ইংল্যান্ডের রাজা তৃতীয় এডওয়ার্ড ফ্রান্সের সিংহাসন দাবি করলে ফ্রান্স ও ইংল্যান্ডের মধ্যে শতবর্ষব্যাপী</span><span class=\"english\"> (১৩৩৮-১৪৫</span><span class=\"english\">৩</span><span class=\"english\">)</span><span class=\"english\"> যুদ্ধ শুরু হয়। </span><span class=\"english\">Joan of Arc</span><span class=\"english\"> এ যুদ্ধের বিখ্যাত নারী যোদ্ধা।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">ইসরায়েল ও আরব দেশগুলোর মধ্যে কূটনৈতিক সম্পর্ক স্থাপন করার উদ্দেশ্যে স্বাক্ষরিত হয়-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">দোহা চুক্তি               </span></p>",
+            "<p><span class=\"english\">অসলো চুক্তি  </span></p>",
+            "<p><span class=\"english\">ক্যাম্প ডেভিড চুক্তি                  </span></p>",
+            "<p><span class=\"english\">আব্রাহাম চুক্তি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">আব্রাহাম চুক্তি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">২০২০ সালে যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের মধ্যস্থতায় ইসরায়েল ও আরব দেশগুলোর মধ্যে কূটনৈতিক সম্পর্ক স্থাপন করা হয়, যা আব্রাহাম চুক্তি নামে পরিচিত। এর পরিণতিতে ইরান বিরোধী নতুন অক্ষ সৃষ্টি হয়।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">ট্রান্স</span><span class=\"english\">পারে</span><span class=\"english\">ন্সি</span><span> </span><span class=\"english\">ইন্টারন্যাশনাল</span><span> </span><span class=\"english\">এর</span><span> </span><span class=\"english\">সদর</span><span> </span><span class=\"english\">দপ্তর</span><span> </span><span class=\"english\">কোথায়</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বার্লিন</span><span> </span></p>",
+            "<p><span class=\"english\">প্যারিস</span></p>",
+            "<p><span class=\"english\">লন্ডন</span><span> </span></p>",
+            "<p><span class=\"english\">ওয়াশিংটন</span><span> </span><span class=\"english\">ডিসি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বার্লিন</span><span> </span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">১৯৯৩ সালে জার্মানিভিত্তিক বেসরকারি আন্তর্জাতিক দুর্নীতি বিরোধী সংস্থা প্রতিষ্ঠিত হয়। সংস্থাটি বিভিন্ন দেশের দুর্নীতি সংক্রান্ত তথ্য বিশ্লেষণ করে দুর্নীতির সূচক প্রদান করে থাকে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">যে প্রতিষ্ঠান ৩ বার শান্তিতে নোবেল পুরস্কার পেয়েছে-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ICRC</span></p>",
+            "<p><span class=\"english\">UNHCR</span></p>",
+            "<p><span class=\"english\">UNICEF</span></p>",
+            "<p><span class=\"english\">IOM</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ICRC</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">International Committee of the Red Cross </span><span class=\"english\">(</span><span class=\"english\">ICRC</span><span class=\"english\">)</span><span> </span><span class=\"english\">শান্তিতে নোবেল পুরস্কার পায় ১৯১৭, ১৯৪৪ ও ১৯৬৩ সালে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">সিঙ্গাপুরের স্বাধীনতার জনক বলা হয় কাকে? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">হো চি মিন                 </span></p>",
+            "<p><span class=\"english\">লি কুয়ান ইউ</span></p>",
+            "<p><span class=\"english\">সান ইয়াৎ সেন                  </span></p>",
+            "<p><span class=\"english\">মাহাথির মোহাম্মদ </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">লি কুয়ান ইউ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">লি কুয়ান ইউ ছিলেন সিঙ্গাপুরের প্রথম প্রধানমন্ত্রী। তার নেতৃত্বে সিঙ্গাপুর তৃতীয় বিশ্বের দেশ থেকে প্রথম বিশ্বের দেশে পরিণত হয়। তার বিখ্যাত গ্রন্থ: </span><span class=\"english\">From Third World to First.</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">সম্প্রতি কোন আন্তর্জাতিক সহায়তা সংস্থার কার্যক্রম বন্ধ ঘোষণা করা হয়েছে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">CARE</span></p>",
+            "<p><span class=\"english\">OXFAM</span></p>",
+            "<p><span class=\"english\">ICRC</span></p>",
+            "<p><span class=\"english\">USAID</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">USAID</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">মামলুক সালতানাত কোন অঞ্চল কেন্দ্র করে বিস্তার লাভ করেছিল?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">মরক্কো ও স্পেন                  </span></p>",
+            "<p><span class=\"english\">ইরান ও ইরাক</span></p>",
+            "<p><span class=\"english\">মিশর ও সিরিয়া</span></p>",
+            "<p><span class=\"english\">গ্রিস ও তুর্কিয়ে </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">মিশর ও সিরিয়া</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">উপমহাদেশের প্রাচীনতম রাজনৈতিক দল-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ভারতীয় জনতা পার্টি               </span></p>",
+            "<p><span class=\"english\">ভারতীয় জাতীয় কংগ্রেস</span></p>",
+            "<p><span class=\"english\">সর্বদলীয় তৃণমূল কংগ্রেস                 </span></p>",
+            "<p><span class=\"english\">সর্বভারতীয় মুসলিম লীগ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ভারতীয় জাতীয় কংগ্রেস</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">উপমহাদেশের প্রথম ও প্রাচীনতম রাজনৈতিক দল ভারতীয় জাতীয় কংগ্রেস ১৮৮৫ সালে প্রতিষ্ঠিত হয়, যার প্রতিষ্ঠাতা- অ্যালান অক্টোভিয়ান হিউম।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">আর্মেনীয় গণহত্যা সংঘটিত হয়-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">প্রথম বিশ্বযুদ্ধ চলাকালীন</span></p>",
+            "<p><span class=\"english\">দ্বিতীয় বিশ্বযুদ্ধ চলাকালীন </span></p>",
+            "<p><span class=\"english\">স্নায়ুযুদ্ধের সময়                 </span></p>",
+            "<p><span class=\"english\">আর্মেনিয়া ও আজারবাইজানের যুদ্ধ চলাকালীন </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">প্রথম বিশ্বযুদ্ধ চলাকালীন</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">পৃথিবীর বৃহত্তম মন্দির এঙ্করওয়াট কোন দেশে অবস্থিত?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ভারত                    </span></p>",
+            "<p><span class=\"english\">নেপাল</span></p>",
+            "<p><span class=\"english\">কম্বোডিয়া</span></p>",
+            "<p><span class=\"english\">থাইল্যান্ড </span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">কম্বোডিয়া</span></p>",
+        "solution_html": ""
+    }
+]

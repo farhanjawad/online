@@ -1,0 +1,662 @@
+[
+    {
+        "question_html": "<p><span class=\"english\">অনুপমের মতে </span><span class=\"english\">আক্রোশের স্রোতের</span><span> </span><span class=\"english\">রং কেমন?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">কালো</span></p>",
+            "<p><span class=\"english\">কালো নয়</span></p>",
+            "<p><span class=\"english\">বেগুনি</span></p>",
+            "<p><span class=\"english\">নীলচে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">কালো</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">“</span><span class=\"english\">কিন্তু, এই আক্রোশের কালো রঙের স্রোতের পাশাপাশি আর একটা স্রোত বহিতেছিল যেটার র</span><span class=\"english\">ং</span><span class=\"english\"> একেবারেই কালো নয়।</span><span class=\"english\">”</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">কোন বানানটি শুদ্ধ নয়?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ভয়ঙ্কর</span></p>",
+            "<p><span class=\"english\">বঙ্কিম</span></p>",
+            "<p><span class=\"english\">ঊর্ধ্ব</span></p>",
+            "<p><span class=\"english\">সান্ত্বনা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ভয়ঙ্কর</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">ভয়ঙ্কর এর শুদ্ধরূপ: ভয়ংকর।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">এন্ট্রান্স</span><span class=\"english\">’ </span><span class=\"english\">বর্তমানে কোন পরীক্ষার সমতুল্য?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">স্নাতকোত্তর</span></p>",
+            "<p><span class=\"english\">মাধ্যমিক</span></p>",
+            "<p><span class=\"english\">উচ্চ মাধ্যমিক</span></p>",
+            "<p><span class=\"english\">স্নাতক</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">মাধ্যমিক</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">“</span><span class=\"english\">এই পুকুরের পানি ঘোলা</span><span class=\"english\">।</span><span class=\"english\">”</span><span class=\"english\">- </span><span class=\"english\">এ বাক্যে </span><span class=\"english\">‘</span><span class=\"english\">ঘোলা</span><span class=\"english\">’ </span><span class=\"english\">কোন বিশেষণ?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বীপ্সামূলক বিশেষণ</span></p>",
+            "<p><span class=\"english\">বিধেয় বিশেষণ</span></p>",
+            "<p><span class=\"english\">ক্রিয়াজাত বিশেষণ</span></p>",
+            "<p><span class=\"english\">উপসর্গযুক্ত বিশেষণ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বিধেয় বিশেষণ</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">নজরুলের মতে, প্রাণপ্রাচুর্যের উৎসবিন্দু হলো-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">মনুষ্যত্ববোধ</span></p>",
+            "<p><span class=\"english\">বিনয়</span></p>",
+            "<p><span class=\"english\">সত্যের উপলব্ধি</span></p>",
+            "<p><span class=\"english\">স্বীকা</span><span class=\"english\">রো</span><span class=\"english\">ক্তি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">সত্যের উপলব্ধি</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">“</span><span class=\"english\">তাজা তাজা প্রাণে অসহ্য যন্ত্রণা</span><span class=\"english\">”</span><span class=\"english\">– </span><span class=\"english\">এই অসহ্য যন্ত্রণার কারণ</span><span class=\"english\">–</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অন্যায়</span></p>",
+            "<p><span class=\"english\">পীড়ন</span></p>",
+            "<p><span class=\"english\">সামাজিক বৈষম্য</span></p>",
+            "<p><span class=\"english\">সবগুলো</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">সবগুলো</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">কোন বাক্যটি দ্বিকর্মক ক্রিয়া দ্বারা গঠিত?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">চল খেলতে যাই</span></p>",
+            "<p><span class=\"english\">আর মায়াকান্না কেঁদে</span><span class=\"english\">া</span><span class=\"english\"> না</span></p>",
+            "<p><span class=\"english\">আমাকে বইটা দাও</span></p>",
+            "<p><span class=\"english\">সাপুড়ে সাপ খেলায়</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">আমাকে বইটা দাও</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">যে ক্রিয়ার দুটি কর্মপদ থাকে তাকে দ্বিকর্মক ক্রিয়া বলে। অর্থাৎ ক্রিয়াকে কী এবং কাকে দ্বারা প্রশ্ন করে উত্তর পাওয়া গেলে তাকে দ্বিকর্মক ক্রিয়া বলে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">মানব-কল্যাণ</span><span class=\"english\">’</span><span> </span><span class=\"english\">প্রবন্ধে রবীন্দ্রনাথ ঠাকুর ব্যতীত অপর কোন লেখকের রচনা থেকে উদ্ধৃতি আছে</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বিদ্যাপতি</span></p>",
+            "<p><span class=\"english\">বঙ্কিমচন্দ্র চট্টোপাধ্যায়</span></p>",
+            "<p><span class=\"english\">লালন শাহ</span></p>",
+            "<p><span class=\"english\">কাজী নজরুল ইসলাম</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বঙ্কিমচন্দ্র চট্টোপাধ্যায়</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">রবীন্দ্রনাথ ঠাকুরের রচনার উদ্ধৃতি: </span><span class=\"english\">“Relationship </span><span class=\"english\">i</span><span class=\"english\">s the fundamental truth of the world of </span><span class=\"english\">appearance</span><span class=\"english\">.”</span></p><p><span class=\"english\">বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের রচনার উদ্ধৃতি: </span><span class=\"english\">“</span><span class=\"english\">তুমি অধম তাই বলিয়া আমি উত্তম হইব না কেন?</span><span class=\"english\">”</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">গদিচ্যুত</span><span class=\"english\">’ </span><span class=\"english\">কোন সমাস?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অলুক তৎপুরুষ</span></p>",
+            "<p><span class=\"english\">তৃতীয়া তৎপুরুষ</span></p>",
+            "<p><span class=\"english\">পঞ্চমী তৎপুরুষ</span></p>",
+            "<p><span class=\"english\">উপপদ তৎপুরুষ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পঞ্চমী তৎপুরুষ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">গ</span><span class=\"english\">দি</span><span class=\"english\"> হতে চ্যুত </span><span class=\"english\">→ </span><span class=\"english\">পঞ্চমী তৎপুরুষ সমাস।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">“</span><span class=\"english\">অনেকটা পথ </span><span class=\"english\">যে</span><span class=\"english\">তে হবে কৈলেশ।</span><span class=\"english\">”</span><span class=\"english\">-</span><span class=\"english\"> উক্তিটি কার?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বুড়ো রহমানের</span></p>",
+            "<p><span class=\"english\">মাসির</span></p>",
+            "<p><span class=\"english\">পিসির</span></p>",
+            "<p><span class=\"english\">আহ্লাদির</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পিসির</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">“</span><span class=\"english\">বর্ষাকা</span><span class=\"english\">লে</span><span class=\"english\">ই তো জুৎ</span><span class=\"english\">”</span><span> </span><span class=\"english\">কথাটা কয়বার বলা হয়েছিল?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">একবার</span></p>",
+            "<p><span class=\"english\">দুইবার</span></p>",
+            "<p><span class=\"english\">তিনবার</span></p>",
+            "<p><span class=\"english\">চারবার</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">দুইবার</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">রেইনকোট গল্পে ছদ্মবেশী কুলি এই কথা দুইবার বলে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">ছেলেটি </span><span class=\"english\">কাঁদতে লাগল</span><span class=\"english\">’</span><span class=\"english\">- </span><span class=\"english\">বাক্যটির চিহ্নিত ক্রিয়াপদ কোন অর্থে ব্যবহৃত</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অবিরাম</span></p>",
+            "<p><span class=\"english\">আকস্মিকতা</span></p>",
+            "<p><span class=\"english\">সূচনা</span></p>",
+            "<p><span class=\"english\">সমাপ্তি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">অবিরাম</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোন বাক্যটি শুদ্ধ?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">তিনি জাতির সর্বশ্রেষ্ঠ সন্তান।</span></p>",
+            "<p><span class=\"english\">ফলদ বৃক্ষ বেশি বেশি রোপণ করা উচিত।</span></p>",
+            "<p><span class=\"english\">সাবধান পূর্বক চলবে।</span></p>",
+            "<p><span class=\"english\">বাংলা বানান আয়ত্ত্ব করা বেশ কঠিন।</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ফলদ বৃক্ষ বেশি বেশি রোপণ করা উচিত।</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">শুদ্ধরূপ: তিনি জাতির শ্রেষ্ঠ সন্তান।</span></p><p><span class=\"english\">সাবধানে চলবে</span><span class=\"english\">।</span></p><p><span class=\"english\">বাংলা বানান আয়ত্ত করা বেশ কঠিন।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">সোনার তরী</span><span class=\"english\">’</span><span> </span><span class=\"english\">কবিতায় মহাকালের প্রতীক কোনটি</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বিদেশ</span></p>",
+            "<p><span class=\"english\">ধান</span></p>",
+            "<p><span class=\"english\">তরী</span></p>",
+            "<p><span class=\"english\">মাঝি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">মাঝি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">বিদেশ = চিরায়ত শিল্পলোক</span></p><p><span class=\"english\">ধান = শিল্পস্রষ্টা কবির সৃষ্টিসম্ভার</span></p><p><span class=\"english\">তরী = চিরায়ত শিল্পলোক</span></p><p><span class=\"english\">মাঝি = নির্মোহ মহাকাল</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">বিদ্রোহী</span><span class=\"english\">’ </span><span class=\"english\">কবিতায় উল্লিখিত ঐতিহাসিক চরিত্র কোনটি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">নটরাজ</span></p>",
+            "<p><span class=\"english\">ইস্রাফিল</span></p>",
+            "<p><span class=\"english\">অর্ফিয়াস</span></p>",
+            "<p><span class=\"english\">চেঙ্গিস</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">চেঙ্গিস</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">চেঙ্গিস</span><span class=\"english\"> খান মোঙ্গল জাতির অন্যতম যোদ্ধা ও সামরিক নেতা। তাই এটি একটি ঐতিহাসিক চরিত্র।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">“</span><span class=\"english\">মহাপ্রলয়ের আমি নটরাজ, আমি সাইক্লোন, আমি ধ্বংস!</span><span class=\"english\">”</span><span class=\"english\">- চরণটি দ্বারা </span><span class=\"english\">‘</span><span class=\"english\">বিদ্রোহী</span><span class=\"english\">’</span><span class=\"english\"> কবিতায় কবি নিজেকে কার সাথে তুলনা করেছেন?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ভীম</span></p>",
+            "<p><span class=\"english\">পরশুরাম</span></p>",
+            "<p><span class=\"english\">বলরাম</span></p>",
+            "<p><span class=\"english\">শিব</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">শিব</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">“</span><span class=\"english\">আমি উপা</span><span class=\"english\">ড়ি</span><span class=\"english\"> ফেলিব অধীন </span><span class=\"english\">বিশ্ব</span><span class=\"english\"> অবহে</span><span class=\"english\">লে</span><span> </span><span class=\"english\">ন</span><span class=\"english\">ব সৃষ্টির মহানন্দে।</span><span class=\"english\">”</span><span class=\"english\">–</span><span> </span><span class=\"english\">এখানে নিম্নরেখাঙ্কিত শব্দটি কোন কারক?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">কর্ম</span><span class=\"english\"> কারক</span></p>",
+            "<p><span class=\"english\">কর্তা</span><span class=\"english\"> কারক</span></p>",
+            "<p><span class=\"english\">অপাদান</span><span class=\"english\"> কারক</span></p>",
+            "<p><span class=\"english\">অধিকরণ</span><span class=\"english\"> কারক</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">কর্ম</span><span class=\"english\"> কারক</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">প্রতিদান</span><span class=\"english\">’</span><span class=\"english\"> কবিতায় সমাজকে কী দ্বারা আক্রান্ত বলা হয়েছে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পরচর্চা</span></p>",
+            "<p><span class=\"english\">আত্মস্বার্থ কামনা</span></p>",
+            "<p><span class=\"english\">বিভেদ-হিংসা-হানাহানি</span></p>",
+            "<p><span class=\"english\">লোভ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বিভেদ-হিংসা-হানাহানি</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোনটি সুফিয়া কামাল রচিত গ্রন্থ নয়?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">উদাত্ত পৃথিবী</span></p>",
+            "<p><span class=\"english\">কেয়ার কাঁটা</span></p>",
+            "<p><span class=\"english\">মায়া কাজল</span></p>",
+            "<p><span class=\"english\">বিদীর্ণ দর্পণে মুখ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">বিদীর্ণ দর্পণে মুখ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘</span><span class=\"english\">বিদীর্ণ দর্পণে মুখ</span><span class=\"english\">’ </span><span class=\"english\">কবি আহসান হাবীব রচিত কাব্যগ্রন্থ। </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোন কবিতায় প্রকৃতি ও মানব মনের গভীর সম্পর্ক ফুটে উঠেছে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">আমি কিংবদন্তির কথা বলছি </span></p>",
+            "<p><span class=\"english\">তাহারেই পড়ে মনে</span></p>",
+            "<p><span class=\"english\">প্রতিদান</span></p>",
+            "<p><span class=\"english\">সোনার তরী</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">তাহারেই পড়ে মনে</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">অক্ষরের পরিমাপককে বলা হয়-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ছন্দ </span></p>",
+            "<p><span class=\"english\">পর্ব</span></p>",
+            "<p><span class=\"english\">মাত্রা</span></p>",
+            "<p><span class=\"english\">তান</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">মাত্রা</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">বন্দি</span><span class=\"english\">’</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">ভাষার</span><span> </span><span class=\"english\">শব্দ</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">ফরাসি</span></p>",
+            "<p><span class=\"english\">আরবি</span></p>",
+            "<p><span class=\"english\">হিন্দি</span></p>",
+            "<p><span class=\"english\">ফারসি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ফারসি</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">তারুণ্য ও যৌবনশক্তি দুর্বার গতিতে কোন পথে এগিয়ে যায়?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">সৃষ্টির পথে</span></p>",
+            "<p><span class=\"english\">উন্নতির পথে</span></p>",
+            "<p><span class=\"english\">প্রগতির পথে</span></p>",
+            "<p><span class=\"english\">পরিবর্তনের পথে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">প্রগতির পথে</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">যে লৌহখণ্ডকে প্রজ্বলিত করে তাকে সশস্ত্র করবে কোনটি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">লোহার তরবারি</span></p>",
+            "<p><span class=\"english\">ধারালো তরবারি</span></p>",
+            "<p><span class=\"english\">ইস্পাতের তরবারি</span></p>",
+            "<p><span class=\"english\">প্রজ্বলিত তরবারি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ইস্পাতের তরবারি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘</span><span class=\"english\">আমি কিংবদন্তির কথা বলছি</span><span class=\"english\">’ </span><span class=\"english\">কবিতার চরণ-</span></p><p><span class=\"english\">“</span><span class=\"english\">যে লৌহখ</span><span class=\"english\">ণ্ড</span><span class=\"english\">কে প্রজ্বলিত করে ইস্পাতের তরবারি তাকে সশস্ত্র করবে।</span><span class=\"english\">”</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">মজিদের উপদেশ শোনার পর লজ্জা রহিমার শরীরে ছড়িয়ে পড়ল</span><span class=\"english\">–</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">গলা সীসার মতো</span></p>",
+            "<p><span class=\"english\">সোনালি আ</span><span class=\"english\">ভা</span><span class=\"english\">র মতো</span></p>",
+            "<p><span class=\"english\">ধ্রুবতারার মতো</span></p>",
+            "<p><span class=\"english\">গলিত সোনার মতো</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">গলা সীসার মতো</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">ভীরু প্রতারকের দল চিরকালই পালায়।</span><span class=\"english\">’</span><span class=\"english\"> উক্তিটি কাকে উদ্দেশ্য করে নবাব বলেছিল?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">মিরজাফর</span></p>",
+            "<p><span class=\"english\">হতাশ জনতা</span></p>",
+            "<p><span class=\"english\">উমিচাঁদ</span></p>",
+            "<p><span class=\"english\">ক্লাইভ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">হতাশ জনতা</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">জ্যাঠামি</span><span class=\"english\">’ </span><span class=\"english\">শব্দটির ক্ষেত্রে হয়েছে-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অর্থের সংকোচন</span></p>",
+            "<p><span class=\"english\">অর্থের প্রসারণ</span></p>",
+            "<p><span class=\"english\">অর্থ-বদল</span></p>",
+            "<p><span class=\"english\">অর্থের অবনতি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">অর্থের অবনতি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">জ্যাঠামি শব্দটি দ্বারা জ্যাঠা সংশ্লিষ্ট কাউকে না বুঝিয়ে হেয় করে পাকামি অর্থে ব্যবহৃত হয়। এখানের অর্থের অবনতি ঘটেছে। </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">বছরের শেষ হিসাব নিকাশ</span><span class=\"english\">’</span><span class=\"english\">-</span><span class=\"english\">এর</span><span> </span><span class=\"english\">এক কথায় </span><span class=\"english\">প্রকাশ</span><span class=\"english\"> কোনটি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">সালতামামি </span></p>",
+            "<p><span class=\"english\">বাৎসরিক</span></p>",
+            "<p><span class=\"english\">সালতি</span></p>",
+            "<p><span class=\"english\">বার্ষিকী</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">সালতামামি </span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">“</span><span class=\"english\">শত্রুর আভাস</span><span class=\"english\">-</span><span class=\"english\">পাওয়া হরিণের চোখের মতোই সতর্ক হয়ে ওঠে তার চোখ।</span><span class=\"english\">”</span><span> </span><span class=\"english\">-</span><span class=\"english\">এ বাক্যে কোন ধরনের অর্থালংকারের প্রয়োগ ঘটেছে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">উৎপেক্ষা</span></p>",
+            "<p><span class=\"english\">উপমা</span></p>",
+            "<p><span class=\"english\">সমাসোক্তি</span></p>",
+            "<p><span class=\"english\">রূপক</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">উপমা</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">একই বাক্যে ভিন্ন জাতীয় অথচ সাদৃশ্য বা সমান</span><span class=\"english\"> গুণ</span><span class=\"english\"> বিশিষ্ট দুটি বস্তুর মধ্যকার সাদৃশ্য বা তুলনা করা হয়, তখন তাকে উপমা বলে। এখানে জমিলার সর্তক চোখের সাথে হরিণের চোখের তুলনা করা হয়েছে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোনটি একই জাতীয় উপন্যাস?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">লালসালু, রাজসিংহ</span><span><span> </span></span></p>",
+            "<p><span class=\"english\">বিষাদ</span><span class=\"english\">-</span><span class=\"english\">সিন্ধু, চিলেকোঠার সেপাই</span></p>",
+            "<p><span class=\"english\">চাঁদের অমাবস্যা, চতুরঙ্গ</span></p>",
+            "<p><span class=\"english\">পথের দাবী, চোখের বালি</span><span><span> </span></span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">চাঁদের অমাবস্যা, চতুরঙ্গ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘</span><span class=\"english\">চাঁদের অমাবস্যা</span><span class=\"english\">’ </span><span class=\"english\">এবং </span><span class=\"english\">‘</span><span class=\"english\">চতুরঙ্গ</span><span class=\"english\">’ </span><span class=\"english\">উভয়ই মনস্তাত্ত্বিক উপন্যাস। </span><span class=\"english\">‘</span><span class=\"english\">লালসালু</span><span class=\"english\">’, ‘</span><span class=\"english\">চোখের বালি</span><span class=\"english\">’ </span><span class=\"english\">সামাজিক উপন্যাস; </span><span class=\"english\">‘</span><span class=\"english\">রাজসিংহ</span><span class=\"english\">’, ‘</span><span class=\"english\">বিষাদ-সিন্ধু</span><span class=\"english\">’ </span><span class=\"english\">ঐতিহাসিক উপন্যাস; </span><span class=\"english\">‘</span><span class=\"english\">চিলেকোঠার সেপাই</span><span class=\"english\">’</span><span class=\"english\">; </span><span class=\"english\">‘</span><span class=\"english\">পথের দাবী</span><span class=\"english\">’ </span><span class=\"english\">রাজনৈতিক উপন্যাস।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘Recruitment’ </span><span class=\"english\">এর পারিভাষিক শব্দ কোনটি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">সুপারিশ</span></p>",
+            "<p><span class=\"english\">অবসর</span></p>",
+            "<p><span class=\"english\">সংস্কার</span></p>",
+            "<p><span class=\"english\">নিযুক্তি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">নিযুক্তি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">Retirement </span><span class=\"english\">এর পারিভা</span><span class=\"english\">ষি</span><span class=\"english\">ক শব্দ অবসর </span><span class=\"english\">Recommendation</span><span class=\"english\">- সুপারিশ।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">সন্নিহিত অনুসর্গ লোপ পেয়ে গঠিত তৎপুরুষ সমাসের উদাহরণ-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">আগাগোড়া</span></p>",
+            "<p><span class=\"english\">অকালমৃত্যু</span></p>",
+            "<p><span class=\"english\">তেলেভাজা</span></p>",
+            "<p><span class=\"english\">সলিলসমাধি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">আগাগোড়া</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">আগাগোড়া আগা থেকে গোড়া- তৎপুরুষ সমাস।</span></p><p><span class=\"english\">এখানে থেকে একটি অনুসর্গ।</span></p><p><span class=\"english\">সলিলসমাধি-সলিলে সমাধি</span><span class=\"english\">;</span><span class=\"english\"> অকালমৃত্যু- অকালে মৃত্যু-৭মী তৎপুরুষ সমাস</span><span class=\"english\">।</span></p><p><span class=\"english\">সমাস তেলেভাজা- তেলে ভাজা- অলুক তৎপুরুষ সমাস।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোনটি অস্বচ্ছ যুক্তবর্ণ?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">দ্ম</span></p>",
+            "<p><span class=\"english\">ল্ক</span></p>",
+            "<p><span class=\"english\">শ্ছ</span></p>",
+            "<p><span class=\"english\">ক্ত</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ক্ত</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলা ধ্বনিতত্ত্বে জিহ্বার উচ্চতা অনুসারে প্রথম বাংলা স্বরধ্বনি কোনটি</span><span class=\"english\">? </span><span><span> </span></span><span><span> </span></span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অ</span><span><span> </span></span><span><span> </span></span><span><span> </span></span></p>",
+            "<p><span class=\"english\">আ</span></p>",
+            "<p><span class=\"english\">ই</span></p>",
+            "<p><span class=\"english\">ও</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ই</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোনটি নিম্ন-মধ্য অর্ধ</span><span class=\"english\">-</span><span class=\"english\">বিবৃত</span><span class=\"english\"> সম্মুখ</span><span class=\"english\"> ধ্বনি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">এ</span></p>",
+            "<p><span class=\"english\">ও</span></p>",
+            "<p><span class=\"english\">অ</span></p>",
+            "<p><span class=\"english\">অ্যা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">অ্যা</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">এ</span><span class=\"english\">→</span><span class=\"english\">উচ্চ-মধ্য অর্ধ-সংবৃত সম্মুখ স্বরধ্বনি।</span></p><p><span class=\"english\">ও</span><span class=\"english\">→</span><span class=\"english\">উচ্চ-মধ্য অর্ধ-সংবৃত প</span><span class=\"english\">শ্চাৎ</span><span class=\"english\"> স্বরধ্বনি।</span></p><p><span class=\"english\">অ</span><span class=\"english\">→</span><span class=\"english\">নিম্ন-মধ্য অর্ধ</span><span class=\"english\">- বিবৃত</span><span> </span><span class=\"english\">পশ্চাৎ</span><span class=\"english\"> স্বরধ্বনি।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোনটি </span><span class=\"english\">নি</span><span class=\"english\">লীন ধ্বনি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অ</span></p>",
+            "<p><span class=\"english\">আ</span></p>",
+            "<p><span class=\"english\">অ্যা</span></p>",
+            "<p><span class=\"english\">এ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">অ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘</span><span class=\"english\">অ</span><span class=\"english\">’ </span><span class=\"english\">সকল ব্য</span><span class=\"english\">ঞ্জ</span><span class=\"english\">নবর্ণে লীন থাকে বলে একে </span><span class=\"english\">নিলীন/</span><span class=\"english\">বিলীন বর্ণ বলে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোন শব্দে কম্পিত ব্যঞ্জন ধ্বনি আছে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">বাড়ি</span></p>",
+            "<p><span class=\"english\">হার</span></p>",
+            "<p><span class=\"english\">শসা</span></p>",
+            "<p><span class=\"english\">লাল</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">হার</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">মৃত্যুদণ্ড</span><span class=\"english\">’ </span><span class=\"english\">শব্দের প্রমিত উচ্চারণ কোনটি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">মৃত্‌তুদন্‌ডো</span></p>",
+            "<p><span class=\"english\">ম্রিত্‌তুদন্‌ডো</span></p>",
+            "<p><span class=\"english\">মৃত্‌তুদোন্‌ডো</span></p>",
+            "<p><span class=\"english\">ম্রিত্‌তুদোন্‌ডো</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">মৃত্‌তুদন্‌ডো</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">ধরিয়া</span><span class=\"english\">’</span><span> </span><span class=\"english\">থেকে</span><span> </span><span class=\"english\">‘</span><span class=\"english\">ধরে</span><span class=\"english\">’</span><span> </span><span class=\"english\">ধ্বনি</span><span class=\"english\">-</span><span class=\"english\">পরিবর্তনের</span><span> </span><span class=\"english\">কোন</span><span> </span><span class=\"english\">নিয়মে</span><span> </span><span class=\"english\">হয়েছে</span><span class=\"english\">?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অন্তর্হতি</span></p>",
+            "<p><span class=\"english\">অভিশ্রুতি</span></p>",
+            "<p><span class=\"english\">সমীভবন</span></p>",
+            "<p><span class=\"english\">স্বরসঙ্গতি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">অভিশ্রুতি</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">পরের </span><span class=\"english\">‘</span><span class=\"english\">ই</span><span class=\"english\">’ </span><span class=\"english\">ও </span><span class=\"english\">‘</span><span class=\"english\">উ</span><span class=\"english\">’ </span><span class=\"english\">কার আগেই উচ্চারিত হওয়ার রীতিকে কী বলা হয়?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অসমীকরণ</span></p>",
+            "<p><span class=\"english\">স্বরসঙ্গতি</span></p>",
+            "<p><span class=\"english\">অপিনিহিতি</span></p>",
+            "<p><span class=\"english\">সমীভবন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">অপিনিহিতি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">অপিনিহিতির উদাহরণ: আজি &gt; আইজ, চারি &gt; চাইর।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">বানানের নিয়মের ক্ষেত্রে</span><span class=\"english\"> কোনটি ব্যতিক্রম?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পাকিস্তান</span></p>",
+            "<p><span class=\"english\">আমেরিকা</span></p>",
+            "<p><span class=\"english\">শ্রীলঙ্কা</span></p>",
+            "<p><span class=\"english\">ফরাসি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">শ্রীলঙ্কা</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">দেশ/জাতির নামে সর্বত্র </span><span class=\"english\">‘</span><span class=\"english\">ই</span><span class=\"english\">’ </span><span class=\"english\">কার ব্যবহৃত হয়। তবে চীন ও শ্রীল</span><span class=\"english\">ঙ্কা</span><span class=\"english\"> ব্যতিক্রম। </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">ণ</span><span class=\"english\">’</span><span class=\"english\">-</span><span class=\"english\">ত্ব বিধানের নিয়ম অনুসারে কোনটি অশুদ্ধ বানান</span><span class=\"english\">? </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পুরোনো</span></p>",
+            "<p><span class=\"english\">ধর</span><span class=\"english\">ন</span></p>",
+            "<p><span class=\"english\">ঝরনা</span></p>",
+            "<p><span class=\"english\">লণ্ঠন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">লণ্ঠন</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">বিদেশাগত শব্দের </span><span class=\"english\">বানানে </span><span class=\"english\">‘</span><span class=\"english\">ণ</span><span class=\"english\">’ </span><span class=\"english\">হয় না।</span><span class=\"english\"> লন্ঠন ইংরেজি ভাষার শব্দ।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">যজ্ঞ</span><span class=\"english\">’</span><span> </span><span class=\"english\">এর </span><span class=\"english\">প্রকৃতি প্রত্যয় কোনটি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\"></span><span class=\"english\">যজ + ঞ</span></p>",
+            "<p><span class=\"english\"></span><span class=\"english\">যজ্ + ন</span></p>",
+            "<p><span class=\"english\"></span><span class=\"english\">যজ্ + জ</span></p>",
+            "<p><span class=\"english\"></span><span class=\"english\">যজ + গ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\"></span><span class=\"english\">যজ্ + ন</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">বাংলা ভাষায় যতিচিহ্ন ব্যবহারের সুবিন্যাস কে সাধন করেছিলেন?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">রাজা রামমোহন রায়</span></p>",
+            "<p><span class=\"english\">উইলিয়াম কেরি</span></p>",
+            "<p><span class=\"english\">ঈশ্বরচন্দ্র বিদ্যাসাগর</span></p>",
+            "<p><span class=\"english\">প্যারীচাঁদ মিত্র</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ঈশ্বরচন্দ্র বিদ্যাসাগর</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">“ছেলেটি নিষ্পাপী, নিরপরাধী কিন্তু সে-ই সেষ বংশের মাথায় চূণকালি দি</span><span class=\"english\">লো</span><span class=\"english\">।</span><span class=\"english\">”</span><span class=\"english\"> এই বাক্যে কয়টি ভুল আছে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">৩টি</span></p>",
+            "<p><span class=\"english\">৪টি</span></p>",
+            "<p><span class=\"english\">৫টি</span></p>",
+            "<p><span class=\"english\">৬টি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">৫টি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">ছেলেটি নিষ্পাপ, নিরপরাধ কিন্তু সে-ই শেষে বংশের মুখে চুনকালি দি</span><span class=\"english\">লো</span><span class=\"english\">।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">কোন বিশেষ্য-বিশেষণ জোড় শুদ্ধ?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">হৃদয়-হার্দিক</span></p>",
+            "<p><span class=\"english\">বন-বুন্য</span></p>",
+            "<p><span class=\"english\">শাস্ত্র-শাস্ত্রেয়</span></p>",
+            "<p><span class=\"english\">শীত-শৈত্য</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">হৃদয়-হার্দিক</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">নিমখুন</span><span class=\"english\">’ </span><span class=\"english\">শব্দের নিম্‌ উপসর্গটি কী অর্থে ব্যবহৃত হয়েছে?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">না অর্থে</span></p>",
+            "<p><span class=\"english\">সহিত অর্থে</span></p>",
+            "<p><span class=\"english\">আধা অর্থে</span></p>",
+            "<p><span class=\"english\">স্বল্প অর্থে</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">আধা অর্থে</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">ফারসি উপসর্গ: নিম, বে, বদ, ফি, কার, দর ইত্যাদি।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">কাঁচকলা</span><span class=\"english\">’</span><span class=\"english\"> কোন সমাসভুক্ত?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">কর্মধারয়</span></p>",
+            "<p><span class=\"english\">অব্যয়ীভাব</span></p>",
+            "<p><span class=\"english\">বহুব্রীহি</span></p>",
+            "<p><span class=\"english\">উপপদ তৎপুরুষ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">কর্মধারয়</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">কাঁচা যে কলা = কাঁচকলা - সাধারণ কর্মধারয় সমাস।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">তাড়াতাড়ি কাজটি </span><span class=\"english\">কো</span><span class=\"english\">রো।</span><span class=\"english\">’</span><span class=\"english\">-রেখাঙ্কিত ক্রিয়াটি কোন কালের?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অনুজ্ঞা বর্তমান</span></p>",
+            "<p><span class=\"english\">অনুজ্ঞা ভবিষ্যৎ</span></p>",
+            "<p><span class=\"english\">সাধারণ ভবিষ্যৎ</span></p>",
+            "<p><span class=\"english\">সাধারণ বর্তমান</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">অনুজ্ঞা ভবিষ্যৎ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">বর্তমান</span><span class=\"english\"> অনুজ্ঞায় ক্রিয়ার রূপটি হতো ‘</span><span class=\"english\">করো</span><span class=\"english\">’। </span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">ক্রিয়াপদের</span><span> </span><span class=\"english\">মূল</span><span> </span><span class=\"english\">অংশের</span><span> </span><span class=\"english\">নাম</span><span class=\"english\">-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">অব্যয়</span></p>",
+            "<p><span class=\"english\">বাচ্য</span></p>",
+            "<p><span class=\"english\">ধাতু</span></p>",
+            "<p><span class=\"english\">বিভক্তি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">ধাতু</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">ধাতুর অপর নাম ক্রিয়ামূল।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিত্য নরবাচক শব্দ কোনটি?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">কেরানি</span></p>",
+            "<p><span class=\"english\">শূদ্র</span></p>",
+            "<p><span class=\"english\">সুন্দর</span></p>",
+            "<p><span class=\"english\">মলিন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">কেরানি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">শূদ্র- শূদ্রাণী</span><span class=\"english\">, সুন্দর-সুন্দরী, মলিন-মলিনা।</span></p></span>"
+    },
+    {
+        "question_html": "<p><a></a><span class=\"english\">কোনটি</span><span> </span><span class=\"english\">অপপ্রয়োগের</span><span> </span><span class=\"english\">দৃষ্টান্ত</span><span class=\"english\">?</span><span><span> </span></span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পুনঃপুন</span></p>",
+            "<p><span class=\"english\">নিশীরাত্রি</span></p>",
+            "<p><span class=\"english\">গ্রথিত</span></p>",
+            "<p><span class=\"english\">প্রোথিত</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">নিশীরাত্রি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">শুদ্ধরূপ: </span><span class=\"english\">নিশি/রাত্রি</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">“</span><span class=\"english\">পুরস্কার অনুষ্ঠিত আগামীকাল আমাদের বিতরণী স্কুলে অনুষ্ঠান হবে</span><span class=\"english\">”-</span><span> </span><span class=\"english\">বাক্যটির যোগ্যতা হারানোর কারণ কী?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">আকাঙ্ক্ষা</span></p>",
+            "<p><span class=\"english\">আসত্তি</span></p>",
+            "<p><span class=\"english\">যোগ্যতা</span></p>",
+            "<p><span class=\"english\">গুরুচণ্ডালী</span><span class=\"english\"> দোষ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">আসত্তি</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">বাক্যের অন্তর্গত পদসমূহের সুশৃঙ্খল বিন্যাসকে আসক্তি বলে।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">পরিচ্ছেদ</span><span class=\"english\">’ </span><span class=\"english\">ও </span><span class=\"english\">‘</span><span class=\"english\">পরিচ্ছদ</span><span class=\"english\">’ </span><span class=\"english\">শব্দজোড়ের অর্থ যথাক্রমে</span><span class=\"english\"></span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পোশাক ও অধ্যায়</span></p>",
+            "<p><span class=\"english\">অধ্যায় ও পোশাক</span></p>",
+            "<p><span class=\"english\">অধ্যায় ও পরিধান করা</span></p>",
+            "<p><span class=\"english\">পোশাক ও পরিধান করা</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">অধ্যায় ও পোশাক</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">হাজির</span><span class=\"english\">’ </span><span class=\"english\">শব্দের বিপরীত শব্দ</span><span class=\"english\">-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">প্রস্থান</span></p>",
+            "<p><span class=\"english\">গরহাজির</span></p>",
+            "<p><span class=\"english\">নিমহাজির</span></p>",
+            "<p><span class=\"english\">অবস্থিত</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">গরহাজির</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">হাজির = উপস্থিত</span></p><p><span class=\"english\">গরহাজির = অনুপস্থিত</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">সমার্থক</span><span> </span><span class=\"english\">শব্দজোড়</span><span> </span><span class=\"english\">শনাক্ত</span><span> </span><span class=\"english\">কর</span><span class=\"english\"></span></p>",
+        "options_html": [
+            "<p><span class=\"english\">সলিল</span><span class=\"english\">, </span><span class=\"english\">সলীল </span></p>",
+            "<p><span class=\"english\">শ্মশ্রু</span><span class=\"english\">, </span><span class=\"english\">শ্বশ্রূ</span></p>",
+            "<p><span class=\"english\">সিঁথি</span><span class=\"english\">, </span><span class=\"english\">সিতি</span></p>",
+            "<p><span class=\"english\">শ্বেত</span><span class=\"english\">, </span><span class=\"english\">সিত</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">শ্বেত</span><span class=\"english\">, </span><span class=\"english\">সিত</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোনটি সমার্থক বাগ্‌ধারা?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">তাসের ঘর: জলের দাগ</span></p>",
+            "<p><span class=\"english\">হরিলুট : হাতটান</span></p>",
+            "<p><span class=\"english\">ভিটায় ঘুঘু চড়ানো : আঙুল ফুলে কলাগাছ</span></p>",
+            "<p><span class=\"english\">সাতকাহন : ভরাডুবি</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">তাসের ঘর: জলের দাগ</span></p>",
+        "solution_html": "<br/>\n<span class=\"english\"><p><span class=\"english\">‘</span><span class=\"english\">তাসের ঘর</span><span class=\"english\">’ </span><span class=\"english\">এবং </span><span class=\"english\">‘</span><span class=\"english\">জলের দাগ</span><span class=\"english\">’ </span><span class=\"english\">উভয় বাগ্‌ধারার অর্থই ক্ষণস্থায়ী।</span></p></span>"
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘</span><span class=\"english\">চক্ষুর দ্বারা গৃহীত</span><span class=\"english\">’ </span><span class=\"english\">এর এক কথায় প্রকাশিত রূপ- </span></p>",
+        "options_html": [
+            "<p><span class=\"english\">চক্ষুষ্মান</span></p>",
+            "<p><span class=\"english\">দর্শনীয়</span></p>",
+            "<p><span class=\"english\">গোচর</span></p>",
+            "<p><span class=\"english\">অনিমেষ</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">গোচর</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">নিচের কোনগুলো ফারসি ভাষার শব্দ?</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">পছন্দ, পলক, </span><span class=\"english\">সাদা</span></p>",
+            "<p><span class=\"english\">মজুর, মজবুত, মজলিস</span></p>",
+            "<p><span class=\"english\">গরিব, গোয়েন্দা, গোলাপ</span></p>",
+            "<p><span class=\"english\">সবুজ, সেরা, সিন্দুক</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">পছন্দ, পলক, </span><span class=\"english\">সাদা</span></p>",
+        "solution_html": ""
+    },
+    {
+        "question_html": "<p><span class=\"english\">‘Penal code’ </span><span class=\"english\">শব্দটির বাংলা পরিভাষা-</span></p>",
+        "options_html": [
+            "<p><span class=\"english\">দণ্ডনীয়</span></p>",
+            "<p><span class=\"english\">দণ্ডবিধি</span></p>",
+            "<p><span class=\"english\">দণ্ডশালী</span></p>",
+            "<p><span class=\"english\">ফৌজদারি আইন</span></p>"
+        ],
+        "correct_answer_html": "<p><span class=\"english\">দণ্ডবিধি</span></p>",
+        "solution_html": ""
+    }
+]

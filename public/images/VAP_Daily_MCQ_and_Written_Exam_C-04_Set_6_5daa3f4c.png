@@ -1,0 +1,1111 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="" />
+<meta name="keywords" content="Udvash,Unmesh,Online Education,Online Exam,Online Class,Online Admission" />
+<meta name="author" content="Udvash-Unmesh Shikkha Poribar" />
+<meta name="application-name" content="Udvash-Unmesh Online Portal" />
+
+        <title>Question - Udvash Unmesh Online V-line-udvash-portal-7d6d995cdf-t9jjq.214.7</title>
+
+<!-- ----------------------------------------------------------------
+    Fonts load from google
+----------------------------------------------------------------- -->
+
+<link rel="icon" href="/Content/UmsTheme/assets/images/favicon.png" sizes="32x32">
+<link rel="icon" href="/Content/UmsTheme/assets/images/favicon.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/Content/UmsTheme/assets/images/favicon.png">
+<meta name="msapplication-TileImage" content="/Content/UmsTheme/assets/images/favicon.png">
+
+<!-- ----------------------------------------------------------------
+    Fonts load from google
+----------------------------------------------------------------- -->
+
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,300&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+<!-- ----------------------------------------------------------------
+    Page Stylesheets
+----------------------------------------------------------------- -->
+<!-- Bootstrap -->
+<link rel="stylesheet" type="text/css" href="/Content/UmsTheme/assets/lib/bootstrap/bootstrap.min.css">
+
+<!-- Fontawesome -->
+<link rel="stylesheet" type="text/css" href="/Content/UmsTheme/assets/lib/fontawesome/css/all.min.css">
+
+<!-- Skin -->
+<link rel="stylesheet" type="text/css" href="/Content/UmsTheme/assets/css/skin-udvash.css?v=180">
+
+<!-- Style -->
+<link rel="stylesheet" type="text/css" href="/Content/UmsTheme/assets/css/style.css?v=180">
+
+<!-- Custom -->
+<link rel="stylesheet" type="text/css" href="/Content/UmsTheme/assets/css/custom.css?v=180">
+
+
+<!-- jQuery -->
+<script type="text/javascript" src="/Content/UmsTheme/assets/js/jquery.min.js"></script>
+<!-- Main -->
+<script type="text/javascript" src="/Content/UmsTheme/assets/js/main.js?v=180"></script>
+
+<script type="text/javascript">
+    $(document).ajaxComplete(function (xhr, status) {
+        if (status.getResponseHeader("X-Responded-JSON") != null) {
+            var obj = jQuery.parseJSON(status.getResponseHeader("X-Responded-JSON"));
+            if (obj.status == 401) {
+                //window.location.assign(obj.headers['location']);
+                window.location.assign(obj.headers['location'].substr(0, obj.headers['location'].indexOf('?')));
+            }
+        }
+    });
+
+    function mobileCheck(mobileNumber) {
+        mobileNumber = mobileNumber.replace(/\W+/g, "");
+        var chkVal = mobileNumber.match(/^(?:\+?88)?0?1[13-9]\d{8}$/);
+        if (chkVal != null) {
+            if (mobileNumber.length == 11) {
+                chkVal = '88' + chkVal;
+            }
+            else if (mobileNumber.length == 10) {
+                chkVal = '880' + chkVal;
+            }
+            var chkVal = mobileNumber.match(/^(?:\+?88)?01[13-9]\d{8}$/);
+            if (chkVal != null) {
+                if (mobileNumber.length == 11) {
+                    chkVal = '88' + chkVal;
+                }
+                else if (mobileNumber.length == 10) {
+                    chkVal = '880' + chkVal;
+                }
+            }
+            //alert(chkVal);
+        }
+        return chkVal;
+    }
+
+    function nickNameCheck(nickName) {
+        var chkVal = nickName.match(/^[a-zA-Z .-`]$/);
+        return chkVal;
+    }
+
+    //This function is used for remove other char without numeric for text field
+    function isNumber(evt) {
+        evt = (evt) ? evt : window.event;
+        var charCode = (evt.which) ? evt.which : evt.keyCode;
+        if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+            return false;
+        }
+        return true;
+    }
+
+    if (!String.prototype.trim) {
+        String.prototype.trim = function () {
+            return this.replace(/^\s+|\s+$/g, '');
+        };
+    }
+
+    function showErrorMessageBelowCtrl(ctrlId, message, show) {
+
+        var divHtml = '<div style="color:red;" id="' + ctrlId + '_err_div" >' + message + '</div>';
+
+        if (show == true) {
+            $('#' + ctrlId).addClass("highlight");
+            $('#' + ctrlId).after(divHtml);
+        } else {
+            $('#' + ctrlId).removeClass("highlight");
+            $('#' + ctrlId + '_err_div').remove();
+        }
+    }
+
+    function validateTextField(controlId, errorMessage) {
+
+        $(document).on("input propertychange", "#" + controlId, function (event) {
+
+            var value = $("#" + controlId).val().trim();
+
+            if (value.length == 0) {
+                showErrorMessageBelowCtrl(controlId, "", false);
+                showErrorMessageBelowCtrl(controlId, errorMessage, true);
+                return false;
+            } else {
+                showErrorMessageBelowCtrl(controlId, "", false);
+            }
+        });
+    }
+
+    function validateDropDownField(controlId, targetId, errorMessage) {
+
+        $(document).on("change", "#" + controlId, function (event) {
+
+            var val = $("#" + targetId).val();
+            if (val.length == 0) {
+                //showErrorMessageBelowCtrl(controlId, "", false);
+                showErrorMessageBelowCtrl(controlId, errorMessage, true);
+            } else {
+                showErrorMessageBelowCtrl(controlId, "", false);
+            }
+        });
+    }
+
+    function validateDropDownField(controlId, errorMessage) {
+
+        $(document).on("change", "#" + controlId, function (event) {
+
+            var val = $("#" + controlId).val();
+            if (val.length == 0) {
+                showErrorMessageBelowCtrl(controlId, "", false);
+                showErrorMessageBelowCtrl(controlId, errorMessage, true);
+            } else {
+                showErrorMessageBelowCtrl(controlId, "", false);
+            }
+        });
+    }
+
+    function validateListField(controlId, errorMessage) {
+
+        $(document).on("change", "#" + controlId, function (event) {
+            var val = $("#" + controlId).val();
+            if (val == null || val.length == 0) {
+                showErrorMessageBelowCtrl(controlId, "", false);
+                showErrorMessageBelowCtrl(controlId, errorMessage, true);
+            } else {
+                showErrorMessageBelowCtrl(controlId, "", false);
+            }
+        });
+    }
+
+    function scrollToElement(selector) {
+        var s = $(selector);
+        if (s != undefined)
+            $(document.body).scrollTop($(selector).offset().top - 120);
+    }
+
+    $(document).ready(function () {
+
+        $("select").change(function () {
+            if ($(this).val() != "") {
+                $(this).parent().find(".field-validation-error-count").remove();
+                $(this).next('span').empty();
+            }
+
+            else {
+                //$(this).parent().find(".field-validation-error-count").remove();
+                $(this).parent().remove("span");
+                $(this).parent().append("<span class='text-danger field-validation-error' style='color:red'></span>");
+            }
+        });
+
+        $(document).on("input propertychange", ".numbersOnly", function (event) {
+            var valStr = $(this).val();
+            var id = $(this).attr("id");
+            var val = parseInt(valStr);
+            showErrorMessageBelowCtrl(id, "", false);
+            if (isNaN(val)) {
+                $(this).val("");
+            }
+            else if (val < 0) {
+                $(this).val("");
+                showErrorMessageBelowCtrl(id, "Please enter valid amount", true);
+            } else {
+                $(this).val(val);
+            }
+        });
+    });
+</script>
+<script>
+    const userAgentGlobal = navigator.userAgent || navigator.vendor || window.opera;
+    const isiOS = /iPhone|iPad|iPod/i.test(userAgentGlobal) ||
+        (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    const isAndroid = /Android/i.test(userAgentGlobal);
+    const isMacOS = /Macintosh|MacIntel|MacPPC|Mac68K/.test(navigator.platform) && !isiOS;
+    const isLinux = /Linux/.test(navigator.platform) && !isiOS && !isAndroid && !isMacOS;
+    const isDesktop = !isiOS && !isAndroid && !isMacOS && !isLinux;
+    var appApiKeyGlobal = getCookie("appApiKey");
+    var studentNameGlobal = getCookie("studentName");
+    var userTypeGlobal = 'student';
+    var appVersionGlobal = "";
+    var returnUrlGlobal = getCookie("AppExamReturnUrl");
+
+    function extractVersion(str) {
+        const match = str.match(/\d+(\.\d+)+/);
+        return match ? match[0] : null;
+    }
+
+    function compareVersions(v1, v2) {
+        const parts1 = extractVersion(v1).split('.').map(Number);
+        const parts2 = extractVersion(v2).split('.').map(Number);
+
+        for (let i = 0; i < Math.max(parts1.length, parts2.length); i++) {
+            const num1 = parts1[i] || 0;
+            const num2 = parts2[i] || 0;
+            if (num1 < num2) return -1;
+            if (num1 > num2) return 1;
+        }
+        return 0;
+    }
+
+    function isVersionGreater(v1, v2) {
+        return compareVersions(v1, v2) === 1;
+    }
+
+    function isVersionLower(v1, v2) {
+        return compareVersions(v1, v2) === -1;
+    }
+
+    function isVersionEqual(v1, v2) {
+        return compareVersions(v1, v2) === 0;
+    }
+
+    function getUserData() {
+        return new Promise((resolve, reject) => {
+            if (isAndroid) {
+                try {
+                    const userDataJson = Android.GetUserData();
+                    const userData = JSON.parse(userDataJson);
+                    resolve(userData);
+                } catch (error) {
+                    reject("Android GetUserData failed: " + error);
+                }
+            } else if (isiOS) {
+                try {
+                    window.receiveGetUserData = function (escapedJsonString) {
+                        try {
+                            const userData = JSON.parse(escapedJsonString);
+                            resolve(userData);
+                        } catch (err) {
+                            reject("JSON parse error: " + err);
+                        }
+                    };
+                    window.webkit.messageHandlers.GetUserData.postMessage(null);
+                } catch (error) {
+                    reject("iOS GetUserData call failed: " + error);
+                }
+            } else {
+                reject("Unsupported platform");
+            }
+        });
+    }
+
+    function setUserData(apiKey, regNo, studentName, userType) {
+        return new Promise((resolve, reject) => {
+            try {
+                if (isAndroid) {
+                    if ((dataSiteName == 'udvash-unmesh' && isVersionLower(appVersionGlobal, "1.0.8")) || (dataSiteName == 'uttoron' && isVersionLower(appVersionGlobal, "1.0.3"))) {
+                        Android.SetUserData(apiKey, regNo, studentName);
+                    } else {
+                        Android.SetUserData(apiKey, regNo, studentName, userType);
+                    }
+                    resolve();
+                } else if (isiOS) {
+                    window.webkit.messageHandlers.SetUserData.postMessage({
+                        apiKey: apiKey,
+                        regNo: regNo,
+                        studentName: studentName,
+                        userType: userType
+                    });
+                    resolve();
+                } else {
+                    reject("Unsupported platform");
+                }
+            } catch (error) {
+                reject("SetUserData failed: " + error);
+            }
+        });
+    }
+
+    function runOmrFlow() {
+        getUserData()
+            .then(userData => {
+                if (!userData.apiKey || userData.apiKey.trim() === "" || appApiKeyGlobal !== userData.apiKey) {
+                    return setUserData(appApiKeyGlobal, appRegistrationNoGlobal, studentNameGlobal, userTypeGlobal);
+                }
+            })
+            .then(() => {
+                if (isAndroid) {
+                    Android.OmrScan();
+                } else if (isiOS) {
+                    window.webkit.messageHandlers.OmrScan.postMessage(null);
+                }
+            })
+            .catch(error => {
+                console.error("OMR flow failed:", error);
+            });
+    }
+
+    function runOmrFlowForOnlineOmr() {
+        getUserData()
+            .then(userData => {
+                if (!userData.apiKey || userData.apiKey.trim() === "" || appApiKeyGlobal !== userData.apiKey) {
+                    return setUserData(appApiKeyGlobal, appRegistrationNoGlobal, studentNameGlobal, userTypeGlobal);
+                }
+            })
+            .then(() => {
+                if (isAndroid) {
+                    Android.OmrScanOnline(returnUrlGlobal);
+                } else if (isiOS) {
+                    window.webkit.messageHandlers.OmrScanOnline.postMessage({
+                        returnUrl: returnUrlGlobal
+                    });
+                }
+            })
+            .catch(error => {
+                console.error("OMR flow failed:", error);
+            });
+    }
+
+
+    $(document).ready(function () {
+        $('.uuu-left-sidebar ul li').each(function () {
+            if (($('#topHeader').attr('data-app-id') == '' && $(this).find('a').attr('href') == '#app') || (isDesktop && $(this).find('a').attr('href') == '#app') || (isMacOS && $(this).find('a').attr('href') == '#app')) {
+                $(this).remove();
+            }
+            else if ($('#topHeader').attr('data-app-id') == '' && $(this).find('a').attr('href') == '#appvideo') {
+                $(this).remove();
+            }
+        });
+
+        if (isMacOS || isLinux) {
+            $(document).on('click', 'a[target="_blank"]', function (e) {
+                e.preventDefault();
+
+                const url = $(this).attr('href');
+
+                if (url && window.external && typeof window.external.sendMessage === 'function') {
+                    window.external.sendMessage(JSON.stringify({
+                        MessageType: "OpenNewWindowWithDownload",
+                        Payload: { url: url }
+                    }));
+                }
+            });
+        }
+    });
+
+    $(document).on('click', '.uuu-left-sidebar a, footer .btn-offline-download, .uuu-dashboard-menu .card-body a', function () {
+        if ($(this).attr('href') == '#app') {
+            if ((dataSiteName == 'udvash-unmesh' && isVersionLower(appVersionGlobal, "1.0.8")) || (dataSiteName == 'uttoron' && isVersionLower(appVersionGlobal, "1.0.3"))) {
+                if (isAndroid) {
+                    Android.OmrScan();
+                } else if (isiOS) {
+                    window.webkit.messageHandlers.OmrScan.postMessage(null);
+                }
+            }
+            else {
+                runOmrFlow();
+            }
+        }
+        else if ($(this).attr('href') == '#appvideo') {
+            if(isAndroid || isiOS){
+                if ((dataSiteName == 'udvash-unmesh' && isVersionLower(appVersionGlobal, "1.0.8")) || (dataSiteName == 'uttoron' && isVersionLower(appVersionGlobal, "1.0.3"))) {
+                    if (isiOS) {
+                        window.webkit.messageHandlers.LaunchOfflineVideo.postMessage(null);
+                    }
+                    else if (isAndroid) {
+                        Android.LaunchOfflineVideo();
+                    }
+                }
+                else {
+                    getUserData()
+                        .then(userData => {
+                            if (!userData.apiKey || userData.apiKey.trim() === "" || appApiKeyGlobal !== userData.apiKey) {
+                                return setUserData(appApiKeyGlobal, appRegistrationNoGlobal, studentNameGlobal, userTypeGlobal);
+                            }
+                        })
+                        .then(() => {
+                            if (isiOS) {
+                                window.webkit.messageHandlers.LaunchOfflineVideo.postMessage(null);
+                            }
+                            else if (isAndroid) {
+                                Android.LaunchOfflineVideo();
+                            }
+                        })
+                        .catch(error => {
+                            console.error("flow failed:", error);
+                        });
+                }
+            }
+            else{
+                if (isDesktop) {
+                    if (window.chrome && window.chrome.webview) {
+                        window.chrome.webview.postMessage(JSON.stringify({
+                            MessageType: "LaunchOfflineVideo",
+                            Payload: "abc"
+                        }));
+                    }
+                }
+                else if (isMacOS || isLinux) {
+                    console.log('Is Mac Or Linux True');
+                    if (window.external && typeof window.external.sendMessage === 'function') {
+                        window.external.sendMessage(JSON.stringify({
+                            MessageType: "LaunchOfflineVideo",
+                            Payload: "abc"
+                        }));
+                    }
+                }
+            }
+        }
+    });
+</script>
+    <script>
+        //Disable Inspect Element
+        document.onkeydown = function (e) {
+            if (event.keyCode == 123) {
+                return false;
+            }
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 'I'.charCodeAt(0)) {
+                return false;
+            }
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 'C'.charCodeAt(0)) {
+                return false;
+            }
+            if (e.ctrlKey && e.shiftKey && e.keyCode == 'J'.charCodeAt(0)) {
+                return false;
+            }
+            if (e.ctrlKey && e.keyCode == 'U'.charCodeAt(0)) {
+                return false;
+            }
+        }
+
+        $(document).bind("contextmenu", function (e) {
+            e.preventDefault();
+        });
+        $(document).keydown(function (e) {
+            if (e.which === 123) {
+                return false;
+            }
+        });
+    </script>
+
+<style>
+    /* Chrome, Safari, Edge, Opera */
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+
+    /* Firefox */
+    input[type=number] {
+        -moz-appearance: textfield;
+    }
+</style>
+    <link href="/Content/UmsTheme/assets/css/left-sidebar.css?v=180" rel="stylesheet" />
+</head>
+<body class="uu-routine-page uu-login-page uu-course-page uu-due-payment-page uu-congratulations-2 uu-profile-page" data-project-root="/">
+
+        <a class="scroll-to-top" href="javascript:void(0)">
+            <i class="fas fa-chevron-circle-up"></i>
+        </a>
+    <style>
+        .uu-has-sub-mobile-menu {
+            visibility: hidden;
+        }
+
+        li.for-mobile-view {
+            display: none !important;
+        }
+
+        .uu-header-wrapper .notification {
+            margin: 0px 5px;
+        }
+
+            .uu-header-wrapper .notification a .badge {
+                min-width: 16px;
+                height: 16px;
+                border-radius: 26px;
+                background: red;
+                color: #fff;
+                font-size: 10px;
+                right: -8px;
+                top: -3px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+        @media (max-width:768px) {
+            .for-mobile-menu {
+                display: none !important;
+            }
+
+            li.for-mobile-view {
+                display: block !important;
+            }
+
+            .uu-has-sub-mobile-menu {
+                visibility: visible;
+            }
+
+            ul.uu-main-menu ul.uu-dropdown-menu li a {
+                white-space: pre-wrap;
+            }
+        }
+
+        @media only screen and (max-width: 992px) and (min-width: 768px) {
+            div.uu-header-wrapper {
+                padding-block: 10px;
+                padding-right: 10px;
+            }
+        }
+    </style>
+
+<div class='uu-desible-body '></div>
+
+<header id="topHeader" class="" data-app-id="" data-build-number="" data-site-name="udvash-unmesh">
+    <div class="uu-header-wrapper" data-reg-number="4374328">
+        <div class="container-fluid py-2">
+            <div class="row align-items-center">
+                <div class="col-md-10 col-6 col-lg-10 logo-wrapper">
+                        <div id="wrapper">
+                            <div id="iconId" class="circle icon">
+                                <span class="line top"></span>
+                                <span class="line middle"></span>
+                                <span class="line bottom"></span>
+                            </div>
+                        </div>
+                    <div class="logo d-flex align-items-center">
+                        <a href="/Dashboard">
+                            <img class="uu-header-logo" src="/Content/Image/UdvashUnmeshOnlineCare.png">
+                        </a>
+                            <div class="circle uuu-desktop-burger ml-4 mt-2">
+                                <span class="line top"></span>
+                                <span class="line middle"></span>
+                                <span class="line bottom"></span>
+                            </div>
+
+                    </div>
+                </div><!-- end col -->
+                <div class="col-md-2 col-6 col-lg-2 px-lg-0 px-1 text-right uu-mobile-right-menu">
+                    <ul class="uu-main-menu">
+<div class="notification">
+    <a href="/Notification" class="position-relative">
+        <span><img src="/Content/Image/AppIcon/Notification.svg" alt="Notification" /></span>
+        <span class="badge position-absolute d-none" id="notification_badge"></span>
+    </a>
+</div>                            <div class="uu-last-element pr-3">
+                                <li class="uu-profile">
+                                    <a href="javascript:void(0)">
+                                        <img class="uu-profile-pic" src="/Content/Image/AppIcon/Profile.svg">
+                                    </a>
+                                    <ul class="uu-dropdown">
+                                        <div class="uu-profile-box">
+                                            <div class="uu-profile-box-header">
+                                                <img src="/Content/UmsTheme/assets/images/profile-pic.png">
+                                            </div>
+                                            <div class="uu-profile-box-body">
+                                                        <h3 class="uu-profile-name">MD. MUZAHIDUL ISLAM</h3>
+                                                <h4 class="uu-profile-email">4374328</h4>
+                                                <ul class="uu-profile-action">
+                                                    <li>
+                                                        <a class="uu-profile-edit" href="/Profile/ChangePassword" data-title="Change Password">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -1 28 28">
+                                                                <defs>
+                                                                    <style>
+                                                                        .cls-1 {
+                                                                            fill: #8f8f8f;
+                                                                        }
+                                                                    </style>
+                                                                </defs>
+                                                                <g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M7.39,18.9,18.72,7.61,15.13,4,3.76,15.35ZM2.62,16.52C1.75,18.59.89,20.64,0,22.74l6.28-2.65Z" /><path class="cls-1" d="M22.74,2.87a3.35,3.35,0,0,1-1.21,2c-.48.46-.93.94-1.37,1.37L16.47,2.58l.83-.82c.38-.38.75-.78,1.16-1.12A2.58,2.58,0,0,1,22.7,2.13c0,.06,0,.11,0,.17Z" /><path class="cls-1" d="M7.39,18.9,3.76,15.35,15.13,4l3.59,3.58Z" /><path class="cls-1" d="M2.62,16.52l3.66,3.57L0,22.74C.89,20.64,1.75,18.59,2.62,16.52Z" /></g></g>
+                                                            </svg>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="uu-profile-view" href="/Profile" data-title="View Profile">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.52 19">
+                                                                <defs>
+                                                                    <style>
+                                                                        .cls-1 {
+                                                                            fill: #8f8f8f;
+                                                                        }
+                                                                    </style>
+                                                                </defs>
+                                                                <g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M24.26,7.21a13.59,13.59,0,0,0-24,0L0,7.69l.26.49a13.63,13.63,0,0,0,4.9,5.21,13.55,13.55,0,0,0,7.1,2,13.52,13.52,0,0,0,7.09-2,13.65,13.65,0,0,0,4.91-5.21l.26-.49Zm-12,7a6.52,6.52,0,1,1,6.51-6.52A6.51,6.51,0,0,1,12.26,14.21Z" /><path class="cls-1" d="M16.44,7.69a4.18,4.18,0,1,1-4.18-4.18A4.19,4.19,0,0,1,16.44,7.69Z" /></g></g>
+                                                            </svg>
+                                                        </a>
+                                                    </li>
+                                                    <li>
+                                                        <a class="uu-logout" href="/Account/LogOut" data-title="Log Out">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.98 24.5">
+                                                                <defs>
+                                                                    <style>
+                                                                        .cls-1 {
+                                                                            fill: #8f8f8f;
+                                                                        }
+                                                                    </style>
+                                                                </defs>
+                                                                <g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M9.49,20.86a9.5,9.5,0,0,1-5-17.57L5.82,5.41a7,7,0,1,0,7.34,0l1.32-2.12a9.5,9.5,0,0,1-5,17.57Z" /><rect class="cls-1" x="8.24" width="2.5" height="11.37" /></g></g>
+                                                            </svg>
+                                                        </a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </ul>
+                                </li>
+                        </div>
+                        </ul>
+                    </div>
+
+                </div><!-- end row -->
+            </div><!-- end container -->
+            </div><!-- End Header Wrapper -->
+        </header>    <div id="preloader" class=""></div>
+
+    <!-- Start Mian Section -->
+    <div class="uu-main p-0 ">
+        <div class="container-fluid px-md-3 p-0">
+            <div class="row">
+                <div class="uuu-left-sidebar uu-mobile-menu">
+
+<ul class="">
+        <li>
+            <a href="/Dashboard" title="Dashboard"><img src="/Content/Image/AppIcon/Dashboard.svg" alt="img" class="" /><span class="menu-text">Dashboard</span></a>
+        </li>
+        <li>
+            <a href="/Course/Programs" title="Add Course"><img src="/Content/Image/AppIcon/AddCourse.svg" alt="img" class="" /><span class="menu-text">Add Course</span></a>
+        </li>
+                    <li>
+                        <a href="/Content/Index?id=2" title="Course &amp; Content"><img src="https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2508/fc59a21c-8a41-4f1c-ad51-f69f4f56c5ff.svg" class="sidebar-icon" /><span class="menu-text">Course & Content</span></a>
+                    </li>
+                    <li>
+                        <a href="/Content/Index?id=1" title="Master Class"><img src="https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2508/777df3d3-00a3-499b-9125-a01f9b474e56.svg" class="sidebar-icon" /><span class="menu-text">Master Class</span></a>
+                    </li>
+                    <li>
+                        <a href="/Content/Index?id=3" title="Foundation Class"><img src="https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2602/dcefbdf2-394c-4ff7-a68a-8b164baab9a6.png" class="sidebar-icon" /><span class="menu-text">Foundation Class</span></a>
+                    </li>
+        <li>
+            <a href="/Routine/PastClasses" title="Past Classes"><img src="/Content/Image/AppIcon/PastClasses.svg" alt="img" class="" /><span class="menu-text">Past Classes</span></a>
+        </li>
+        <li>
+            <a href="/Routine/PastExams" title="Past Exams"><img src="/Content/Image/AppIcon/PastExams.svg" alt="img" class="" /><span class="menu-text">Past Exams</span></a>
+        </li>
+        <li>
+            <a href="/Routine/PracticeExam" title="Practice Exam"><img src="/Content/Image/AppIcon/PracticeExam.svg" alt="img" class="" /><span class="menu-text">Practice Exam</span></a>
+        </li>
+        <li>
+            <a href="/Routine/QuestionAndSolveSheet" title="Solve Sheet"><img src="/Content/Image/AppIcon/SolveSheet.svg" alt="img" class="" /><span class="menu-text">Solve Sheet</span></a>
+        </li>
+        <li>
+            <a href="/Performance/Index" title="Performance"><img src="/Content/Image/AppIcon/Performance.svg" alt="img" class="" /><span class="menu-text">Performance</span></a>
+        </li>
+        <li>
+            <a href="/QnA/Course" title="Q&A Service"><img src="/Content/Image/AppIcon/QnAService.svg" alt="img" class="" /><span class="menu-text">Q&A Service</span></a>
+        </li>
+        <li>
+            <a href="/Enrolment/MyDue" title="Due Payment"><img src="/Content/Image/AppIcon/DuePayment.svg" alt="img" class="" /><span class="menu-text">Due Payment</span></a>
+        </li>
+        <li>
+            <a href="/DiscussionGroup/Index" title="Discussion Group"><img src="/Content/Image/AppIcon/DiscussionGroup.svg" alt="img" class="" /><span class="menu-text">Discussion Group</span></a>
+        </li>
+                        <li>
+                            <a href="#app" target="_self" title="Question/OMR Scan"><img src="https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2502/f1a1002e-ad62-4c6b-aca4-1ef21fcdf1fe.svg" class="sidebar-icon" /><span class="menu-text">Question/OMR Scan</span></a>
+                        </li>
+                        <li>
+                            <a href="#appvideo" target="_self" title="Downloads"><img src="https://ums-public-cdn.udvash-unmesh.com/UmsStudyImage/2508/585187c3-0022-4401-88c5-74e951e68b78.svg" class="sidebar-icon" /><span class="menu-text">Downloads</span></a>
+                        </li>
+        <li>
+            <a href="/Community/Messages" title="Community"><img src="/Content/Image/AppIcon/CommunityMenu.svg" alt="img" class="" /><span class="menu-text">Community</span></a>
+        </li>       
+</ul>                </div>
+                <div class="uuu-main-body pt-lg-4 pt-5 position-relative">
+<div class="customMessage text-center">
+
+
+
+
+
+
+</div>
+                    <div class="body-content pb-lg-4 pb-5">
+                        
+
+        <style>
+            div > h1, h2, h3, h4, h5, h6, p, form, ul, li, a {
+                font-family: SiyamRupali !important;
+            }
+        </style>
+
+<link href="/Content/result.css" rel="stylesheet">
+<link href="/Content/UmsTheme/assets/css/symbolandsutonnymj.css?v=180" rel="stylesheet" />
+<style>
+    .reviewRequest {
+        color: #4881d0;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+        .reviewRequest:hover {
+            color: #5d6b99;
+        }
+
+    #viewport canvas {
+        border-radius: 10px;
+    }
+
+    .loader {
+        border: 6px solid #f3f3f3; /* Light grey */
+        border-top: 6px solid #3498db; /* Blue */
+        border-radius: 50%;
+        width: 40px;
+        height: 40px;
+        animation: spin 2s linear infinite;
+    }
+
+    @keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+</style>
+
+<div class="TakeExamWrapper">
+
+    <div class="TakeExamHeader">
+        <h2 style="font-size: 30px;">Varsity &#x27;KA&#x27; Admission Program 2025</h2>
+        <h3>Varsity &#x27;KA&#x27; Offline Exam Service</h3>
+        <h3>VAP Daily MCQ and Written Exam C-04</h3>
+        <h2 style="font-size: 25px;">Written Master Set: 4 (Question &amp; Solution)</h2>
+    </div>
+
+            <div class="TakeExamBody">
+                        <div class="row questionBlock">
+                            <div class="row question">
+                                <div class="col-md-12" style="padding-left:0px; padding-right:0px;">
+                                    <div class="row">
+                                        <div class="serial">
+                                            <span>Question 1</span>
+                                        </div>
+                                        <div class="questionText" style="display: block;">
+                                            <p class="pt-0000005cdd1aca-418a-4fa9-a8df-45acc3129445" xmlns="http://www.w3.org/1999/xhtml"><span class="pt-0000015cdd1aca-418a-4fa9-a8df-45acc3129445">†cvjvivqb Kx? A‡_&#169;vbvB‡U&#170;v‡dbj I c&#168;vivbvB‡U&#170;v‡dbj-Gi Mjbv&#188; wfbœ nq wP&#206;mn e&#168;vL&#168;v Ki|</span><style>span { white-space: pre-wrap; }p.pt-0000005cdd1aca-418a-4fa9-a8df-45acc3129445 {margin-top: 0;line-height: 12.7pt;margin-bottom: 0;margin-left: 0;margin-right: 0;text-indent: 0.00in;}span.pt-0000015cdd1aca-418a-4fa9-a8df-45acc3129445 {font-family: SutonnyMJ;color: #000000;font-style: normal;font-weight: normal;margin: 0;padding: 0;}</style></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                        <div class="row solveText" style=" display: block; padding:10px; color:#077307; overflow-x: auto; background-color: #d7f7d4; ">
+                                            <p class="pt-000000eef2d9f5-f454-4648-9079-94bee7ca78c7" xmlns="http://www.w3.org/1999/xhtml"><span class="pt-000001eef2d9f5-f454-4648-9079-94bee7ca78c7">†cvjvivqb:</span><span xml:space="preserve" class="pt-000002eef2d9f5-f454-4648-9079-94bee7ca78c7"> AvqwbK †hŠ‡Mi K&#168;vUvqb KZ&#169;„K A&#168;vbvq‡bi B‡jKU&#170;b †gN weK…wZi NUbv‡K †cvjvivqb e‡j|</span><style>span { white-space: pre-wrap; }p.pt-000000eef2d9f5-f454-4648-9079-94bee7ca78c7 {margin-top: 0;margin-bottom: 0;margin-left: 0;margin-right: 0;text-indent: 0.00in;line-height: 108%;}span.pt-000001eef2d9f5-f454-4648-9079-94bee7ca78c7 {font-family: SutonnyMJ;color: #000000;font-style: normal;font-weight: bold;margin: 0;padding: 0;}span.pt-000002eef2d9f5-f454-4648-9079-94bee7ca78c7 {font-family: SutonnyMJ;color: #000000;font-style: normal;font-weight: normal;margin: 0;padding: 0;}</style></p><p class="pt-000000e8695254-b508-4633-899e-b493b7dc6ea6" xmlns="http://www.w3.org/1999/xhtml"><span class="pt-000001e8695254-b508-4633-899e-b493b7dc6ea6"><img src="#" style="width: 2.684536in;height: 0.6989676in;" alt="" /></span><style>span { white-space: pre-wrap; }p.pt-000000e8695254-b508-4633-899e-b493b7dc6ea6 {margin-top: 0;margin-bottom: 0;margin-left: 0;margin-right: 0;text-indent: 0.00in;line-height: 108%;}span.pt-000001e8695254-b508-4633-899e-b493b7dc6ea6 {font-style: normal;font-weight: normal;margin: 0;padding: 0;}</style></p><p class="pt-0000003335cfe8-1e16-43ad-adca-8d8add6cb9cc" xmlns="http://www.w3.org/1999/xhtml"><style>span { white-space: pre-wrap; }p.pt-0000003335cfe8-1e16-43ad-adca-8d8add6cb9cc {margin-top: 0;margin-bottom: 0;margin-left: 0;margin-right: 0;text-indent: 0.00in;line-height: 108%;}</style></p><p class="pt-000000dbf875d9-196d-463f-906a-a181576fe7ef" xmlns="http://www.w3.org/1999/xhtml"><span class="pt-000001dbf875d9-196d-463f-906a-a181576fe7ef">A‡_&#169;v</span><span xml:space="preserve" class="pt-000002dbf875d9-196d-463f-906a-a181576fe7ef"> </span><span xml:space="preserve" class="pt-000001dbf875d9-196d-463f-906a-a181576fe7ef">mgvYy‡Z Aš&#205;tAvYweK </span><span class="pt-000002dbf875d9-196d-463f-906a-a181576fe7ef">H-bond</span><span xml:space="preserve" class="pt-000001dbf875d9-196d-463f-906a-a181576fe7ef"> nq| Avi </span><span class="pt-000002dbf875d9-196d-463f-906a-a181576fe7ef">para</span><span xml:space="preserve" class="pt-000001dbf875d9-196d-463f-906a-a181576fe7ef">  mgvYy‡Z Avš&#205;tAvYweK </span><span class="pt-000002dbf875d9-196d-463f-906a-a181576fe7ef">H-bonding</span><span xml:space="preserve" class="pt-000001dbf875d9-196d-463f-906a-a181576fe7ef"> nq| ZvB c&#168;vivbvB‡U&#170;v‡dbj Gi MjbvsK †ewk|</span><style>span { white-space: pre-wrap; }p.pt-000000dbf875d9-196d-463f-906a-a181576fe7ef {margin-top: 0;margin-bottom: 0;margin-left: 0;margin-right: 0;text-indent: 0.00in;line-height: 108%;}span.pt-000001dbf875d9-196d-463f-906a-a181576fe7ef {font-family: SutonnyMJ;color: #000000;font-style: normal;font-weight: normal;margin: 0;padding: 0;}span.pt-000002dbf875d9-196d-463f-906a-a181576fe7ef {font-family: Times New Roman;color: #000000;font-style: normal;font-weight: normal;margin: 0;padding: 0;}</style></p><p class="pt-00000059713a21-6835-4bcb-b951-801348f01fd2" xmlns="http://www.w3.org/1999/xhtml"><span class="pt-00000159713a21-6835-4bcb-b951-801348f01fd2">&#160;</span><style>span { white-space: pre-wrap; }p.pt-00000059713a21-6835-4bcb-b951-801348f01fd2 {margin-top: 0;margin-bottom: 0;margin-left: 0;margin-right: 0;text-indent: 0.00in;line-height: 108%;}span.pt-00000159713a21-6835-4bcb-b951-801348f01fd2 {font-family: SutonnyMJ;color: #000000;font-style: normal;font-weight: normal;margin: 0;padding: 0;}</style></p><p class="pt-000000909340db-135f-416a-8ae5-166f10e541a3" xmlns="http://www.w3.org/1999/xhtml"><span class="pt-000001909340db-135f-416a-8ae5-166f10e541a3">b&#164;^i e&#200;bt</span><style>span { white-space: pre-wrap; }p.pt-000000909340db-135f-416a-8ae5-166f10e541a3 {margin-top: 0;margin-bottom: 0;margin-left: 0;margin-right: 0;text-indent: 0.00in;line-height: 108%;}span.pt-000001909340db-135f-416a-8ae5-166f10e541a3 {font-family: SutonnyMJ;color: #000000;font-style: normal;font-weight: bold;margin: 0;padding: 0;}</style></p><p class="pt-000000d39c99e8-ccbb-4377-97b3-8c1c19d35fda" xmlns="http://www.w3.org/1999/xhtml"><span class="pt-000001d39c99e8-ccbb-4377-97b3-8c1c19d35fda">†cvjvivqb   Gi ms&#193;v †jLvi Rb&#168; 0.5 b&#164;^i|</span><style>span { white-space: pre-wrap; }p.pt-000000d39c99e8-ccbb-4377-97b3-8c1c19d35fda {margin-top: 0;margin-bottom: 0;margin-left: 0;margin-right: 0;text-indent: 0.00in;line-height: 108%;}span.pt-000001d39c99e8-ccbb-4377-97b3-8c1c19d35fda {font-family: SutonnyMJ;color: #000000;font-style: normal;font-weight: normal;margin: 0;padding: 0;}</style></p><p class="pt-000000f75c6f65-c71a-46ef-9768-41f5423a3c65" xmlns="http://www.w3.org/1999/xhtml"><span class="pt-000001f75c6f65-c71a-46ef-9768-41f5423a3c65">A‡_&#169;vbvB‡U&#170;v‡dbj I c&#168;vivbvB‡U&#170;v‡dbj-Gi MVb AvuKv‡bvi Rb&#168; (0.5</span><span class="pt-000002f75c6f65-c71a-46ef-9768-41f5423a3c65">&#215;</span><span class="pt-000001f75c6f65-c71a-46ef-9768-41f5423a3c65">2=) 01 b&#164;^i|</span><style>span { white-space: pre-wrap; }p.pt-000000f75c6f65-c71a-46ef-9768-41f5423a3c65 {margin-top: 0;margin-bottom: 0;margin-left: 0;margin-right: 0;text-indent: 0.00in;line-height: 108%;}span.pt-000001f75c6f65-c71a-46ef-9768-41f5423a3c65 {font-family: SutonnyMJ;color: #000000;font-style: normal;font-weight: normal;margin: 0;padding: 0;}span.pt-000002f75c6f65-c71a-46ef-9768-41f5423a3c65 {font-family: Times New Roman;color: #000000;font-style: normal;font-weight: normal;margin: 0;padding: 0;}</style></p><p class="pt-000000b82af118-34d8-448d-baa2-e2d9eaf45939" xmlns="http://www.w3.org/1999/xhtml"><span class="pt-000001b82af118-34d8-448d-baa2-e2d9eaf45939">A‡_&#169;vbvB‡U&#170;v‡dbj   I c&#168;vivbvB‡U&#170;v‡dbj-Gi Mjbv&#188; wfbœ nIqvi KviY e&#168;vL&#168;v Kivi Rb&#168; 01 b&#164;^i|</span><style>span { white-space: pre-wrap; }p.pt-000000b82af118-34d8-448d-baa2-e2d9eaf45939 {margin-top: 0;margin-bottom: 0;margin-left: 0;margin-right: 0;text-indent: 0.00in;line-height: 108%;}span.pt-000001b82af118-34d8-448d-baa2-e2d9eaf45939 {font-family: SutonnyMJ;color: #000000;font-style: normal;font-weight: normal;margin: 0;padding: 0;}</style></p>
+                                        </div>
+                            </div>
+                        </div>
+            </div>
+    <div class="col-md-12">
+        <div class="text-center">
+            <a href="/Exam/Question?courseId=2457&routineId=119212&examId=106781" class="uu-button-style-4 question-back-button">Back</a>
+        </div>
+    </div>
+</div>
+
+                    </div>
+
+
+<style>
+    div.uu-footer-top {
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+</style>
+<!-- Start Footer Section -->
+<footer>
+    <div class="container" style="max-width: 1200px !important;">
+        <div class="row uu-footer-top">
+            <div class="col-md-4 col-sm-6">
+                <img class="uu-footer-logo" src="/Content/Image/Udvash-Unmesh-Online-Care-Logo-White.png">
+            </div><!-- end col -->
+
+            <div class="col-md-2 col-sm-6">
+                <h4 class="text-white">Help</h4>
+                <ul class="uu-footer-menu">
+                    <li>
+                        <a href="https://udvash-unmesh.com/AboutUs" target="_blank">About Us</a>
+                    </li>
+                    <li>
+                        <a href="https://udvash-unmesh.com/privacy-policy" target="_blank">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="https://udvash-unmesh.com/terms-conditions" target="_blank">Terms & Conditions</a>
+                    </li>
+                    <li>
+                        <a href="https://udvash-unmesh.com/Faq" target="_blank">FAQs</a>
+                    </li>
+                    <li>
+                        <a href="https://udvash-unmesh.com/ContactUs" target="_blank">Contact Us</a>
+                    </li>
+                </ul>
+
+            </div><!-- end col -->
+
+            <div class="col-md-2 col-sm-6">
+
+                <h4 class="text-white">Explore</h4>
+                <ul class="uu-footer-menu">
+                    <li>
+                        <a href="https://udvash.com" target="_blank">Udvash</a>
+                    </li>
+                    <li>
+                        <a href="https://unmesh.com" target="_blank">Unmesh</a>
+                    </li>                    
+                </ul>
+
+            </div><!-- end col -->
+
+            <div class="col-md-4 col-sm-6">
+                <h4 class="text-white">Get in Touch</h4>
+                <ul class="uu-footer-menu">
+                    <li>
+                        <p class="text-white mb-2">Address: Hossain Tower (5th Floor), 75, Green Road, Farmgate; Sher-e-Bangla Nagar PS; Dhaka-1205.</p>
+                    </li>
+                    <li>
+                        <p class="mb-0"><a class="text-white mb-0" href="tel:09666775566">Helpline: 09666775566</a></p>
+                    </li>
+                    <li>
+                        <p class="text-white mb-0">Email: <a class="text-white mb-0" href="/cdn-cgi/l/email-protection#4b22252d240b3e2f3d2a3823663e25262e382365282426"><span class="__cf_email__" data-cfemail="d3babdb5bc93a6b7a5b2a0bbfea6bdbeb6a0bbfdb0bcbe">[email&#160;protected]</span></a></p>
+                    </li>
+                    <li class="social-icons">
+                        <div class="media form-inline">
+                            <a href="https://www.youtube.com/c/UdvashUnmesh">
+                                <img alt="" src="/Content/Image/youtube.png" />
+                            </a>
+                            <a href="https://www.instagram.com/udvash_unmesh/">
+                                <img alt="" src="/Content/Image/instagram.png" />
+                            </a>
+                            <a href="https://www.linkedin.com/in/udvashunmesh/">
+                                <img alt="" src="/Content/Image/linkedIn.png" />
+                            </a>
+                        </div>
+                    </li>
+                </ul>
+
+            </div><!-- end col -->
+
+        </div><!-- end row -->
+        <!-- end footer top section -->
+
+        <div class="row uu-footer-bottom">
+            <div class="col-12">
+                <p class="text-center">
+                    <span>Copyright &copy; Udvash-Unmesh Online Care. All rights reserved. 2026</span>
+                    | <span>P-1 | V-line-udvash-portal-7d6d995cdf-t9jjq.214.7</span>
+                </p>
+            </div>
+        </div><!-- end row -->
+        <!-- end footer bottom section -->
+
+    </div><!-- end container -->
+</footer><!-- End Footer Section -->
+
+
+<!-- ----------------------------------------------------------------
+    OnnoRokom Analytics M2SaaS
+----------------------------------------------------------------- -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+    // Load analytics after page load with delay
+    window.addEventListener('load', function() {
+        setTimeout(function() {
+            // Create and append iframe
+            var analyticsIframe = document.createElement('iframe');
+            analyticsIframe.id = 'AnalyticsIFrame';
+            analyticsIframe.src = '';
+            analyticsIframe.style.cssText = 'height: 1px; width: 1px; border: none; position: absolute;';
+            document.body.appendChild(analyticsIframe);
+            
+            // Create and append analytics script
+            var analyticsScript = document.createElement('script');
+            analyticsScript.type = 'text/javascript';
+            analyticsScript.src = 'https://onnorokomprojukti.com/lib/m2-analytics.js';
+            document.body.appendChild(analyticsScript);
+        }, 3000);
+    });
+</script>
+
+<!-- ----------------------------------------------------------------
+        Page Scripts
+----------------------------------------------------------------- -->
+<!-- Bootstrap -->
+<script type="text/javascript" src="/Content/UmsTheme/assets/lib/bootstrap/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="/Content/UmsTheme/assets/lib/bootstrap-datepicker/bootstrap-datepicker.js"></script>
+
+<!-- Fontawesome -->
+<script src="/Scripts/bootstrap-datetimepicker.min.js"></script>
+<!-- Common -->
+<script type="text/javascript" src="/Scripts/Common-2.0.js?v=180"></script>
+
+<script type="text/javascript" src="/Scripts/footer.js?v=180"></script>
+        <script src="/Scripts/Notification/notificationCount.js?v=180"></script>
+
+        <!--Online.Udvash-unmesh.com-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-SRED121DT2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'G-SRED121DT2');
+        </script>
+        <!--Online.Udvash-unmesh.com App-->
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z0L5JKWBXW"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
+
+            gtag('config', 'G-Z0L5JKWBXW');
+        </script>
+<script>
+    var appRegistrationNoGlobal = $('.uu-header-wrapper').attr('data-reg-number');
+    var dataSiteName = $('#topHeader').attr('data-site-name');
+</script>
+<!--Browser suggested script-->
+<script src="/Scripts/website-integration.js"></script>                </div>
+            </div>
+        </div><!-- end container -->
+    </div><!-- End Mian Section -->
+    <script>
+        // Global Preloader
+        var preloader = $('#preloader');       
+    </script>
+    
+    <script>
+        MathJax = {
+            chtml: {
+                mtextInheritFont: true,
+            }
+        };
+    </script>
+    <script id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script type="text/javascript" src="/Scripts/PdfJs/pdf.js"></script>
+    <script type="text/javascript" src="/Scripts/jquery.blockUI.js"></script>
+
+    <script type="text/javascript">
+        var base64PdfData = "";
+        var pdfBynaryData = null;
+
+        (function () {
+            let currentPageIndex = 0;
+            let pageMode = 1;
+            let cursorIndex = Math.floor(currentPageIndex / pageMode);
+            let pdfInstance = null;
+            let totalPagesCount = 0;
+            const viewport = document.querySelector("#viewport");
+            window.initPDFViewer = function () {
+                $("#viewport").html('<div id="WaitingForPdf" class="TakeExamHeader" data-report-status="1"><div style="width:10%; float:left;"><div class="loader"></div></div><div style="width:90%; float:left; text-align:left; margin-top:10px;"> <span>Generating....</span></div><div style="clear:both;"></div></div>');
+                pdfjsLib.getDocument({ data: pdfBynaryData }).then(pdf => {
+                    pdfInstance = pdf;
+                    totalPagesCount = pdf.numPages;
+                    render();
+                });
+            };
+
+            function render() {
+                cursorIndex = Math.floor(currentPageIndex / pageMode);
+                const startPageIndex = cursorIndex * pageMode;
+                const endPageIndex = totalPagesCount - 1;
+                const renderPagesPromises = [];
+                for (let i = startPageIndex; i <= endPageIndex; i++) {
+                    renderPagesPromises.push(pdfInstance.getPage(i + 1));
+                }
+                Promise.all(renderPagesPromises).then(pages => {
+                    const pagesHTML = `<div style="width: ${pageMode > 1 ? "50%" : "100%"
+                        }"><canvas></canvas></div>`.repeat(pages.length);
+                    viewport.innerHTML = pagesHTML;
+                    pages.forEach(renderPage);
+                });
+            }
+
+            function renderPage(page) {
+                var oldPdfViewport = page.getViewport(1);
+                const container =
+                    viewport.children[page.pageIndex - cursorIndex * pageMode];
+                console.log("container.offsetWidth / oldPdfViewport.width", container.offsetWidth / oldPdfViewport.width);
+                var scale = (container.offsetWidth / oldPdfViewport.width) < 1.5 ? 1.5 : (container.offsetWidth / oldPdfViewport.width);
+
+                var pdfViewport = page.getViewport(scale);
+                // Support HiDPI-screens.
+                var outputScale = window.devicePixelRatio || 1;
+                oldPdfViewport = page.getViewport(container.offsetWidth / oldPdfViewport.width);
+                const canvas = container.children[0];
+
+                canvas.width = Math.floor(pdfViewport.width * outputScale) - 20;
+                canvas.height = Math.floor(pdfViewport.height * outputScale);
+                canvas.style.width = Math.floor(oldPdfViewport.width) + "px";
+                canvas.style.height = Math.floor(oldPdfViewport.height) + "px";
+
+                var context = canvas.getContext('2d');
+                var transform = outputScale !== 1
+                    ? [outputScale, 0, 0, outputScale, 0, 0]
+                    : null;
+
+                var renderContext = {
+                    canvasContext: context,
+                    transform: transform,
+                    viewport: pdfViewport
+                };
+                page.render(renderContext);
+            }
+        })();
+
+        function downloadFile(filePath) {
+            var request = new XMLHttpRequest();
+            request.open('GET', filePath, true);
+            request.responseType = 'blob';
+            request.onload = function () {
+                var reader = new FileReader();
+                reader.readAsDataURL(request.response);
+                reader.onload = function (e) {
+                    base64PdfData = e.target.result;
+                    base64PdfData = base64PdfData.replace("data:application/pdf;base64,", "");
+                    pdfBynaryData = atob(base64PdfData);
+                    initPDFViewer();
+                };
+            };
+            request.send();
+        }
+
+        function getExt(filename) {
+            var dot_pos = filename.lastIndexOf(".");
+            if (dot_pos == -1) {
+                return "";
+            }
+            return filename.substr(dot_pos + 1).toLowerCase();
+        }
+
+        function isPdf(filename) {
+            var ext = getExt(filename);
+            if (ext == "pdf") return true;
+            else return false;
+        }
+
+        $(document).ready(function () {
+            screen.orientation.addEventListener('change', function () {
+                initPDFViewer();
+            });
+
+            if ($("#mcqAnalysisPdf").length > 0) {
+                var pdflink = $("#mcqAnalysisPdf").val();
+                if (pdflink != "" && pdflink != "undefined" && isPdf(pdflink)) {
+                    downloadFile(pdflink);
+                }
+            }
+        });
+
+        $(document).ready(function () {
+            let params = new URLSearchParams(window.location.search);
+            let type = params.get("sheetType");
+            if (type && type === "solvesheet") {
+                let questionback = $('.question-back-button').attr('href') + '&sheetType=solvesheet';
+                $('.question-back-button').attr('href', questionback);
+            } else {
+                let questionback = $('.question-back-button').attr('href');
+                $('.question-back-button').attr('href', questionback);
+            }
+        });
+    </script>
+   
+</body>
+</html>

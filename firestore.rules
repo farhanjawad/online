@@ -1,0 +1,57 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Admin = any Firebase-authenticated user.
+    function isAdmin() {
+      return request.auth != null;
+    }
+
+    // ── scheduled_exams ──────────────────────────────────────────────────────
+    match /scheduled_exams/{examId} {
+      allow read:                   if true;
+      allow create, update, delete: if isAdmin();
+    }
+
+    // ── student_allowlist ────────────────────────────────────────────────────
+    // get  (fetch by exact ID): public — used by the /api/auth/student route.
+    // list (query/scan):        admin-only — prevents enumerating all IDs.
+    match /student_allowlist/{studentId} {
+      allow get:                    if true;
+      allow list:                   if isAdmin();
+      allow create, update, delete: if isAdmin();
+    }
+
+    // ── exam_results ─────────────────────────────────────────────────────────
+    // Doc IDs follow the deterministic pattern:  {examId}__{studentId}
+    //
+    // WHY get IS public:
+    //   hasStudentAttempted() does a getDoc() on this exact pattern.
+    //   When the doc does NOT exist yet (first attempt), Firestore sets
+    //   resource = null — so any rule that checks resource.data will deny
+    //   the read and block the student from ever starting the exam.
+    //   Allowing get by doc ID is safe because:
+    //     • You must know BOTH the examId AND the exact studentId to form the
+    //       correct path — there is nothing to guess.
+    //     • list stays admin-only, so no one can dump all results.
+    //
+    // WHY list IS admin-only:
+    //   Prevents any client from querying / scanning the collection.
+    //
+    // WHY create IS public:
+    //   Students have no Firebase Auth. The deterministic doc ID is the
+    //   write-once guard (app logic calls setDoc, not addDoc).
+    //
+    // WHY update/delete require admin:
+    //   Prevents students from tampering with submitted results.
+
+    match /exam_results/{resultId} {
+      allow get:            if true;
+      allow list:           if isAdmin();
+      allow create:         if true;
+      allow update, delete: if isAdmin();
+    }
+
+  }
+}

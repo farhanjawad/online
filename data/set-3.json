@@ -1,0 +1,112 @@
+[
+  {
+    "question_html": "<p>What is the Pythagorean theorem?</p>",
+    "options_html": [
+      "<p>$a^2 - b^2 = c^2$</p>",
+      "<p>$a^2 + b^2 = c^2$</p>",
+      "<p>$a + b = c$</p>",
+      "<p>$a^3 + b^3 = c^3$</p>"
+    ],
+    "correct_answer_html": "<p>$a^2 + b^2 = c^2$</p>",
+    "solution_html": "<p>In a right-angled triangle, the square of the hypotenuse equals the sum of squares of the other two sides.</p>"
+  },
+  {
+    "question_html": "<p>Which blood type is known as the universal donor?</p>",
+    "options_html": [
+      "<p>A+</p>",
+      "<p>AB+</p>",
+      "<p>O−</p>",
+      "<p>B−</p>"
+    ],
+    "correct_answer_html": "<p>O−</p>",
+    "solution_html": "<p>O− (O negative) is the universal donor for red blood cells as it lacks A, B, and Rh antigens.</p>"
+  },
+  {
+    "question_html": "<p>The atomic mass of Carbon is approximately:</p>",
+    "options_html": [
+      "<p>6</p>",
+      "<p>12</p>",
+      "<p>14</p>",
+      "<p>16</p>"
+    ],
+    "correct_answer_html": "<p>12</p>",
+    "solution_html": "<p>Carbon-12 is the most abundant isotope, giving Carbon an atomic mass of approximately 12 u.</p>"
+  },
+  {
+    "question_html": "<p>Which organ produces insulin in the human body?</p>",
+    "options_html": [
+      "<p>Liver</p>",
+      "<p>Kidney</p>",
+      "<p>Pancreas</p>",
+      "<p>Thyroid</p>"
+    ],
+    "correct_answer_html": "<p>Pancreas</p>",
+    "solution_html": "<p>The beta cells of the pancreas produce insulin to regulate blood glucose levels.</p>"
+  },
+  {
+    "question_html": "<p>In which year did World War II end?</p>",
+    "options_html": [
+      "<p>1943</p>",
+      "<p>1944</p>",
+      "<p>1945</p>",
+      "<p>1946</p>"
+    ],
+    "correct_answer_html": "<p>1945</p>",
+    "solution_html": "<p>World War II ended in 1945 with Germany's surrender in May and Japan's in September.</p>"
+  },
+  {
+    "question_html": "<p>The logarithm $\\log_{10}(1000)$ equals:</p>",
+    "options_html": [
+      "<p>2</p>",
+      "<p>3</p>",
+      "<p>4</p>",
+      "<p>10</p>"
+    ],
+    "correct_answer_html": "<p>3</p>",
+    "solution_html": "<p>$\\log_{10}(1000) = \\log_{10}(10^3) = 3$.</p>"
+  },
+  {
+    "question_html": "<p>Which part of the brain controls balance and coordination?</p>",
+    "options_html": [
+      "<p>Cerebrum</p>",
+      "<p>Cerebellum</p>",
+      "<p>Medulla oblongata</p>",
+      "<p>Hypothalamus</p>"
+    ],
+    "correct_answer_html": "<p>Cerebellum</p>",
+    "solution_html": "<p>The cerebellum coordinates voluntary movements, balance, and fine motor control.</p>"
+  },
+  {
+    "question_html": "<p>What is the chemical symbol for Gold?</p>",
+    "options_html": [
+      "<p>Gd</p>",
+      "<p>Go</p>",
+      "<p>Au</p>",
+      "<p>Ag</p>"
+    ],
+    "correct_answer_html": "<p>Au</p>",
+    "solution_html": "<p>Gold's symbol Au comes from the Latin word 'Aurum'.</p>"
+  },
+  {
+    "question_html": "<p>Which of the following is a vector quantity?</p>",
+    "options_html": [
+      "<p>Mass</p>",
+      "<p>Temperature</p>",
+      "<p>Speed</p>",
+      "<p>Velocity</p>"
+    ],
+    "correct_answer_html": "<p>Velocity</p>",
+    "solution_html": "<p>Velocity has both magnitude and direction, making it a vector quantity. Speed is a scalar.</p>"
+  },
+  {
+    "question_html": "<p>Ohm's Law states that $V = ?$</p>",
+    "options_html": [
+      "<p>$I + R$</p>",
+      "<p>$I \\times R$</p>",
+      "<p>$I / R$</p>",
+      "<p>$I^2 \\times R$</p>"
+    ],
+    "correct_answer_html": "<p>$I \\times R$</p>",
+    "solution_html": "<p>Ohm's Law: $V = IR$, where V is voltage, I is current, and R is resistance.</p>"
+  }
+]
